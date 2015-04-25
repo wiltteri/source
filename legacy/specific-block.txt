@@ -133,7 +133,6 @@
 ||canadansanomat.com/graphics/l_
 ||canadansanomat.com/graphics/vapaasana.gif
 ||cancer.fi/res/default20*/img/sponsors
-||capnova.com/~funcfood/pakkotoisto/
 ||caravankauppa.com/bannerit/
 ||central.navigo.fi/bannerit/
 ||centrofinlandia.fi^*banner
