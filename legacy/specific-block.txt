@@ -233,7 +233,6 @@
 ||f1-forum.fi^*/*banner
 ||faces.fi/sumuSHOP/kuvat/yhteistyokumppanit
 ||fantasiapelit.com/sotavasara/$subdocument
-||farkku.com/idevaffiliate/banners/
 ||farmit.net/farmit/kuvat/Bannerit/
 ||fast.fi/images/stories/banner
 ||fast.fi/pakkotoisto
@@ -1021,7 +1020,6 @@
 ||pokerimestari.com/bannerit/
 ||pokerisivut.com/resources/images/skins/
 ||pokeritieto.fi/images/bannerit/
-||poliisi-biitsi.com/adv/
 ||poliisi-biitsi.com/pics/nebula.jpg
 ||polkupyoraily.net^*/partners/
 ||pomoselka.fi/images/logot/pomoselka-logot_
@@ -1566,7 +1564,6 @@
 ||vuokatti.fi/binary/file/-/fid/1655
 ||vuokatticampus.fi/images/ban
 ||vuokralaistenkeskusliitto.fi/bannerit/
-||vuokraovi.com^*/EAS_fif.html
 ||vuokraturva.fi/images/keskusliitto.png
 ||vuokraturva.fi/images/vuokranantajat.png
 ||vuosaari.fi/images/stories/Logot/

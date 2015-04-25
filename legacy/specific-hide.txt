@@ -1015,7 +1015,6 @@ kuntokuu.fi###footer
 kuntoutusportti.fi##img[src$="/ray_tukee_pieni.gif"]
 kuolo.fi###linkcat-3
 kuono.fi##.banner
-kuono.fi##.widget_adsingle
 kuopio.fi##IMG.front-linkimage
 kuopiodancefestival.fi##TD > A[target="pois"] > IMG
 kuopiodancefestival.fi##TD.kalenteri
@@ -1303,7 +1302,6 @@ metalfromfinland.com###heading > A:first-child
 metallitori.com###column > center > a > img
 metkaweb.fi###sidebar2
 metku.net##TD[align="center"] > A > IMG
-metro.fi##.ads-ad
 metro.fi##div[style*="width:375px; height:250px;"]
 metrohelsinki.fi##.ad
 metropoli.net##.hentry-sidebar
@@ -1750,7 +1748,6 @@ radiopooki.fi###konsernipalkki
 radiopori.fi###eazy-corner
 radiorex.fi##.banneritem
 radiorex.fi##.news_ad
-radiorock.fi##.ad-content
 radiosputnik.fi##TD > A:first-child > IMG
 radiosuomipop.fi##.ad
 radiosuomipop.fi###banner1
@@ -1924,7 +1921,6 @@ sastamala.fi##.vasen_sisalto
 satahamesoi.fi##table.Bottom
 satakunnankansa.fi##.adContainer
 satakunnankansa.fi##div[style*="width:956px; height:190px;"]
-satakunnanviikko.fi##.adslist
 sateenkaariperheet.fi##table[width="980"] > tbody > tr:nth-of-type(6) h3[style="text-align: center;"]
 sateenkaariperheet.fi##table[width="980"] > tbody > tr:nth-of-type(6) p[style="text-align: center;"]
 sato.fi##.frontpageMedia
