@@ -944,7 +944,6 @@
 ||pakkotoisto.com/fast/
 ||pallokarhut.fi/jalkapallo/images/banners/
 ||pallokarhut.fi/lentopallo/logot/
-||palloliitto.fi^*/sponsor-main-logo/
 ||palvelut.hameensanomat.fi/wp-content/rtm/
 ||palvelut.uusisuomi.fi/wp-content/rtm/nosto/cache/us1.js
 ||pan.fotovista.com/tradebanner/europe_nord/pixmania/
@@ -1463,7 +1462,6 @@
 ||ulvila.fi/images/kettumetsa.gif
 ||ulvila.fi/images/nahkamuseo.gif
 ||umami.fi/banners/
-||unelmacuppi.fi/UserFiles/Image/
 ||unibet.com/banners/
 ||untorock.com/img/*sponsorit
 ||untorock.com/kumppanit/
