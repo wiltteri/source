@@ -812,10 +812,6 @@ kaksplus.fi##.om-magazines
 kalajoenjuhannus.com###logot
 kalakortti.com##img[src$="/VeneBat_eivuotta.jpg"]
 kalastajan.info##.sbicontent
-kaleva.fi###banner-top
-kaleva.fi##.ads
-kaleva.fi##.block-tarjousmylly-paivan-vinkit
-kaleva.fi##.block-tarjousmylly-rekry
 kalevalasyndicate.fi##DIV > IMG
 kalliolainen.com##TABLE.leipis
 kalorilaskuri.fi##.mmargin
