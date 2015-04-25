@@ -202,7 +202,6 @@ digitoday.fi###vmmFooter
 digitoday.fi##div[class^="hintaseuranta"]
 digitoday.fi##div[class="ad"]
 digitoday.fi##div[class="taloussanomat-headlines"]
-digivideo.fi##P[style="text-align: center;"]
 djay.fi###banneri
 docpoint.info##.maino
 dome.fi##.om-magazines

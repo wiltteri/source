@@ -170,7 +170,6 @@
 ||digitoday.fi/feeds/nosto/
 ||digitoday.fi/radiohelsinkibox.html
 ||digitoday.fi/uutisikkuna.php
-||digivideo.fi/files/mainostajat/
 ||diilit.com/*_spot.html
 ||docpoint.info^*/maino/
 ||dome.fi/headlines$third-party
