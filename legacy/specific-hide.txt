@@ -233,7 +233,6 @@ edupoli.fi###sidebar2 A > IMG
 egmontshop.fi##.NavigationText.NavBarElement2
 egorazzi.com##.module-content > CENTER > IMG
 egorazzi.com##.module-content P[style="text-align: center;"] IMG
-ejy.fi##TD#dnn_BottomPane
 ekamo.fi##.moduletable + DIV.moduletable
 ekamo.fi##.sisalto_oikea
 eklu.fi##TD.homeRightCol
