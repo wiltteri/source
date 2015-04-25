@@ -1,0 +1,16 @@
+adulttv.fi##.box_main_sisalto_sisaltotila a[target="_blank"] > img
+alastonsuomi.com##.jb
+alastonsuomi.com##.sb
+livechat.fi###frontrow
+livechat.fi###header td:not(:first-child)
+porno-videot.com###footer img
+seksi.fi##.bannerlink
+seksisalonki.fi##.divBoxiBannerimainos
+seksitreffit.fi##.etusivuvasen
+seksitreffit.fi##table[width="1024"][bgcolor="#d31517"]
+seksitreffit.org###topbar
+seksitreffit.org##.banner
+seksitreffit.org##.menu > center
+seksitreffit.org##center:first-of-type
+seksitreffit.org##h3 + * + center
+turunerotiikkamessut.com###block-views-yhteisty-kumppanit-block

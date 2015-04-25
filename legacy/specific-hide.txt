@@ -1,0 +1,2773 @@
+a-kiltojenliitto.fi###bottom
+aamukampa.net##.mainosteksti
+aamulehti.fi##.adContainer
+aamulehti.fi##map[name="mpMap"]
+aamuposti.fi###block-lehtiyhtyma_site-ads_emediate_boksi_1
+aamuposti.fi###block-lehtiyhtyma_site-ads_emediate_boksi_2
+aamuposti.fi###block-lehtiyhtyma_site-ads_emediate_boksi_3
+aamuposti.fi###page-top
+aamuposti.fi##.region-sidebar-karuselli-ad
+aamuset.fi###block-views-etusivukaruselli-block
+aamuset.fi###block-views-mainoskaruselli-block
+aamuset.fi###page-top
+aamuset.fi###sidebar-second
+aapeli.com###main_games_mid_center:first-child:last-child > div.ad:first-child
+aapeli.com###padright
+aarnealligaattori.fi##P.style3 > A > IMG
+aarremaanalla.com###top_banner
+aawg.fi###mainfooter a.logolink
+abc.fi##TD.banneri_bannerit
+acdcrocksfinland.com###indexfooter
+acehanke.fi##TD + TD > IMG
+acoulu.fi###footer
+adoptioperheet.fi##p[align="center"] > a > img
+adressit.com##div[class="adTop"]
+adressit.com##p[class^="underMenuAd"]
+adventra.fi##table[width="700"]
+agronomiliitto.fi##DIV[style="margin-left: 29px; margin-top: 10px;"]
+ahtarinelainpuisto.fi###SAContent6 > .Teksti
+ahtarinelainpuisto.fi###SAContent7
+aijaa.com###ad1
+airporttaxi.fi###finavia
+aivovammaliitto.fi##img[src$="ray.jpg"]
+ajantappo.fi###banner
+akkukauppa.com##TD[style="vertical-align: top; text-align: center;"]
+alfmix.fi##.campaign
+alibi.fi##.hymy-nosto
+alibi.fi##.om-magazines
+aloitekanava.fi##.BottomBanner
+alueviesti.fi##.mainos-reunapalkissa
+alueviesti.fi##.textwidget > a[target="_blank"] > img
+alueviesti.fi###above-everything
+alypaa.com##div:first-child:last-child > div:first-child + div:last-child > a
+alypaa.com##LI.right-col-box.ad
+ammattiautot.fi###top-banner-wrapper
+ammattiautot.fi##.banners
+ammattilehti.fi##.bannerbox
+ammattinetti.fi###promoContent
+amoriini.com##.newspadding IMG
+ampparit.com##.ad-lazy
+ampparit.com##.content-box.fullwidth + DIV
+ampparit.com##.footer-copyright > A > IMG
+ampparit.com##.header > DIV
+ampparit.com##.header > OBJECT
+ampparit.com###clickable-background
+ampparit.com###clickable-background-continue
+ampparit.com###clickable-header
+ampparit.com###content div[style$="border-width: 2px 0; border-style: solid; background: #fff;"]
+ampparit.com###top-ad-spacer
+ampparit.com##DIV[class^="ad"]
+ampparit.com##DIV[style="border-color: rgb(221, 0, 0); border-width: 2px 0pt; border-style: solid; background: none repeat scroll 0% 0% rgb(255, 255, 255);"]
+ampparit.com##DIV[style="width: 300px; height: 250px; overflow: hidden;"]
+ampumaurheiluliitto.fi##.banner
+amyrock.org###right a[target="_blank"] > img
+androidsuomi.fi###mainmodules
+androidsuomi.fi##a[href*="androidsuomi.fi/counter/click.php?"]
+ankkarock.fi##.banner_container
+ankkarock.fi###top_banner:last-child
+ankkarock.fi###upper_banner_container
+anna.fi###ruokafiad2
+anna.fi##.banner-box > div[style^="width: 290px; height: 250px;"]
+anna.fi##.banner-box > div[style^="width: 300px; height: 250px;"]
+anna.fi##.om-magazines
+anns-bakery.com##center > table > tbody > tr:last-child
+anns-bakery.com##img[src$="/anns-bakery-150x100.jpg"]
+anttila.fi##.sidebar.rightbar > DIV.banner
+anttolansanomat.fi##SPAN > A > IMG[style="border: 0px solid; width: 270px; height: 527px;"]
+anttolansanomat.fi##SPAN > IMG[style="border: 0px solid; width: 270px; height: 400px;"]
+anttolansanomat.fi##TR > TD + TD > DIV[style="text-align: center;"]
+apeced.org###logot
+apriljazz.fi###left a[target="_blank"]
+apriljazz.fi###right > a[target="_blank"]
+apteekit.org###bannerit1p
+apteekkituotteet.fi##.CategoryList > CENTER
+apteekkituotteet.fi##.NavigationText.NavBarElement4
+arcticgym.fi###sidebar > A > IMG
+arkisto.sydanliitto.fi###banners_small
+aromilehti.fi##.partner-top-wrapper
+aromilehti.fi###banners-left
+aromilehti.fi###banners-right
+aromilehti.fi###top-banner2
+artgoeskapakka.fi###logos
+artikla.com###spons
+artikla.com###spons_footer
+aspalsta.net##BR + CENTER
+asunnot.oikotie.fi###banners
+asunnot.oikotie.fi###etua-calculator
+asunnot.oikotie.fi###etua-lite-calculator
+asuntomessut.fi##.button + P
+asuntotieto.com##td[width="150"]
+atoplkv.fi##TD[valign="bottom"] > A > IMG
+audiclub.fi##td[height="90"]
+audiovideo.fi##.view-mainospaikka-j-ttibanneri
+audiovideo.fi##.view-mainospaikka-suurtaulu-vasen
+audiovideo.fi##.view-panoraama-mainospaikka
+audiovideo.fi###block-views-mainospaikka-suurtaulu-block
+aukusti.fi###container > p[style="text-align: center;"]
+auranaallot.fi##TD.banneri_vasen
+auranaallot.fi##TD.banneri_yla
+auranaallot.fi##TD.sisalto_keski TD > DIV[align="center"]
+auranaallot.fi##TD.valikko_oikea
+aurinkogolf.fi###block-block-3
+aurinkomatkat.fi##P#extlinks > A#finnair
+autismiliitto.fi##img[src="/ray.gif"]
+autoliitto.fi##.banner
+autolomat.fi###lipsum TD
+autolomat.fi##DIV > BR + A > IMG
+autolomat.fi##TD > P + P > A > IMG
+autolomat.fi##TD#colu3
+autoluettelo.fi###banner-shadow
+automaatioseura.com###yoo-scroller-1
+autopartner.fi##.boxcontent > TABLE
+autopartner.fi###navi A
+autot.oikotie.fi###commercial
+autot.oikotie.fi###commercial-2
+autotalli.com##.motoServiceAdvertisement
+autotalli.com###boxAdvertisement
+autotalli.com###partnerAdvertisementsWrapper
+autotalli.com###rightBanner
+autotalli.com###rightContent > #frontPageArticles
+avainahjo.fi##TD.box
+avantimusic.fi###sponsor
+avoimet.com##.kapeat_kirjaimet.f10px.teksti_oikealle.oikea_marginaali
+avoimet.com##.kuvateksti
+avoimet.com##CENTER + * > IMG
+avoimet.com##TD > CENTER + IMG
+avoinoppikirja.fi##footer
+backyardrock.com###right
+banner.mobicross.net###mediaad_id_msg_container
+barpraha.fi###banneri
+barrikadi.fi###block-aggregator-feed-2
+barrikadi.fi###block-block-1
+basket.fi##.banner
+basket.fi##.banners
+basket.fi##.menossa-mukana
+bestofhelsinki.fi###box3
+bestofhelsinki.fi###footerRight
+bewi-dog.net##P[align="center"]
+biitsi.fi###sponsors-container
+bilebandit.fi##.alapalkki
+bilebandit.fi##TD.sisalto_oikea
+biocom.fi##TD[style="padding-top: 145px;"]
+biogrand.fi###banners
+biosculpture.fi##H1 + P + BR + P > A > IMG
+birdieisland.com##DIV[style="padding: 2px; text-align: center;"]
+birdlandjazzclub.fi###radio
+birdlandjazzclub.fi##P + A > IMG
+bisnesmiehet.com##IMG[style="margin-left: 40px;"]
+bjjliitto.fi##div[style="width:500px;float:left;font-size:12px;height:100px;border-right:1px solid #ddd;text-align:right;"]
+blogilista.fi##.is-navi-container
+blogit.fi##a[href^="http://tracking.euroads.fi"]
+blues-finland.com##TABLE[width="142"] TD > A > IMG
+bluesnews.fi##th[width="145"] p.style29
+bluesnews.fi##th[width="145"] a[target="top"]
+bluesnews.fi##th[width="366"] hr:last-of-type + p.style15
+bluesnews.fi##th[width="366"] hr:last-of-type + p.style15 + table[width="300"]
+bookplus.fi##.bookplus-temp + * > DIV.content-container
+boostep.fi##.BannerBlock
+boostep.fi##.RightBannerBlock
+botniagames.fi##.toLeft > div > div:nth-last-of-type(-n+2)
+boxing.fi##.mainokset_ulko
+boy.fi##.advs
+boy.fi###ja-banner
+budget.fi###powered
+budosport.fi###freetextbox
+businesscollege.fi###sertifikaatit
+buumi.net##.banner
+c-style.fi##.col1 IMG
+camping.fi###MainContentRight
+caravan-lehti.fi###zone-bottom2s
+cc-kilta.fi##P.harmaatekstipieni IMG
+cc-kilta.fi##TD.taustaoikea
+cetus.fi##TD[style="width: 170px; padding-left: 20px;"]
+changemaker.fi##IMG[style="position: absolute; top: 0pt; left: 0pt;"]
+chicos.fi###rightcol
+city.fi###citybox
+city.fi##TD[style="padding: 0pt;"]
+city.fi##TD#td_topbanner
+cityvarasto.fi##.content > p.rteright img.thinglinkFiltered
+classicrocksuomi.com###bannerouter
+clubliberte.fi##TD > P > A > IMG
+clubliberte.fi##TD[width="150"]:last-child > A > IMG
+cmsclub.fi###sidelist_banners_bottomcenter
+collieyhdistys.fi##img[src="RC.jpg"]
+como.fi##UL.pro15
+corgiseura.net##img[src$="Royal_Canin_front.jpg"]
+corner.fi###col-right-sidebar
+cosme.fi##IMG[height="66"]
+cosme.fi##IMG[width="72"][height="33"]
+cosmopolitan.fi###smfFooter
+coss.fi###sponsorlogos
+costume.fi##.costume-message
+creativeleadership.fi###footer
+cumulus.fi###top_banner
+cybermanshow.fi##img[width="250"][height="250"]
+dahl.fi##DIV[style="position: relative; z-index: 1;"] IMG
+dantes.fi###rightCol > A > IMG
+danteshighlight.fi###banneri
+dbtl.fi###rbeat-logo
+decens.fi##.footer_banners
+deifestival.fi##td[background*="taustakuvat/yhteistyomoduuli"]
+deittisirkus.com###carousel0
+demari.fi###banner-left
+demari.fi###banner-top
+demotus.com##DIV[style="padding-left: 10px; padding-top: 50px;"]
+designforum.fi###leftcol IMG
+devilskuopio.fi##DIV[align="center"]
+dexviihde.fi##.footer
+digishop.fi##TABLE[cellspacing="5"]
+digitoday.fi##.newsFrontAd
+digitoday.fi###adsOnRight
+digitoday.fi###hsframeContainer
+digitoday.fi###vmmFooter
+digitoday.fi##div[class^="hintaseuranta"]
+digitoday.fi##div[class="ad"]
+digitoday.fi##div[class="taloussanomat-headlines"]
+digivideo.fi##P[style="text-align: center;"]
+djay.fi###banneri
+docpoint.info##.maino
+dome.fi##.om-magazines
+dubliner.fi###banneri
+duoduo.fi##img[src$="/933345_orig.gif"]
+duunia.net##TD[width="140"]
+dvdopas.fi###margincontent
+dvdopas.fi###poweredby
+dvdopas.fi###poweredby_hevi
+dvdplaza.fi###ad_global_below_navbar
+dvdplaza.fi##.ss_rightcolumn_index
+dvdplaza.fi##td[width="100%"] > table[width="100%"][cellpadding="10"][align="center"] a > img
+e-finland.org###add_468
+e-finland.org###area_ads
+e-finland.org###area_info2
+e-finland.org###area_sponsors
+e-mielenterveys.fi##img[src^="RAY_Tukee.gif"]
+eastway.fi##A + A > IMG
+eastway.fi##BR + IMG + BR + A > IMG
+eastway.fi##DIV[style="float: right; padding-right: 10px; padding-top: 8px;"]
+eastway.fi##IMG + P[style="text-align: center;"]
+eastway.fi##IMG[style="border: medium none;"]
+eastway.fi##TD[style="padding-right: 20px;"]
+easyholiday.fi##TD[valign="top"][align="center"]
+easylaina.fi##DIV[style="text-align: center;"]
+easyshopping.fi###banner_side
+eat.fi###makuja-head-link
+eazybreak.com##.logoSpace:last-child img
+eckeroline.fi###ctl00_cphRightBar_rightBar TD[align="center"]
+eckeroline.fi###ctl00_cphRightBar_UcWeather1_pnlFinnish + * TD
+edukouvola.fi##DIV[align="center"]
+edupoli.fi###content2 > DIV:first-child
+edupoli.fi###sidebar2 A > IMG
+egmontshop.fi##.NavigationText.NavBarElement2
+egorazzi.com##.module-content > CENTER > IMG
+egorazzi.com##.module-content P[style="text-align: center;"] IMG
+ejy.fi##TD#dnn_BottomPane
+ekamo.fi##.moduletable + DIV.moduletable
+ekamo.fi##.sisalto_oikea
+eklu.fi##TD.homeRightCol
+ekval.fi##TD[height="57"]
+elainlaakari.fi###sidebar > A > IMG
+elainlaakari.fi###sidebarright
+elamalapselle.fi###partners
+elamasivakuutus.fi###banners
+eliittikisat.fi###footer
+elisa.net###wrapelement_ads_right DIV
+elitisti.net###sponsor-area
+elixir.fi##.content_box_wide IMG.banner_image
+elixir.fi###footer > IMG.footer_logo
+ellit.fi###topadwrapper
+ellit.fi##.ad
+ellit.fi##.om-magazines
+elojazz.com###showbiz_kumppanit2014_1
+ellos.fi###spotBottom
+enzoy.net##TD + TD[valign="top"]
+episodi.fi##UL.pro15
+epressi.com##.references
+epshockey.com###zone-left
+erakala.fi##img[src$="/logo_Suomen_MKP.jpg"]
+eralehti.fi##.om-magazines
+eroticashop.net##TD > P > A > IMG
+esaimaa.fi##.banner_right
+esaimaa.fi##.banner_top
+esaimaa.fi##.fader-classifieds
+esaimaa.fi##.tsFrameContainer
+esavo.fi##.qp
+esavo.fi##DIV[style="text-align: center;"] > A > IMG
+esitetilaus.fi###ylaosa EMBED
+esp.fi###right-column-wrapper
+espanja.org###sidebar-left a[rel="nofollow"] > img
+espanjanlomat.fi##DIV[style="float: right; margin: 20px;"] IMG
+espanjanvesikoirat.fi###banner1
+espoocine.fi##IMG[style="width: 853px; height: 123px;"]
+espoonnuorisoasunnot.fi##img[src$="/nallogonormikoko.jpg"]
+espoonnuorisoasunnot.fi##img[src$="/RAY_Tukee_CMYK_CS2.gif"]
+espoonoilers.fi##.bannerbox
+espoonpalloseura.fi###sidebar a > img
+espoonpesis.fi##img[src$="/140x140-fi.gif"]
+espoonpesis.fi##img[src$="/Fressi_logo3.jpeg"]
+espoonpesis.fi##img[src$="/karhu.gif"]
+espoonpesis.fi##img[src$="/Tempur.jpeg"]
+espoontikka.fi##TD.captionModel0 + * IMG
+espoontikka.fi##TD.captionModel0[style="width: 110px;"] IMG
+ess.fi##.ad
+etalouspro.fi###mainfooter a.logolink
+etapahtuma.fi##SPAN.normal + DIV
+etatyopaiva.fi###idaho
+etatyopaiva.fi###mukana_logot
+etela-karjala.fi##.LaatikkoKuvalinkit DIV.LaatikkoLinkki
+etelapohjanmaa.fi##TD[align="right"]
+etujoukkohelsinki.fi###content-edut-right
+etujoukkohelsinki.fi###new-content-banners
+etujoukkohelsinki.fi###top-banner
+etuovi.com###ads_col_right
+etuovi.com###ads_col_right_ip
+etuovi.com###etusivu_kl_nostopala
+etuovi.com###panorama_top
+etusivu.net###canadansanomat
+etusivu.net##TD[valign="middle"]
+euroclub.fi##.box + DIV.box
+event-travel.fi###official_partners
+event-travel.fi###partners
+everlast.fi##P > A > IMG
+everlast.fi##TD > TABLE + * TD[style="text-align: center;"] > A > IMG
+eviju.fi##DIV[style="margin: 10px 0pt 0pt;"] IMG
+evl.fi##.banneri
+f1-forum.fi##iframe[src^="http://ajantappo.fi/"]
+f-cup.fi###text-3
+faces.fi###secondary
+fatalii.net##HR + A > IMG
+fbtpori.fi##BR + CENTER
+fc.tps.fi###nostokuvat_rivi2
+fchaka.fi##.moduletable_left_banners
+fchaka.fi##.outside
+fchonka.fi###honkaponssit
+fcinter.com##BR + A > IMG
+fcinter.com##TABLE.runko6 TD > CENTER
+fcjjk.com##.Block + * CENTER
+fcjjk.com##.Footer-inner
+fcjjk.com##HR + CENTER > TABLE[border="0"]
+fckontu.fi##.content-container TR > TD > A > IMG
+fckontu.fi###token-147367 > DIV.content-container > TABLE.contentFrame
+fckuusysi.fi###palsta_right > div#black_top:first-of-type
+fckuusysi.fi###sponsor_images
+fclahti.fi###logoslider
+fclahti.fi###mainsponsors
+fclahti.fi##.veikkausbox
+fcreipas.fi##.banneriboxi_980
+feissarimokat.com###adzone1-top
+feissarimokat.com###fixedtower
+fennia.fi##TD[align="center"]
+fera.fi##TD[align="center"] > A > IMG
+festarit.fi###fp-downloads-box
+festarit.fi###page-banners-between
+festarit.fi###page-banners-footer
+festarit.org##DIV[style="text-align: center;"]
+festivals.fi##.wrapper.foot
+feto.fi##TD + TD[valign="top"][align="left"]
+ffp-motorsport.com###mainright
+fi.msn.com##.rowArea + * + DIV.rowArea
+fi.msn.com###msnie8
+fi##.bannerlist
+fi###hsfiHslice
+fi##img[title="RAY tukee"]
+fillarikalenteri.fi###footer
+fillarikalenteri.fi###right_banner
+fillarikalenteri.fi###top_banner_ad
+fillarikellari.fi###footer
+fillarikellari.fi###main_col1 > A > IMG
+fillarikellari.fi##DIV > P + A > IMG
+filmtown.fi##TD.mainbannertd
+filmtown.fi##TD.maincentertd2
+fin.afterdawn.com###ad-front-page-300x250-placeholder
+fin.afterdawn.com###midfeed-promo
+fin5.fi##.partners.clear
+fin5.fi##.supportbanner1
+fin5.fi##.supportbanner2
+fin5.fi##DIV[align="center"]
+finbelge.fi##img[src$="/toimtuk.jpg"]
+findance.com##a[href*="tradedoubler."]
+findance.com##div[id^="mediaad"]
+finfun.fi###homeflashcontent
+finfun.fi##IMG[style="border: 0px solid;"]
+finhockey.fi###yhteistyo
+finhockey.fi###zone-_main .banner
+finhockey.fi##img[src$="/051077.jpeg"]
+finhockey.fi##img[src$="/491087-470541.jpg"]
+finlandiamarathon.fi##.content-container > H4
+finlandiamarathon.fi##.content-container TD > A > IMG
+finlandiamarathon.fi##.token.token-Content + DIV DIV[style="width: 100%; text-align: center; margin: auto ! important;"]
+finlandiamarathon.fi##TD.captionModel1 > IMG
+finlandiaseura.com##table[width="181"]
+finlandiaseura.com##table[width="252"]
+finlandiaseura.com##table[width="265"]
+finlandiaseura.com##table[width="279"]
+finlandiatalo.fi###footer-links
+finnboat.fi###indexbox3
+finnboat.fi###porri
+finnboat.fi###vasenmenuspacer > center > p > a > img
+finnbody.com##TD[align="center"] > A > IMG
+finnexpo.fi##TABLE.tblBottomBanner
+finnhandball.net##.sponssi-wrap
+finnishcanadian.com##.xj_sidebar_content img.align-center
+finthai.net##P[style="text-align: center;"]
+fixgalleria.net##.layout_frame_lb + DIV
+flamenco.fi###sponsoriasiakastieto.fi
+flightforum.fi##.MainFooterBanner2
+flightforum.fi##.signature > A > IMG
+flightforum.fi##.SubMenuBanner
+flightforum.fi###TopBanner
+flowfestival.com##.footer-main-partners
+flowfestival.com##.footer-partners
+flug.fi###flug-tukijat
+flyingpelicans.net###index-gallup > P IMG
+fonecta.fi##.banner-container
+foreca.fi##.top-banners
+foreca.fi##div[style="width: 1450px; height: 400px;"]
+foreca.fi##div[style*="float: left; width: 175px;"]
+foreca.fi##div[style*="width: 100%; height: 400px;"]
+foregolf.fi##.useful_banner_manager_banners_rotation
+foreverclub.fi##A[target="new"] > IMG.imgcommon.img225x125
+foreverclub.fi##TD IMG.imgcommon.img957
+fortis.fi##IMG.mainoskuva
+france.fi###text-13
+franchising.fi##TD.logoshuffle
+fritsu.net##FONT[face="verdana"]
+fsa.fi###zone-right
+fsnordic.net##.SubMenuBanner
+fuengirola.fi,uusifuengirola.fi###block-aggregator-feed-1
+fuengirola.fi,uusifuengirola.fi###block-aggregator-feed-2
+fuengirola.fi,uusifuengirola.fi###block-block-7 > .content
+fuengirola.fi,uusifuengirola.fi###header #block-block-1
+funforest.fi##TD[style="width: 208px;"]
+futisforum2.org##DIV[style="float: right;"]
+futismaailma.com##A > IMG[style="width: 120px; height: 50px; border: 0px none;"]
+futuuriry.net##TABLE#table493
+fysioline.fi##.right > p > a > img
+galleriaantares.fi###partners
+galleryibis.com##IMG[style="position: absolute; z-index: 10; right: 0px; top: 80px; display: inline-block; border: medium none;"]
+gameli.fi###footer
+game-pro.fi###mainfooter a.logolink
+gaming.fi##.mainos-text
+gardengym.fi###left BR + BR + A > IMG
+gastronautti.fi##DIV[align="right"]
+gastronautti.fi##TD BR + A > IMG
+gastronautti.fi##TD.table1 > A > IMG
+gastronautti.fi##TD[valign="top"] > P > A > IMG
+gaudeamus.fi##DIV > A > IMG
+gbgym.com##.textwidget
+gentleman.fi###banneri
+gentleman.fi###staatBanneri
+geologia.fi##.right > .moduletable_sivusto:last-child
+glanspower.fi##TD > CENTER > BR + A > IMG
+glanspower.fi##TD > CENTER > BR + IMG
+glanspower.fi##TD.bottom
+globalplatform.fi###block-views-Bannerit
+gloria.fi###footerContent
+goldenring.fi##DIV[align="center"] + * > P
+golf.fi##.banner-content-area
+golf.fi##.footer-logos
+golf.fi##div[id*="banner"]
+golfcenter.fi###extramainos
+golfpiste.com###logoGolfDigest
+golfpiste.com###mainosBox
+golfpoint.fi##img[src$="/hlrbanneri.gif"]
+golfpoint.mycashflow.fi##IMG[src="http://golfpoint.fi/kuvat/golfmatkat_noshadow.png"]
+golfpoint.mycashflow.fi##IMG[src="http://www.golfpoint.fi/kuvat/bannerit/hlrbanneri.gif"]
+goodnewsfinland.fi###sidebar > CENTER
+goom.net##TD.style6
+gootti.net###leatherheaven
+gosaimaa.com###banners_bottom
+gosaimaa.com###banners_right
+granada.fi##TD[valign="top"][align="center"]
+greenriders.com##.logos
+greenriders.fi##.ads
+greenriders.fi###partners
+groovefm.fi##.ad
+haapavesifolk.com##TD.tdmainos
+haastaitsesikunnolla.fi##TD[align="center"] IMG
+haatjajuhlat.fi###listBanner
+haikko.fi###logos
+hakarinteet.fi##P[style="text-align: center;"]
+hamina.fi##H1[align="left"]
+haminatattoo.fi###Mod38
+hamko.fi##IMG[style="border: 0px none ; float: left;"]
+hangup.fi###mainos_block
+hangup.fi###mainospaikat_top
+hansaprint.fi###footerlinks + *
+happee.fi##.moduletable_linkit
+happee.fi##.video
+hardware.fi##.advertisement
+harkaviikot.fi###footer
+harkaviikot.fi###logo
+harmankuntokeskus.fi##TD + TD + TD[align="center"]
+harmony.fi##.muuttuotteet
+hartwall.fi###flashContent2
+hartwallarena.fi###collaboration-logos
+hbf.fi###sisaltoVasen1 + #sisaltoVasen1
+hdfin.com###bannertop_new
+hdfin.com###cal_right_grey > .box_border > .box_simple_greybackgr:last-of-type
+health.fi##P.txtbody TD > IMG
+heinola.net##DIV > A > IMG
+hellapoliisi.fi##.w1 + h2.text-heading
+hellapoliisi.fi##.w1 + h2.text-heading + .box-section
+helsinginjuhlaviikot.fi###sponsors
+helsinginkisaveikot.fi##DIV[align="center"] + * IMG
+helsinginkisaveikot.fi##TD.RightPane DIV[align="center"]
+helsinginuutiset.fi###block-lehtiyhtyma_site-ads_emediate_boksi_1
+helsinginuutiset.fi###block-lehtiyhtyma_site-ads_emediate_boksi_2
+helsinginuutiset.fi###block-lehtiyhtyma_site-ads_emediate_boksi_3
+helsinginuutiset.fi##.mainos-karuselli-sidebar
+helsinginvihreat.fi##.aside.main-aside > A > IMG
+helsinki-vantaa.fi##.banners
+helsinki.fi###sidebar-right EMBED
+helsinkibeerfestival.com###sisaltoVasen1 + DIV#sisaltoVasen1
+helsinkicitymarathon.fi###right
+helsinkicityrun.fi###right
+helsinkicup.fi###left_column_banner_box
+helsinkicup.fi##.right_banner_box_edit
+helsinkilivefestival.fi###partners
+helsinkilivefestival.fi###vr
+helsinkipride.fi##.footer
+helsinkitimes.fi##.moduletable-forex
+helsinkitimes.fi###top-adv
+helsinkitimes.fi###top-advert1
+helsinkiviikko.fi###partners
+helsinkivintage.fi###box1
+helvetin16.com###bannerboxall
+helvetin16.com###bannerSix
+hengenveto.fi##.hv_banner_image
+hengenveto.fi##.hv_footer
+herbbasics.fi##DIV > P > A > IMG
+herrankukkaro.fi##DIV[style="padding-top: 20px;"]
+hervannansanomat.fi##.topAd
+hetkyajassa.fi##.column > .logos-list
+hetkyajassa.fi##.column > .title:last-of-type
+hetkyajassa.fi###main > .image-list > li> a > img
+hetkyajassa.fi###main > .img-box > a > img
+hetkyajassa.fi###main > .title
+hiekkadyyni.fi##DIV[style="width: 100%; height: 150px; padding-top: 25px;"] > CENTER
+hifimaailma.fi##.banner1
+hifimaailma.fi##.banner2
+hifimaailma.fi###sidebarBanners
+hifitalo.fi##TD.sisalto > H1[align="right"]
+hifksoccer.fi###banneripalsta
+high.fi###googlejs
+hiidenkivi-lehti.fi##IMG + BR + A > IMG
+hiihtoliitto.fi##.banner
+hikingtravelhit.fi##.style10
+hikingtravelhit.fi##.style8
+himosfestival.com##.footer-header
+himosmaailma.fi##iframe[src="http://www.himosmaailma.fi/extra/himosnyt.html"]
+himosresort.fi###footer > #syndicate
+hinku.com##.frontBanner2
+hintavertailu.muropaketti.com###wrapper-left-hv
+hiusmaailma.fi##.LeftIn-part
+hiusverkko.fi##TD[style="vertical-align: top; text-align: center;"]
+hjk.fi###mainSP
+hki-pavi.fi###imCel1_05_Cont
+hki-pavi.fi###imObj1_02
+hkt.fi###bannerit2
+hkt.fi##IMG[vspace="0"] + BR + P[align="CENTER"]
+hmlviihdekeskus.fi###tiedot
+hoitajat.net##.oikeapalstasuora IMG
+hok-elanto.fi##.etusivunosto
+hok-elanto.fi###etusivu_kuva2
+hok-elanto.fi###overlay-banner
+hok-elanto.fi###right_content_top_right
+hok-elanto.fi###top_content
+hok-elanto.fi###top_content_s
+hokutoryu.com##TD + TD[align="center"]
+hommaforum.org###Mod28
+hope.fi###block-block-9
+hopeinenomena.net##DIV > A > IMG#fimuglogo
+hostelacademica.fi##DIV[style="position: absolute; bottom: 100px; left: -3px;"] IMG
+hostellit.fi###lower_right P
+hotelarthur.fi###online_reservation_footer
+hoyryveturimatkat1009.fi###content-wrapper > A > IMG
+hpk.fi##.header-top
+hps.fi##.banner a[href*="jalkkis.net"]
+hps.fi##.banner a[href*="www.eerikkila.fi"]
+hps.fi##.banner a[href*="www.ortolaakarit.fi"]
+hs.fi###area-huutonet
+hs.fi###area-metro-is
+hs.fi###area-tvhsfi
+hs.fi###kampanja-banneri-980
+hs.fi###multi-ad-element
+hs.fi###oikotie-ad
+hs.fi###oikotie-asunnot-ad
+hs.fi###ts-outbound-module
+hs.fi##.ad-container
+hs.fi##.ad-container-nobg
+hs.fi##.advert
+hsk.fi##.banner
+htu.fi###right_float_box IMG
+htu.fi##DIV[style="clear: both; padding-top: 20px;"]
+huippupesapalloilijat.fi##P > A > IMG
+hukka-halli.com##table[style="width: 262px; height: 281px"]
+humanistinenkilta.fi##.menu_body IMG
+humantechnology.fi##TR > TD > A > IMG
+humiref.fi##.logot
+huoneistokeskus.fi##EMBED
+huoneistomedia.fi##A.banner
+huumaa.net##.moduletable_bannerit
+huuto.net##.sanoma-services
+huviopas.net##.esittelyt
+hvs-tennis.fi##.partners
+hymy.fi###alibi-feedbox
+hymy.fi###inhouse-banners
+hymy.fi##.om-magazines
+hypo.fi###content + DIV
+hyps.fi##.banner
+hyvaterveys.fi###smf_footer
+hyvinvoinnin.fi##DIV > CENTER > IMG
+iab.fi##.right
+ibbf.fi##.cell3 > a[target="_blank"]
+icepark.fi##.banner-140-350
+icepark.fi##.banner-300-100
+iceway.fi###contentbottom
+ictnet.fi###ClusterOfOstrobothniaContainer_BelowSideMenu_idContent
+ifbb.fi##.right_column
+ifpi.fi###banner-container
+ihanalehti.fi##.kehys_0 a[target="_blank"]
+ihanalehti.fi##.kehys_v a[target="_blank"]
+ihmisoikeuspeli.fi##IMG.logot
+iisalmensanomat.fi##.sectionList_ss
+ikainstituutti.fi###raylogo
+ikimetsanystavat.fi###block-views-bannerit_oikea_laita_etusivu
+ilkka.fi##.bannernostot_right
+ilmainensanakirja.fi###citynav
+ilmainensanakirja.fi##.banner
+ilmasotakoulunkilta.fi##td[height="8"] > div > table
+ilmio.fi##.widget
+ilmoitukset.com##TABLE.main_page
+ilmoitukset.com##TD[width="138"]
+ilonpolku.fi##TD.navigation IMG
+ilotalo.com##TD[colspan="3"]
+iltalehti.fi###com-autotalli-multibanner
+iltalehti.fi###kl_nosto_13
+iltalehti.fi###monsterWrapper
+iltamakasiini.fi##.promo_slider_wrapper
+iltapulu.fi###header > div
+iltapulu.fi##a[target="_blank"][style*="width: 100%"]
+iltasanomat.fi###ad-container1
+iltasanomat.fi###ad-container2
+iltasanomat.fi###ad-container3
+iltasanomat.fi###ad-container-article1
+iltasanomat.fi###ad-container-article2
+iltasanomat.fi###ad-container-article3
+iltasanomat.fi###footer-area a[target="_blank"]
+iltasanomat.fi###geouutiset
+iltasanomat.fi###main > .main-story + .html-container
+iltasanomat.fi###pelikone-widget
+iltasanomat.fi##.ad-container
+iltasanomat.fi##.oikotie_nosto
+iltasanomat.fi##.tsr-advertorial
+iltasanomat.fi##div[style*="width:658px;height:250px;"]
+ilves.com##.bannerit
+ilves.fi##P[align="center"] + * > CENTER
+imaginedayspa.fi###div_logo
+imatrangolf.fi##.bannergroup
+imatranpalloseura.fi###Mod50
+imatranurheilijat.fi###ja-col2
+imperiumi.net###laby_logo
+imps.fi##.banneritem
+inarilainen.fi###extra
+indietaivas.fi##.sponsors
+inferno.fi##UL.pro15
+infrapro.fi###mainfooter a.logolink
+infrontsports.fi##.teaser_item DIV.item_wrap
+infrontsports.fi###linktoenglish + DIV > DIV.item_wrap
+inhimillinenturhamaisuus.com###Image1
+inhimillinenturhamaisuus.com###Image2
+inhimillinenturhamaisuus.com###HTML7
+inhimillinenturhamaisuus.com###HTML17
+internetforum.fi###footer
+internetforum.fi###sidebar-left .content:first-of-type img
+inthecity.fi##.banner-right
+inthecity.fi##.etu-ala-mainos
+intokustannus.fi##.hakukentta + * > TD[align="center"]
+invalidiliitto.fi###otherLinks
+iom.fi##.moduletablewhite TD IMG
+irc-galleria.net##div[id^="advzone"]
+iskelma.fi##.suurtaulut
+iskelma.fi##TABLE + A > IMG
+iskelma.fi##TD + TD.topbar > A
+iskelmahimos.fi##table[style="width: 100%;"][align="center"]
+isoc.fi###sidebar-second
+isolehti.fi###logos
+isolehti.fi###topbanner
+isoomena.fi##.image-link
+itameriportaali.fi###footerRight
+itduuni.fi###mainfooter a.logolink
+itnyt.fi##.ftBanner
+itpro.fi##DIV > P A + A > IMG
+itviikko.fi##.multiAds
+itviikko.fi##.newsFrontAd
+itviikko.fi###iltasanomatPromo
+itviikko.fi###newsFrontAd1
+itviikko.fi###newsFrontAd2
+iuinno.fi##DIV + P > A > IMG
+jaajo.fi##P[align="center"]
+jaakkoteppo.fi##P[align="center"] + P > IMG
+jaapuisto.fi###the-content-left > .text-content-frame:last-child
+jamsa.fi##.textsize[style="text-align: center;"]
+jamsanseutu.fi##.adContainer
+jamsanseutu.fi##.adContainerWithMeta
+jamsanseutu.fi##div[style*="width:956px; height:190px;"]
+jamsek.fi##.banner
+jamsek.fi##IMG.contentImg[width="118"]
+jamsek.fi##IMG.contentImg[width="173"]
+jamsek.fi##TD.layoutRightTd
+janakkalansanomat.fi##.adContainer
+janakkalansanomat.fi##.adContainerWithMeta
+janakkalansanomat.fi##div[style*="width:956px; height:190px;"]
+jannenjamit.fi##P[style="text-align: center;"]
+japs.sporttisaitti.com###zone-left .banner
+japs.sporttisaitti.com###zone-right .banner
+jarvilohi.net###addsRight
+jarvilohi.net##BR + * TD
+jarviseutu.fi##BR + A > IMG
+jatkoaika.com##.ad-468-400
+jatkoaika.com##.veikkaus
+jatkoaika.com###topbanneri
+jazz20.com###menu_left_middle
+jazzrytmit.com##.slick-rss-container
+jennikuivainen.fi##.row_2
+jihaa.fi##.navigation A > IMG
+jippo.fi##IMG.yhttyo
+jklkarting.fi##.sponsor
+jly.fi##BR + TABLE + TABLE
+joensuunkataja.fi##TR + TR + TR > TD
+johnnykniga.fi##.sidebar-add
+jokipojat.com##.rightbanner
+jokipojat.com##DIV[style="margin-top: 3px;"] IMG
+jokipojat.com##DIV[style="text-align: center;"] IMG
+joleikon.fi###contentFooter > IMG
+joli.fi##.moduletable2
+joli.fi##.moduletable3
+jops.fi##TD[style="text-align: center;"] IMG
+josna.fi###ray
+joulua.fi###l_sidebar > div > a > img
+joulua.fi###navbar2
+joulua.fi###r_sidebar > #radio
+joulupukki.fi###bottom-banners
+jouluradio.fi##.links
+joupiska.fi##img[width="170"]
+journalistiliitto.fi###zone-right
+joutsenolehti.fi,kaakonkulma.fi,luumaenlehti.fi###contentSecondary > p:last-of-type
+joutsenonkullervo.fi##TD + TD + TD > TABLE
+jsdn.fi##.right
+judoliitto.fi##.banner
+judoliitto.fi##.banners
+judoliitto.fi##.bottomContent > DIV
+juhlaikkuna.fi##.banner-module2
+juhlaikkuna.fi##.bannergroup
+juhlantaika.fi##SPAN > FONT + INPUT
+juhlantaika.fi##TD > DIV[align="center"]
+juhlatalo.com###text-3
+jujukerho.fi##.intro
+jujukerho.fi##.recommend
+jukola.com##TD[width="25%"]
+jukupark.fi###panel
+juniorikalpa.fi###sponsors
+juoksija-lehti.fi##TD#dnn_ctr8664_ContentPane
+juoksufoorumi.fi##CENTER
+juontajat.fi##.alapalkki
+juontajat.fi##TD.sisalto_oikea
+jurassicrock.fi##img[usemap*="sponssit"]
+jutajaiset.fi##.shadow
+jymy.net##.div_advert300
+jymy.net##.div_blackbox650 + DIV.div_blackbox650
+jypliiga.fi###front_mini_ads
+jypliiga.fi###partnerit
+jypliiga.fi###veikkaus
+jypliiga.fi##.profile_sponsor
+jyrock.fi###col-main-2
+jyvaskyla.fi##.oikeala > DIV.xmldoc > P
+jyvaskylankesa.fi##.logo-area
+jyvaskylankesa.fi##.sponsorHolder
+jyvaskylankesa.fi##img[src$="/figarobanner.png"]
+jyvaskylankiri.fi##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-article'"]
+jyvaskylanseutu.fi##SPAN + DIV > IMG
+jyvaskylanvalo.net##TD[style="text-align: center; vertical-align: top;"]
+k-citymarket.fi###footerLogos
+k-systems.fi###banners
+k-trainee.fi###footer
+kaannos.com##a[href*="suomikauppa.fi"]
+kaarle.com##.innerdiv.extraPadding > P > IMG
+kaarle.com##.primulaCardHolder
+kaarle.com##DIV > BR + A > IMG
+kaaviblues.com##P[align="center"]
+kaffecentralen.com###facebook
+kaha.fi##.PartnerLogo
+kaha.fi###HomeMidContainer
+kaha.fi##TD.RightSideLogo
+kaikkikuvaa.fi##.container > div.sixteen.columns.content.whitebg > p.center
+kainuunliikunta.fi##.banner
+kainuunsanomat.fi##.adContainer
+kainuunsanomat.fi##div[style*="width:956px; height:190px;"]
+kaisafest.fi###footer
+kakkusankarit.fi##.ContextBoxBody.NavBarElement3
+kaksplus.fi###cooperation
+kaksplus.fi##.om-magazines
+kalajoenjuhannus.com###logot
+kalakortti.com##img[src$="/VeneBat_eivuotta.jpg"]
+kalastajan.info##.sbicontent
+kaleva.fi###banner-top
+kaleva.fi##.ads
+kaleva.fi##.block-tarjousmylly-paivan-vinkit
+kaleva.fi##.block-tarjousmylly-rekry
+kalevalasyndicate.fi##DIV > IMG
+kalliolainen.com##TABLE.leipis
+kalorilaskuri.fi##.mmargin
+kalottjazzblues.net##DIV[align="center"]
+kalpa-hockey.fi###banners
+kalpa-hockey.fi###sponsors
+kamera-lehti.fi###banners
+kamera-lehti.fi###etubanners
+kampaamoverkko.fi##a[href*="tradedoubler.com/click?"]
+kampaamoverkko.fi##td[background*="/mainostausta.gif"]
+kamppailuopisto.com##BR + BR + IMG
+kamppi.fi###Advert
+kangasala.fi##TD.captionModel0
+kangasniemenmusiikkiviikot.fi###ohje_teksti A IMG
+kankaanpaanseutu.fi##.adContainer
+kankaanpaanseutu.fi##.adContainerWithMeta
+kankaanpaanseutu.fi##div[style*="width:956px; height:190px;"]
+kannus.fi##TABLE[style="width: 291px; height: 72px;"]
+kanoottiliitto.fi###zone-left
+kanresta.fi##DIV > A > IMG
+kansalaisverkko.fi##TABLE[cellspacing="8"][cellpadding="0"]
+kansanmusiikki.fi###frontnote
+kansantahto.fi##.valikko2 > P
+kansanterveys.info##img[src$="/raytukee.png"]
+kansanuutiset.fi##.third_col
+kansanuutiset.fi###banners
+kaplaaki.fi##DIV[style="margin: 10px; position: relative; top: 10px; left: 600px; width: 120px; color: rgb(238, 238, 238); text-align: center;"]
+kapua.fi##DIV > A > IMG
+kapylacup.net##.module + DIV.module
+karaoke.fi##TD[width="60%"]
+karaoket.com##TD > A > IMG
+karaoket.com##TD[valign="bottom"] > DIV[align="left"]
+karaoket.com##TD[valign="top"] + TD[width="110"]
+karateliitto.fi###main img[width="150"]
+karavaanarit.fi##.banner
+karjalainen.fi##.adv_banner_bg.clearfix
+karjalainen.fi##.rokit_list
+karkiagri.fi##.logoscrollbg
+karkkainen.com##TD#Catalog_Attachment_TableCell_1
+karkkainen.fi##DIV[style="padding-left: 15px;"]
+karppakannattajat.com##div[width="325"]
+karppaus.info##TABLE.mainio
+karstula.fi##TD[valign="middle"]
+karstulanseutu.fi##TD[align="center"]
+kasinopotti.com###CMSText5
+kassastaliittoon.fi###footer
+katsastushinnat.fi###cboxOverlay
+katsastushinnat.fi###colorbox
+kattaakaupungin.fi###footer
+katukiitajat.fi##TD[style="vertical-align: top; width: 160px; white-space: nowrap; height: 100%; text-align: center;"]
+kauhajoenua.net##.text_f
+kauhajoki.fi##TD[style="text-align: center; padding: 1em 0pt;"]
+kauhava.fi###C1170v3991
+kaukalopalloliiga.fi##.bannergroup_text
+kaukalopalloliitto.fi##P[align="center"]
+kaukoretket.fi##BR + BR + A > IMG
+kauneussivut.fi##.logo_main
+kauneussivut.fi##TD#vpalsta > DIV + DIV
+kaupat.com##TD[valign="middle"]
+kauppakalenteri.fi##P > BR + A > IMG
+kauppakalenteri.fi##TD + TD + TD[valign="top"]
+kauppakamarikauppa.fi##.class-banner
+kauppakamarikauppa.fi###top3_bannerarea
+kaupunginosat.net##.moduletable > P
+kaupunginosat.net##LI > A > IMG
+kaupunkilehtiankkuri.fi###topBanner
+kaupunkiviljely.fi##.textwidget
+kaustinen.fi##IMG[width="200"]
+kaustinen.fi##P[style="margin-top: 5px; margin-bottom: 5px;"]
+kaustinen.net##.wbAdvert.m56
+kaustinen.net###bottom > .bottomblock
+kaustinen.net###headerbar > .right
+kaustinen.net###pikkukumppanit
+kaustinen.net###vas_bannerit
+kavereita.net###footer_affiliates
+kaypahoito.fi##.portlet-borderless-container > DIV > IMG
+kehy.fi##.banners
+keilailu.fi##TD[style="padding-right: 20px;"]
+keitele.fi##TD[align="center"]
+keitelejazz.fi###footer
+keittiomaailma.fi##.mid
+kelkkakerho.fi##.multithumb
+kelkkakerho.fi##img[src$="/menokone%202013.png"]
+kellojokinen.net###SAContent4 > P[align="center"]
+keltainenporssi.fi##.banner_mp_box
+keltainenporssi.fi##.bg10 img[width="160"]:last-of-type
+keltainenporssi.fi##.bg10 table[width="161"]:nth-of-type(2)
+keltainenporssi.fi##.hintaseuranta
+keltainenporssi.fi##.huuto-search
+keltainenporssi.fi###dBannerGoogleAdPlace
+keltainenporssi.fi###dBannerTop
+keltainenporssi.fi##a[onclick^="google_track(this.href, 'Text link', '"]
+keltainenporssi.fi##div[onclick="document.getElementById('banner_text').click()"]
+keltamustat.com###friends
+kemi.fi##TD[width="20%"]
+kemora.fi###fotter
+kennelliitto.fi###_ctl0_cphMainContent_Koiramme1_radKoiramme_RadEditor
+kennelliitto.fi###footer_middle
+kennelliitto.fi###footer_top
+kepli.fi##a[target="_blank"] > img[width="165"]
+kepli.fi##a[target="_blank"] > img[width="176"]
+kepli.fi##a[target="_blank"] > img[width="200"]
+kerava.fi###navbar3
+kerubi.fi###spanfooter
+kerubi.fi##img[src="images/liityjaseneksi.png"]
+kesaduunari.fi###token-111961 IMG[style="margin-right: 0pt;"]
+kesateatteri.com##TD > TABLE TD[align="center"] + TD[align="center"]
+kesatyopaikat.fi##TD > TABLE
+keskisuomi.fi##P + * + * + P
+keskisuomi.info##.bottomContainer.hideInPrint
+keskustanaiset.fi##.iw_modularea.iw_modularea_157
+keskustelu.jatkoaika.com###reklaamiur1
+keskustelu.jatkoaika.com##DIV[style="margin-left:auto; margin-right:auto; width:1024px; border: 1px #000000 solid; margin-bottom:5px;"]
+keskustelu.suomi24.fi###total.sanomat
+kesli.fi###zone-_main td > a[target="_blank"] > img
+kesli.fi###zone-left > .token:last-child
+kev.fi##.caption
+kev.fi###token-118580
+kev.fi##IMG[style="margin: 0pt 0pt 5px;"]
+kev.fi##TD.captionModel2
+kiasma.fi##.box4_center
+kiekkoareena.fi###block-menu-menu-mediavalikko-fi
+kiekkoareena.fi##footer
+kiekkolaser.fi##TD[valign="top"]
+kiekko.tk##.sideBar a[target="_blank"]
+kierratystehdas.fi###logot strong:first-of-type
+kierratystehdas.fi###logot strong:first-of-type + br
+kierratystehdas.fi###logot strong:first-of-type + br + br
+kierratystehdas.fi###logot table
+kihvelisoikoon.com##.sidebar-inner
+kiinnostaakohuumeet.fi###left A > IMG
+kiinteistoliitto.fi##TD.midcolumn
+kiinteistomaailma.fi##.bottomMargin > A > IMG
+kiinteistomaailma.fi###bannersArea
+kilipailut.fi##.bannerlink
+kiloklubi.fi###smf_footer
+kilometrikisa.fi###spons-ver
+kilometrikisa.fi##img[src$="/brompton.jpg"]
+kilometrikisa.fi##img[src$="/classicbike.jpg"]
+kilometrikisa.fi##img[src$="/stp_kilometrikisa2.jpg"]
+kilpailumaailma.fi##img[src^="efishop"]
+kilpailumaailma.fi##img[src^="inkclub"]
+kilpailumaailma.fi##img[src^="lastenleffat"]
+kilpailumaailma.fi##img[src^="seiska"]
+kilpailumaailma.fi##img[src^="sisters"]
+kingpart.fi##P.style7[align="left"]
+kipa90.com##.sponsor-slider
+kipa90.com##a[href^="https://www.veikkaus.fi/info/pmu/index.html?myPartnerId="]
+kippis.fi###sidebar
+kirittaret.fi##.midcontent
+kirittaret.fi###footer
+kirittaret.fi##TABLE[width="340"]
+kirjakahvila.org###sidebar > IMG
+kirjurin.fi##TD[align="middle"]
+kirkkonummi.fi##IMG[style="display: block;"]
+kissakaveri.fi###logot
+kissaliitto.fi###left a[target="blank"] > img[style*="padding-bottom:"]
+kitarasankari.fi###header-wrap
+kiteentarvemetalli.fi##DIV[style="float: right; margin-top: 5px; margin-right: -10px;"]
+kites.fi##IMG[width="200"]
+kivaatekemista.fi##.neliobannerit
+kivaatekemista.fi##.pystybannerit
+kivakoulu.fi###footer
+kivenlahtirock.com###block-views-Sponsorit-block_1
+kivenlahtirock.com###fws_536905a71426f
+klassinen.fi##DIV[style="clear: both; padding-top: 20px;"] + DIV[style="clear: both; padding-top: 20px;"]
+klustermus.fi###tukijat
+kmvlehti.fi##.adContainer
+kmvlehti.fi##.adContainerWithMeta
+kmvlehti.fi##div[style*="width:956px; height:190px;"]
+kodinkuvalehti.fi###footerCovers
+kodinkuvalehti.fi###footerLinks
+kohtaamo.net##.footerlogos
+koips.fi###zone-right .banner
+koips.fi###zone-left .banner
+koirauutiset.com##TD[align="center"]
+koiteli.fi##DIV > DIV[style="width: 100%; padding-bottom: 5px;"]
+kojo.fi##td[width="130"] a[href="http://www.intersport.fi/megastorepuhos/"]
+kojo.fi##td[width="130"] img[width="125"][height="40"]
+kokemuskauppa.com##.ads
+kokkens.fi##.ad
+kokkolanmatkatoimisto.fi##.fr
+kokkolaopera.com###footer
+kokkolarockfestival.fi##TD[align="center"][valign="middle"]
+kokouspaikat.com###column1
+koktail.com###napit
+kolintaksi.fi##img[src$="/Koli-logo-BLUE_lp.jpg"]
+kolmasulottuvuus.fi###footer .maailma
+kolmasulottuvuus.fi###footer .yle
+komia.info###rss
+konebox.fi###extrabanner
+konebox.fi###logobar
+konebox.fi###rightcolumn A > IMG
+koneenrakennuskilta.fi##TABLE[style="text-align: left; width: 704px;"]
+koneporssi.com##.banners
+konetori.com###header > #newsletter
+konetori.com##img[src$="/metsa_b1.jpg"]
+konetori.com##img[src$="/ojalamachines_280111_2.gif"]
+koneviesti.fi###left > p > a.external > img
+koneviesti.fi###right > div > p > a.external > img
+kongressimessut.fi##TD.spFooter2
+konsolifin.net###pelaaja
+konsolifin.net###PSN
+kontula.com##td[width="27%"] > a > img
+koovee.fi##.vasenala
+kopteri.net##.ad
+kopteri.net##IMG#img_src_2
+kopteri.net##TD.narrow-column
+korpikorpi.fi##TD > BR + A > IMG
+korpisoturi.fi##img[src^="data:image/png;base64,"]
+korroosio.fi##TD + TD[align="center"] > IMG
+korutrahaksi.fi###medialogos
+kosek.fi###ctl00_LogoLinkit1_PanelFI
+kosek.fi###ctl00_LogoLinkit1_PanelSVE
+koskikeskus.fi##.journal-content-article > DIV.boxed-wrapper
+koti-kajaani.fi###column_middle > .flexslider
+koti-kajaani.fi###column_right > .basic_box
+kotijamokkikeskus.fi###body5
+kotijamokkikeskus.fi###body6
+kotikarjala.fi###bannerAreaSidebar
+kotikarjala.fi###bannerAreaTop
+kotikartio.com##.art-blockcontent-body > TABLE
+kotikartio.com##.art-blockcontent-body IMG
+kotikokki.net##.ad_container_right
+kotikokki.net###frontpage_iltalehti
+kotikokki.net###kokkiscreen
+kotikokki.net###partners_lift_204
+kotikokki.net###search_results div[style^="width:300px; height:250px;"]
+kotiliesi.fi###topholder
+kotiliesi.fi##.ad
+kotiliesi.fi##.om-magazines
+kotimaa24.fi###topbanner
+kotimaa24.fi##iframe[src*="banneri"]
+kotipaikka.com##.titlebar > center:last-of-type > p
+kotipalvelu1.fi###really
+kotipuutarhuri.com###banner_carousel
+kotipuutarhuri.com###flash_banner
+kotipuutarhuri.com###partners
+kotirinki.fi##A + BR + P + DIV
+kotirinki.fi##DIV > BR + A > IMG
+kotiseudunsanomat.net##DIV[align="center"] > P
+kotitapaturma.fi##BR + A > IMG
+kotkarock.fi##TD[align="center"][valign="middle"]
+koululainen.fi###bannersright
+koululainen.fi##.om-magazines
+koulutus.fi##.ContentColumnAds
+koulutus.msn.fi##.parent.chrome29.single1.editorschoice.customcontainer.black LI.last
+kouvolansanomat.fi##.banner_top
+kouvolansanomat.fi##.tsFrameContainer
+kp24.fi##.perusblokkisisaltoAd
+kp24.fi###banneripalsta
+kp24.fi###banneripalsta2
+kp24.fi###boxisisalto
+kpallo.com##P IMG
+kreikanlomat.fi###alavasenlaatikko > A > IMG
+kristityt.fi##td[width="590"]
+kuhmolainen.fi##.adContainer
+kuhmolainen.fi##.adContainerWithMeta
+kuhmolainen.fi##div[style*="width:956px; height:190px;"]
+kulttuuripalvelukaiku.fi###sidebar a > img
+kuluttajaliitto.fi##.rightblock h3:last-child
+kuluttajaliitto.fi##IMG[src="files/1482/textsize/Zaldo_148x50_vaaka.jpg"]
+kuluttajaliitto.fi##IMG[src="files/1664/166/banner2.jpg"]
+kunniakierros.fi##.item-list > UL
+kuntalehti.fi###main_right_banners
+kuntamarkkinat.fi##DIV > P > IMG
+kunto.fi##.banner
+kunto.fi##.content-container A > IMG
+kuntokuu.fi##.row2 > .cell3
+kuntokuu.fi###footer
+kuntoutusportti.fi##img[src$="/ray_tukee_pieni.gif"]
+kuolo.fi###linkcat-3
+kuono.fi##.banner
+kuono.fi##.widget_adsingle
+kuopio.fi##IMG.front-linkimage
+kuopiodancefestival.fi##TD > A[target="pois"] > IMG
+kuopiodancefestival.fi##TD.kalenteri
+kuopionkirppari.fi##DIV[class="banner_160x600_left"]
+kuopionkirppari.fi##DIV[class="keskibanneri"]
+kuopionpursiseura.fi###zone-right a[target="_BLANK"] > img
+kuopiorock.com###recommendations
+kuopiorock.com###sponsored
+kuopiorock.com###sponsors
+kuortane.fi##IMG[style="width: 110px; height: 100px;"]
+kupiainen.net##TABLE[width="108%"] IMG
+kupiainen.net##TABLE[width="140%"] IMG
+kupiainen.net##TD[width="14%"] + * > A > IMG
+kupiainen.net##TD[width="14%"] > FONT > IMG
+kupiainen.net##TD[width="19%"] > P[align="center"]
+kups.fi###footer
+kutp.net##img[src$="/image001.png"]
+kutp.net##img[src$="/ray_tukee.gif"]
+kuulokynnys.fi###reference
+kuuloliitto.fi###reference
+kuvake.net###nn-big[style="height: 178px;"]
+kuvake.net###placeholder-leaderboard[style="height: 90px; text-align: center;"]
+kuvaton.com##a[href^="http://affiliate."]
+kuvaton.com##a[href*="/url.php?s=jjj."]
+kuvaton.com##div[class="bannerbox2"]
+kuvaton.com###kuvaboxi > center[style="margin: -20px"]
+kvaak.fi##TR + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * > TD
+kvaliitti.fi###asiakastyot > A > IMG
+kymensanomat.fi##.banner_top
+kymensanomat.fi##.tsFrameContainer
+kymppipaikka.fi###bottombanner
+kymppipaikka.fi###righttallbanner
+kymppipaikka.fi###topbanner
+kyronniemi.fi##.bannerit
+kyyla.org##BR + A > IMG
+laajasalongolf.com##.lispacer.vallinksboxbg
+laatukontaktit.fi##.laatikko_mainos
+laatutakuu.fi##.footer > P > IMG
+laboratorio.fi##TD.ver-bar-1.bottom
+ladyjohanna.com##.oikeabottom
+ladyline.fi##.Otsikko > P > A > IMG
+ladyline.fi##P + A > IMG
+lahdenseutu.net###travelSiteBannerContainer
+lahenlehti.net###right > A > IMG
+lahenpojat.com##LI#recent-posts
+lahilehti.com##.bannerblock
+lahtiguide.fi##.footerbox
+laihduta-helposti.net##.headerright
+laine.net##.oikea_laatikko
+laitetekniikka.com##HR + * + CENTER
+lakiwiki.fi##DIV[align="center"]
+lamposaato.fi##TD > A > IMG
+langatontampere.fi###footer
+lannenomavoima.fi##DIV > A + A + A + A > IMG
+lansi-savo.fi###block-block-2[style="height: 775px;"]
+lansi-savo.fi###block-block-sections-ad-block-4
+lansi-savo.fi###block-esv-uranus-esv-uranus
+lansi-savo.fi###block-views-lunch-list-block
+lansivaylajuoksu.fi###zone-right
+lapinkansa.fi##.adContainer
+lapinkansa.fi##div[style*="width:956px; height:190px;"]
+laplandluosto.fi##.alaosa
+laplandluosto.fi###banners555
+laplandpyha.fi##.alaosa
+laplandpyha.fi###banners555
+laplandsafaris.fi##A.ApplyClass > IMG
+laplandsafaris.fi##BR + A > IMG
+laplandsafaris.fi##DIV[style="text-align: left;"]
+lappeenrannanpursiseura.fi##img[src$="/notkeanorppalogo.jpg"]
+lappeenrannanteatteri.fi##BR + BR + A > IMG
+lappeenrannanteatteri.fi##DIV[style="margin-left: 27px;"]
+lappeenrannanteatteri.fi##DIV[style="text-align: right; margin-right: 35px;"] + DIV.col2txt
+lappeenranta-imatra.fi##TD[align="center"]
+lappeenranta.fi###content3
+lappeenranta.fi##TD#tdZoneRight
+laser24.fi##.logot
+laserht.fi##H3 + A > IMG
+lasna.net##img[src$="/ray.gif"]
+lastenlinnanjuhlat.fi##TD[style="padding-top: 5px;"]
+lastensuvisoitto.com###footer2
+lataayoutube.com##.show-mainos
+latauslista.fi##A.naviTop20img
+latinos.fi##IMG.banner
+laureamko.fi###mainosp-1
+lautapeliopas.fi##.headerright
+lautapeliseura.fi###footer
+lautapelit.fi##P[align="center"]
+lauttasaarenliikuntakeskus.fi##SPAN.extbanners.bottomright
+lauttasaari.fi##.moduletable_search + DIV.moduletable + DIV.moduletable
+lbvaatekauppa.fi##.box.base-mini.mini-product-tags + * + * + H3 + A > IMG
+lbvaatekauppa.fi##A + BR + BR + A > IMG
+ldh.fi##P + P[align="center"]
+leffatykki.com###ontv .details
+leffatykki.com##.ad
+leffatykki.com##.ads
+leffatykki.com##.aside
+lehtiapaja.fi##DIV[align="center"]
+lehtiapaja.fi##DIV[style="text-align: center;"]
+lehtitalo.net###showcase
+leijonat.fi##.bannergroup
+leijonat.fi##.partner-logos
+leikkiluola.fi##.footer
+leimahdus.com###yhteistyo
+lemmenlomat.fi###rightcolumn
+lemmikkipalstat.net##a[href*="/cgi-bin/bklikki"]
+lempaalankehitys.fi###slider-container
+lennalomalle.com##.main-content.block1
+lennalomalle.com##.main-content.block2
+lennalomalle.com###mainmodules.spacer.w33
+lennalomalle.com###right-column
+lennalomalle.com###top-banner
+lentajat.fi###footer
+lentajienjuhannus.fi###vasenlohko
+lentoliikennejailmasto.fi##.sponsors
+lentopalloliitto.fi##.banner a[href*="www.newbody.fi"]
+lentopalloliitto.fi##.banner a[href*="www.visulahti.fi"]
+lentovertailu.fi##TD[width="140"]
+lepakkolaakso.net##.box.px9
+lepakkolaakso.net##DIV[align="right"]
+lestadiolaisuus.info##BR + A > IMG
+levi.fi###basic-banners
+lieksabrass.com###adds
+lieksabrass.com###sponsors
+lieroxfin.net###LootSis > CENTER > A > IMG
+liiga.fi##.bottom-banners
+liigaeura.fi##.column2.float_left
+liigaeura.fi##IMG[style="border-width: 0px; width: 415px; height: 330px;"]
+liigaporssi.fi##.is-bar
+liigaporssi.fi##.is-navi-container
+liigariento.org###sponsors
+liike.fi##DIV[style="text-align: center; padding-bottom: 10px; width: 605px; float: left; margin-left: 0pt; margin-right: 0pt; padding-top: 10px;"]
+liikkeelleymparisto.fi##.logot
+liikkujanviikko.fi###left a[target="_blank"] > img
+liikkuvakoti.fi##.sidebar > .section > .block:last-child
+liikkuvatpalvelut.fi##H1 > A > IMG
+liiku.fi###content-sponsors
+liikuntakeskus.com##A[target="_blank"] > IMG
+liikuntakeskus.info##CENTER > A > IMG
+liikuntakeskussyke.fi###extras
+linnajazz.fi##P.jazzklubi
+linnajazz.fi##TD[valign="center"]
+linnanmaki.fi###region-footer-second
+lippo.fi###logosNew
+lippo.fi###top-right
+lippojuniorit.fi##.sbWrapper1 + DIV.sideCol
+lipputoimisto.fi###bannerit
+lipputoimisto.fi###bannerit2
+liukastumis.info##img[src$="/judo_logo.png"]
+liukastumis.info##img[src$="/ukk_logo.png"]
+liukuovicenter.com##.rightside
+livetulokset.com##.box_over_content
+livetulokset.com##.spacer10
+livetulokset.com###mobile-caption
+livetulokset.com##div[class^="adsenvelope"]
+loas.fi##.LaatikkoLinkki
+lohenkalastajanteno.net##TABLE + TABLE[style="table-layout: fixed;"]
+loistovinkki.fi##.laatikko:first-child
+loistovinkki.fi##P
+loma-asuntomessut.fi##.footer_content
+lomaasunto.net##.textwidget > A > IMG
+lomakoli.fi##img[src$="/koli_logo.gif"]
+lomamatkailija.com##.class100 > SPAN
+lomamatkat.fi##.scroll-panel.ad-scroll
+lomarengas.fi###banner_bar
+lomaseutu.fi##IMG[width="135"]
+lomasuomi.fi###logot
+lomasuomi.fi##img[alt="TableOnline.jpg"]
+lomasuomi.fi##P[style="text-align: center;"]
+loop.fi##.ad
+lostinmusic.fi##DIV + DIV.span-7.colborder2
+lounaat.fi###header > td > a.header-img
+lounaislappi.fi##.adContainer
+lounaislappi.fi##div[style*="width:956px; height:190px;"]
+lounastauko.fi###content_reklam
+lounastauko.fi##.lp_reklamgrupp
+lounastauko.fi##.lp_reklambox
+loviisa.fi###bannerit
+lprhcfest.com##td[height="170px"]
+lssy.fi##B + P[align="center"]
+lsyp.fi##TD[align="center"]
+luettelomedia.com###bstreamer
+luisteluliitto.fi##.banner
+luisteluliitto.fi###te-token-231845
+luisteluliitto.fi##TD[style="width: 475px; padding-right: 5px;"]
+lukeminen.fi##.title-luekirjafi
+lukio.fi##.Otsikko1_bold
+lukio.fi##DIV > BR + A > IMG
+lukiolaistenkirjakauppa.fi###mainFlash
+lumiparkki.fi###footer-2
+lumiparkki.fi##DIV UL.xoxo > LI.widget.widget_sp_image
+lumitykki.net###mainos_block
+lumitykki.net###mainos_block_forum
+lumojazz.fi##DIV[style="float: right;"]
+lumous.net##TD > TABLE
+luokkakokous.com###footer
+luontotupa.net##DIV[align="center"]
+luosto.fi##.alaosa
+luosto.fi###banners555
+luoteisvayla.fi##.adContainer
+luoteisvayla.fi##.adContainerWithMeta
+luoteisvayla.fi##div[style*="width:956px; height:190px;"]
+luotettavakauppa.fi##div[style="height:20px;"] + table[width="900"]
+luottamus.fi##P[align="left"]
+luovatampere.fi##.contact > IMG
+luovatampere.fi##.tsi_bannerslot.tsi_bannerslot_2
+lupiini.com##CENTER
+luuri.com##TABLE + * + *
+luvy.fi##.right_logo
+lykky.fi###footer
+lyy.fi##.banners
+lyy.fi##.kampanja
+maabrandi.fi##.sidebar_2.sbar3
+maailma.net###block-block-24 > H2 + DIV.content
+maailmankirjat.fi##TD[align="center"]
+maailmakylassa.fi###block-views-main-partners-block-1
+maapallo.fi##.advertisements > a[target="_blank"] > img
+maaporssi.fi###alapalkki
+maaporssi.fi###cooperation
+maaseudulleasumaan.fi##TD + TD
+maaseutu.fi##.logos
+macpiste.fi##TD[style="vertical-align: top; text-align: center;"]
+mahl.fi###laatikko + * IMG
+mahl.fi##H2 + * + P
+mainoskeskus.com##TD.napit
+mainoskeskus.com##TR > TD[align="right"]
+makenautokoulu.fi##TD[align="center"]
+makkari.fi##BR + * + * > IMG
+maku.fi##.articlePromo
+maku.fi##.column-150
+maku.fi##.column-150-frontpage
+makuja.fi##.article-sidebar .article-move > ul > li:last-of-type
+makuja.fi##.article-sponsors
+makuja.fi##.minibanner
+malminpalloseura.fi##.rightmenutd .contentbox:first-child
+malminpalloseura.fi##.rightmenutd .menubox
+mamk.fi##.partners
+mamok.fi##TD[style="padding-top: 10px; padding-left: 10px;"]
+managementevents.fi##.additional_banner
+mandatumlife.fi##.smallbox
+mandatumlife.fi###nostot
+mansikkakarnevaalit.fi##.laatikossaviiva TBODY
+mareus.net##TABLE TD + TD > A > IMG
+margaretha.fi###side_bar
+mariacos.fi##A > IMG
+marineparts.fi##.bannergroup
+mariska.fi##DIV[align="center"] > IMG
+marmai.fi##.adDisclaimer
+marmai.fi##.promoBox
+marmai.fi##.samBanner
+marmai.fi##.uratie_box
+martat.fi##.banner
+martinlaaksonsahko.fi###jsn-puser9_inner
+mascus.fi##.fairsBox
+mascus.fi##.farmitNews
+mascus.fi##.newsBox
+mascus.fi##.partnersBox
+maskunpalloseura.fi##div[style="margin-left: 28px; margin-top: 100px; text-align: center;"]
+masterstudies.fi###featured_container
+matara.fi###bottom > .box2,.box3
+matka-atlas.fi###banneri
+matkailijansuomi.fi##.bottomcontent
+matkailu.fi.msn.com##.partnerlogo
+matkailuinfo.net##TD.banneri_bannerit
+matkalehti.fi##DIV > BR + * + A + * + * + A > IMG
+matkaopaslehti.fi##.smf-footer-content
+matkaopaslehti.fi###smf-sites
+matkapuhelinfoorumi.fi##.sidebar > .widget-container:last-of-type
+matkarasti.fi##BR + BR + A > IMG
+matkarasti.fi##TABLE#AutoNumber9 TR + * + * + * > TD
+matkareitti.fi##TD[align="center"]
+matkavaruste.fi##table[width="700"]
+mato78.com###rss-2
+mbnet.fi###otTp-container
+mbnet.fi###topbanner
+mediakasvatus.fi###banner_block
+mediathor.fi###ala
+mediuutiset.fi###topBanners
+mediuutiset.fi##.crossPromoWrapper
+mediuutiset.fi##.samBanner
+mediuutiset.fi##.uratie_box
+megachat.fi##FONT > A > IMG
+megachat.fi##IMG[width="150"]
+meidancostablanca.com##CENTER > A > IMG
+meidancostablanca.com##IMG[height="150"]
+meidancostablanca.com##TD > A > IMG
+meidankotilkv.fi##TD > CENTER > A > IMG
+meidanperhe.fi##.is-navi-container
+meidanperhe.fi##.smf-footer-content
+meilahdenliikuntakeskus.fi###rightBlock
+memphis.fi###banners
+menaiset.fi###footerCovers
+menaiset.fi###footerLinks
+merikarvialehti.fi##.adContainer
+merikarvialehti.fi##.adContainerWithMeta
+merikarvialehti.fi##div[style*="width:956px; height:190px;"]
+merimieskirkko.fi##TD[width="200"]
+meripaiva-areena.fi###aside
+meripaiva-areena.fi###footer
+mersuforum.net##.vt-seperator + .content
+mersuforum.net##.ylabanneri
+mersuforum.net##td[width="120"]
+mese.fi##TD[align="middle"]
+mestaritradalla.com##P[align="center"]
+mestis.fi##.add
+mestis.fi##.rightbanner
+metalfromfinland.com###heading > A:first-child
+metallitori.com###column > center > a > img
+metkaweb.fi###sidebar2
+metku.net##TD[align="center"] > A > IMG
+metro.fi##.ads-ad
+metro.fi##div[style*="width:375px; height:250px;"]
+metrohelsinki.fi##.ad
+metropoli.net##.hentry-sidebar
+metropoli.net##DIV[style="position: absolute;"]
+metropoli.net##UL#menu-top-menu
+metropolia.fi###bannerit
+metsavetoomus.fi##DIV[align="center"]
+mielenterveysseura.fi##.blogi .p4table:last-child
+migsalibandy.net##TABLE + * + * TR[valign="middle"][align="center"] > TD
+mikseri.net###pop_digital_header_bar_container
+minimarathon.fi###right
+minunasuntoni.fi###ads
+minunasuntoni.fi###flashcontent
+minunauto.com##.magazine_cover
+minunauto.com##.topBanner
+mispet.com###mainosid
+misshelsinki.fi##.organizers
+mitamukaanlennolle.fi##.ads
+mnbw.fi##TD.captionModel0 > A > IMG
+mobiili.fi##.article_ad_1
+mobiili.fi##.article_ad_2
+mobiili.fi##.sidebar .textwidget > div[style^="height:250px"]
+mobiili.fi##.sidebar .textwidget > div[style^="height:600px"]
+mondediplo.fi##TD[height="26"]
+monicatours.fi###copyright > img
+montturock.fi##P.banner-wrapper
+moottoriliitto.fi##IMG[width="420"][height="45"]
+mopo-osa.com##BR + * TD > A > IMG
+mosanomat.com##.boksi > P > A > IMG
+motonet.fi###presentcard
+motot.net##.mainospalkkiMainos
+motot.net##DIV > BR + A > IMG
+movenet.fi###alabanneri
+movie-tv.fi##.banner
+mp-foorumi.com##CENTER
+mpc.fi##.crossPromoWrapper
+mpc.fi##.samBanner
+mpc.fi##.samTop
+mpc.fi##.uratie_box
+mtgsuomi.fi###sponsors
+mtv.fi##.ad
+mtv.fi##.mainos-text
+mu-suunnistus.fi##TD > DIV > A > IMG
+mugi.fi###rightcolumn2
+muistiliitto.fi###reference
+muistimarkkinat.fi###reference
+mulletoi.com##TD.centered
+munvuoro.fi###random_image_wrapper
+murha.info###vil_main + div + div#vil_custom2
+murobbs.muropaketti.com##td.alt1[align="center"]:first-child:last-child
+murobbs.muropaketti.com##td.thead[align="left"]:first-child:last-child
+murobbs.plaza.fi##a[href*="emediate.se"]
+murobbs.plaza.fi##td.alt1[align="center"]:first-child:last-child
+murobbs.plaza.fi##td.thead[align="left"]:first-child:last-child
+muropaketti.com#@#.advertorial
+muropaketti.com##.hv--ad
+muropaketti.com##.nostoboksi > div:first-child
+muropaketti.com##.om-magazines
+muropaketti.com###tmnostoboksi
+muropaketti.com###uranus-feed
+muropaketti.com##a[href*="emediate.se"]
+muropaketti.com##DIV[style="padding: 20px 0;background:transparent url(http://otavafiles.fi/plaza/s/img2/bg/ilmoitus_bg.gif) no-repeat left top;"]
+muropaketti.com##IMG[src="http://plaza.fi/s/img/muro/bulldogtestimuro.jpg"]
+muropaketti.com##IMG[style="margin:0 auto;display:block"]
+musiikinaika.org##TABLE[width="614"]
+musiikkikullas.fi###kuvat
+musiikkimedia.fi###logos
+musiikkimedia.fi###partners
+musiikkitalo.fi###partners
+musikantit.fi##.bannerbox > DIV.content
+muskleforum.com###ad_global_below_navbar
+muskleforum.com###widgetlist_column1 > li > .cms_widget
+muskleforum.com###widgetlist_column2
+muskleforum.com###widgetlist_column3 > li > div:not(.activitystream)
+muskleforum.com###sidebar > li:not(:first-child):not(:last-child)
+muskleforum.com##.body_wrapper > br
+muskleforum.com##.body_wrapper > center
+muskleforum.com##a[target="_blank"] > img
+mustapippuri.fi###footer-row3
+mustapippuri.fi##UL#footer-row2
+mustionlinna.fi##.moduletable > P > A > IMG
+muumilehti.fi##.textwidget > A > IMG
+muumimaailma.fi##TD[align="right"]
+muusikoiden.net##td[height="80"][bgcolor="#387070"] a[href^="/cgi/goto.php?banner_id="]
+myllymaki.com##.banner
+mypa.fi###pagetopbanners
+mypa.fi##div[style^="float:left; height: 300px; width: 962px;"]
+mypa.fi##div[style^="float:left; height: 180px; width: 140px;"]
+myyitseasuntosi.com###columnC_3columns
+myyjaosta.com##.affiliates
+myyttilukukansasta.fi###sidebar.right img
+naamakustannus.net##LI > A > IMG
+naamapalmu.com##a[href*="suomicasino.com"]
+naamapalmu.com##div[style*="text-align"] > a
+naantalinmatkailu.fi###rightContent > .systemBanner
+naantalinmusiikkijuhlat.fi##.footer_logos
+naantalintennispoka.fi##.tukijat
+nahkafoorumi.com###wrapheader
+naimisiin.info##IFRAME[src="http://banner.mobicross.net/show.php?id=10"]
+naimisiin.info##TD + TD > A > IMG
+naimisiin.info##TD + TD > IMG
+naimisiin.info##TD[width="130"] > A > IMG
+naisfutis.net##.bannergroup
+naisyrittajyyskeskus.fi###vvnavi + DIV
+nal.fi##img[src$="/ray_tukee.jpg"]
+nam.fi##TD[style="text-align: center;"]
+nauris.fi##DIV[style="line-height: 20px;"]
+nauris.fi##DIV[style="margin-bottom: 10px;"]
+nelonen.fi###zone-content-2 #block-views-promotions-block
+nelonen.fi##.field-name-field-promotion-main-image
+nelonenpro.fi##.unit-mu_html
+nestemertala.fi##IMG.logot
+nesteoilrallyfinland.fi##TD.bottom
+nesteoilrallyfinland.fi##TD[style="width: 16%; border: medium none;"]
+nesteoilrallyfinland.fi##TD[style="width: 20%; border: medium none;"]
+nesteoilrallyfinland.fi##TD[style="width: 24%; border: medium none;"]
+net##.tsFrameContainer
+netmission.fi##.bannerContainer
+netmission.fi##.flashBanner
+netmission.fi##TABLE.coWorkers TD IMG
+nettiasunnot.fi###side-b2010
+nettiasunto.com###huge_banner
+nettiasunto.com##.left_part > .graybox1
+nettiasunto.com##div[style="border-bottom:1px solid #D4D4D4;border-top:1px solid #D4D4D4;margin:14px 7px;padding:10px 5px 15px 0px;min-height:80px;"]
+nettiauto.com###ake_Ad
+nettiauto.com###bottom_list_adsense
+nettiauto.com###ge_money
+nettiauto.com###huge_banner
+nettiauto.com##.inh_banner
+nettiauto.com##.left_part_bg
+nettiauto.com##div[style="border-bottom:1px solid #D4D4D4;border-top:1px solid #D4D4D4;margin:14px 0;padding:10px 0 15px 0px;min-height:80px;"]
+netticaravan.fi##.jattibanneri_nappi
+netticaravan.fi##.nappibanneri
+netticaravan.fi###hintaseuranta
+netticasino.com##.banneritem
+nettiet.fi###footerWrapper
+nettikama.fi##.widget.widget-static-block IMG
+nettikaravaani.com###bottom_list_adsense
+nettikaravaani.com###ge_money
+nettikaravaani.com###huge_banner
+nettikaravaani.com###vifAdLeaderBoard
+nettikaravaani.com##.inh_banner
+nettikaravaani.com##.left_part_bg
+nettikaravaani.com##div[style="border-bottom:1px solid #D4D4D4;border-top:1px solid #D4D4D4;margin:14px 0;padding:10px 0 15px 0px;min-height:80px;"]
+nettikaravaani.com##div[style="margin:10px 10px 0 15px;border-top:1px solid #d4d4d4;border-bottom:1px solid #d4d4d4;padding:15px 0"]
+nettikirjakauppa.com##IMG + BR + P
+nettikone.com###bottom_list_adsense
+nettikone.com###ge_money
+nettikone.com###huge_banner
+nettikone.com###vifAdLeaderBoard
+nettikone.com##.inh_banner
+nettikone.com##.left_part_bg
+nettikone.com##div[style="border-bottom:1px solid #D4D4D4;border-top:1px solid #D4D4D4;margin:14px 0;padding:10px 0 15px 0px;min-height:80px;"]
+nettikone.com##div[style="margin:10px 10px 0 15px;border-top:1px solid #d4d4d4;border-bottom:1px solid #d4d4d4;padding:15px 0"]
+nettimarkkina.com###bottom_list_adsense
+nettimarkkina.com###home_right_banner
+nettimarkkina.com###huge_banner
+nettimarkkina.com###vif_right_banner
+nettimittari.com###banneririvi
+nettimokki.com###huge_banner
+nettimokki.com##.left_part > .graybox1
+nettimokki.com##div[style="border-bottom:1px solid #D4D4D4;border-top:1px solid #D4D4D4;margin:14px 7px;padding:10px 5px 15px 0px;min-height:80px;"]
+nettimoto.com###ake_Ad
+nettimoto.com###ge_money
+nettimoto.com###huge_banner
+nettimoto.com##.inh_banner
+nettimoto.com##.left_part_bg
+nettimoto.com##div[style="border-bottom:1px solid #D4D4D4;border-top:1px solid #D4D4D4;margin:14px 0;padding:10px 0 15px 0px;min-height:80px;"]
+nettiskabat.fi##DIV[style="text-align: center;"] > A > IMG
+nettitieto.fi##DIV[style="position: relative;"]
+nettivaraosa.com###bottom_list_adsense
+nettivaraosa.com###huge_banner
+nettivaraosa.com###vifAdLeaderBoard
+nettivaraosa.com##.inh_banner
+nettivaraosa.com##.left_part_bg
+nettivaraosa.com##div[style="border-bottom:1px solid #D4D4D4;border-top:1px solid #D4D4D4;margin:14px 0;padding:10px 0 15px 0px;min-height:80px;"]
+nettivaraosa.com##div[style="margin:10px 10px 0 15px;border-top:1px solid #d4d4d4;border-bottom:1px solid #d4d4d4;padding:15px 0"]
+nhbfinland.fi##TD[align="center"]
+nidan.fi##A > DIV[style="text-align: center"]
+nika.fi###leftlogos
+nika.fi###luotettava_kumppani
+nilsia.fi##IMG[style="width: 249px; height: 78px;"]
+nimenhuuto.com###header-banner-text
+nimenhuuto.com###pressbuzz
+ninuzi.fi##DIV[align="center"] > IMG
+niveltieto.net##td[width="173"]
+nkl.fi##.banners
+nkl.fi##.headlines > .logos img
+nkl.fi###menu .logo
+nokian-krp.com##DIV[style="margin: 0pt 0pt 10px; text-align: center;"]
+nokiankaupunki.fi##.banner
+nokianpalloseura.sporttisaitti.com###content-middle .banner
+nokianpalloseura.sporttisaitti.com###zone-right a[target="_blank"] > img
+nokianteatteri.fi##TABLE.valikonAlusZone TD[align="center"]
+nokianuutiset.fi##.adContainer
+nokianuutiset.fi##.adContainerWithMeta
+nokianuutiset.fi##div[style*="width:956px; height:190px;"]
+nopeustesti.com###header_banner
+nordea.fi##.PictureLeftTextRightContainer
+nordicnet.fi##.pagecontainer-advertising
+norex.fi##DIV[style="padding: 200px 0pt 0pt 50px;"]
+northpride.fi##.yhteis
+nuas.fi###nal-logo
+nuas.fi##img[alt="nal-logo"]
+nuas.fi##img[alt="ray-logo"]
+nuorenvoimanliitto.fi##P IMG
+nuoretkotkat.fi##P[align="center"] + P[align="center"] IMG
+nuorikulttuuri.fi##.bannerstripe
+nuorisoasunnot.fi##.selector
+nuorisoseurat.fi##TR + * + TR + * + * > TD
+nuoriteatteri.com##DIV[style="padding-left: 15px;"]
+nuoriyrittajyys.fi##.left > DIV.moduletable + DIV.moduletable
+nuortenlaturi.fi##.xmldoc + DIV.xmldoc
+nuotio.fi##DIV[style="padding: 30px 0pt 0pt; text-align: center;"]
+nups.fi###sponsor
+nupshockey.fi##.mod_bannerslider
+nurmeksenelokuvajuhlat.fi###banners
+nykyaika.net##TD[width="43"] + TD
+nyt.fi##.ad-container
+ocf.fi##p[style="text-align: center;"]
+offerium.fi###dontmiss
+ohjauspiste.fi###content_ala > DIV > IMG
+ohlk.fi##.content-sidebar > A > IMG
+ohlk.fi##H3 + * + * + IMG
+ohlk.fi##H3 + IMG
+oifm.fi###rightcolumn
+oifm.fi##DIV[style="clear: both; text-align: center; width: 100%; padding-top: 10px;"]
+oikeuttaelaimille.net##.bannergroup
+oikotie.fi###kavijaohjaus
+oikotie.fi###newsservice-feeds
+oindex.fi##.bottom
+oindex.fi##div[style=" padding: 5px; width: auto; background-color: #ecf2f6;"]
+okmatkat.fi##.box + * + DIV.box IMG
+olekartalla.fi##CENTER
+olekustannus.com##TD[align="center"]:last-child IMG
+olekustannus.com##TD[align="middle"]
+olennainen.fi##TD.infoBoxWhite > BR + A > IMG
+oll.fi##DIV[align="left"]
+oluset.fi##.footerrow
+oluset.fi##.footerRow:last-of-type
+olympia.fi##BR + BR + A > IMG
+omaisten.org##img[src$="/prospect_logo_box_small.gif"]
+omaisten.org##img[src$="/raytukee.png"]
+omnia.fi##A[target="_blank"][style="background-image: none; padding: 0pt;"] > IMG
+omvf.net###footer-crosslink + * IMG
+opaskoirakoulu.fi##.headlines.single
+opendoors.fi##TR
+openworld.fi##TD[style="padding: 8px; width: 35%; text-align: center; font-weight: bold;"]
+operafestival.fi##.SponsorsContainer
+opiskelijaliikunta.fi##DIV[align="left"]
+opko.fi###leftcolumn > DIV.module + DIV.module
+ops.fi###footer
+orivedenponnistus.fi##DIV[align="center"]
+ort.fi###BannersLeft
+oskut.fi##TABLE[cellspacing="8"][cellpadding="0"]
+oslalive.fi###footer
+ostohyvitys.fi###retailersdiv
+ostayritys.fi##TD.oikeareunamainokset
+otava.fi##div[class^="lift forbanner"]
+ougf.fi###footer-inner
+oulainen.fi##TD#palsta2
+oulufutis.com###ylakuva
+oululehti.fi###bannerAreaTop
+oulunkarpat.fi##table[style*="ouluopas.com"]
+oulunsalo.fi##DT
+ouluntaiteidenyo.net###content_right_header2 + DIV#right_content
+ouluntyostokeskus.com##P + TABLE TR
+ouluon.fi##.box2
+oulutourism.fi##.alabannerit
+oulutourism.fi##.banner
+ounasvaara.fi##DIV[style="text-align: center;"]
+outokummunkaupunki.fi##DIV[align="center"]
+overdrive.fi###banneri
+overdrive.fi###oikea
+overdrive.fi##hr:last-of-type + div.last.textcenter
+ovv.com###bcenter > DIV[align="center"]
+paakaupunkijuoksu.fi###zone-right
+paasykoekirjat.fi##.NavigationText.NavBarElement4
+paasykoekirjat.fi##.NavigationText.NavBarElement5
+paasykoekirjat.fi##DIV > P > A > IMG
+paasykoekirjat.fi##DIV[style="text-align: center;"] > A > IMG
+paijannepurjehdus.fi###dnn_RightPane > .Container:first-of-type
+paikallisosuuspankit.fi###Mainostila
+paikkaauringossa.fi###showbanner
+paini.fi###right > H2 + P
+painiliitto.net##.bannergroup
+pakilankukkatalo.fi##.sidebox + * + DIV.sidebox
+pakkalanpalloseura.fi##.region-sidebar-second img
+paljakka.fi###add-banner
+palkintokauppa.fi###freetextbox
+panimoliitto.fi##TD.logot
+pantti.fi###logo > IMG
+papunet.net###ray
+paralympia.fi##.bgmenu > .vp:last-child
+paralympia.fi##img[src$="/ba60c4c839.jpg"]
+paratiisi.fi##.banner
+paratiisi.fi##IMG[width="150"]
+parhaatkaupat.fi##.topBanner
+parhaattapahtumat.fi##TD[colspan="5"]
+pattijoenurheilijat.fi##.contentHeader + * + * + * > A > IMG
+peimari.net##P + * TR > TD > P > IMG
+pelaa.org##DIV[align="center"]
+pelaajalehti.com###konsolifin
+pelaajalehti.com###wallpaper
+pelastakaalapset.fi###partners
+pelastamaailma.fi##.module-pic-gallery.clear > UL.module-pic-text.module-pic-xs
+pelikone.fi##.is-bar
+peliplaneetta.net##div > iframe#haku:last-child
+peliplaza.fi###visa_bannerit
+peliplaza.fi##.banner_group
+pelissa.fi##STRONG + * + * + * + * + * + P
+peliveljet.com##.div_whitebox650_table TR[height="10"] + * > TD
+pentinkulmanpaivat.fi##.tukijan_logo
+pepofutis.net##.banner
+pepofutis.net###token-116697
+perheaikaa.fi##.frontpage-collaboration
+perheyritystenliitto.fi###bottom
+perhokalastajat.net##a[href*="/index2.php?action=click&id="]
+perhomessut.fi##H5 + P > A > IMG
+perkele.com###right
+perthes.fi##img[src$="/harvinaiset_100_k.jpg"]
+perthes.fi##img[src$="/harvinaiset_fi_k153.jpg"]
+perthes.fi##img[src$="/Nvu.png"]
+perthes.fi##img[src$="/Seitti_100_k.jpg"]
+perttipikkunalle.fi##A.banner
+pesakarhut.fi##DIV[align="center"] > A > IMG
+pesakarhut.fi##P > IFRAME
+pesakarhut.fi##P[align="center"] > A > IMG
+pesakarhut.fi##STRONG > A > IMG
+pesaysit.fi###lbox + DIV#lbox
+pesaysit.fi###sbox + DIV#sbox + DIV#sbox + DIV#sbox
+pesis.fi##.banner
+pesis.fi###content-banners
+pesis.fi###extrabanners
+pesis.fi###logot
+pesis.net##.sidebar2 img[width="175"]
+petsie.fi###logobar
+phlu.fi###token-123590
+phlu.fi##img[src$="/KU_LOGO.jpeg"]
+phlu.fi##img[src$="/lumilyhty.jpeg"]
+phlu.fi##img[src$="/pelis%c3%a4%c3%a4nn%c3%b6t.jpeg"]
+phnet.fi###php_logo
+piippohydraulic.com###alaosa IMG
+piivolley.fi###bannerit1p
+pikadeitti.com##TD.desc
+piknik.fi###sidebar
+piksu.net##DIV > P > A > IMG
+piksu.net##DIV[style="position: absolute; top: -125px; left: 850px;"]
+pipefest.net##.footer-icons
+pips.fi###sidebar a > img
+pirkankylat.fi##TABLE[style="border-collapse: collapse;"] TR > TD > P[style="margin-top: 0pt; margin-bottom: 0pt;"]
+pirkanmaa.fi###sidebar-first #block-block-15
+pirkanmaanviestinvaihto.fi##TABLE[align="left"]
+pirkka.fi###footer-top
+pislaploki.com##TABLE[align="center"]
+pistepirkko.fi###text-35
+pitajalainen.fi##TD[align="center"]
+pk-35.fi###parallax_pagelast
+pk-35vantaa.fi###leftcolumn DIV[style="text-align: center;"]
+plastiroll.fi###banner_container
+plastiroll.fi##DIV > DIV[style="text-align: center;"]
+plaza.fi###top-wide-ad
+plaza.fi##.om-magazines
+plaza.fi##.google-ads-landscape
+plustv.fi###etusivu_box_banners
+pmmp.fi###album > *
+po1nt.fi##TD[width="114"][height="282"]
+pogostanhiihto.fi##LI > A > IMG
+pohjanmaankaupat.fi##CENTER
+pohjolansanomat.fi###secondaryCol div > a[target="_blank"] > center > img
+pohjolansanomat.fi###tertiaryCol div > a[target="_blank"] > center > img
+pohjolansanomat.fi##.adContainer
+pohjolansanomat.fi##div[style*="width:956px; height:190px;"]
+poimuri.fi##.footerLogo
+poimuri.xetnet.com###banners_left
+poimuri.xetnet.com###banners_right
+pokeri.info##P[align="center"]
+pokerisivut.com###top_banner
+pokeri24.fi##CENTER IMG
+polarpharma.fi##.right
+poliisi-biitsi.com##DIV[style="position: absolute; top: 15px; left: 788px; color: white;"]
+politika.fi##DIV[style="cursor: pointer; text-align: center; border: 0pt none; width: 100%; max-height: 150px; height: auto; padding: 0px;"]
+politika.fi##P[style="text-align: center;"]
+poljin.fi##.visualPadding
+polkupyoraily.net###googleAdsBottom
+polttoaine.net##.rightCol
+polttoaine.net##.yhteistyo
+polttoaine.net##UL > LI:last-child > IMG
+pomoselka.fi##.custom_logot
+popcircus.fi###banners
+popfestivaali.fi##TABLE#sponsor_table
+popmedia.fi##UL.pro15
+popmuusikot.fi##SPAN#spanfooter
+poptravel.fi##.main_ad_1
+porinkarpat.fi##DIV[align="center"] > A > IMG
+porinshotokan.com##TD.captionModel0
+porla.fi##P > A > IMG
+poroholma.fi###bannerit
+porssiry.fi##.bbe_container
+porssisaatio.fi###mainokset_haku IMG
+porttipuisto.fi###footer_logo
+porttipuistoshopping.fi##.footerimage0
+positiivarit.fi##.OutsideBanners
+postiviidakko.fi##.divide
+potku.net##.suurtaulu
+potku.net###banneripaikka
+powertruckshow.fi##td[style^="width: 50%;"]
+powertruckshow.fi##td[width="750"]
+prettybit.fi##TABLE + * > BLOCKQUOTE
+priimax.fi##TD + TD + TD[valign="bottom"]
+privatehotels.fi##.moduletable_footerleft > p > a > img
+pro-tukipiste.fi##.csc-textpic-imagewrap
+projectia.fi##.box.flagarea
+promosystems.fi###footer_layer
+provinssirock.fi##.sponsors
+provinssirock.net##.sponsors
+pudottajat.fi###footer-row3
+pudottajat.fi##UL#footer-row2
+puhelimeni.fi###sidebar > .box:first-child
+puhelinvertailu.com##.news-wrapper
+puhtaastiparas.fi###main_navi > A > IMG
+puistoblues.fi###palsta_oikea
+puistolanurheilijat.fi##BR + TABLE[valign="top"]
+puistolanurheilijat.fi##TABLE.moduletable + * + * TD
+puistolanurheilijat.fi##TABLE.moduletable + * DIV[style="text-align: center;"]
+puistolanurheilijat.fi##TABLE.moduletable BR + * > IMG
+punainen.fi###content-right
+punainen.fi###navi-banners-left
+punainen.fi###some-logos
+puolankainfo.fi##.ilmo
+puolankainfo.fi##.lisaloota
+puolenkuunpelit.com##BODY[bgcolor="#000000"]
+pups.fi##TD[style="vertical-align: top;"]
+purjehduskurssi.com##table[width="570"] > tbody > tr > td:last-child
+purjehtija.fi##div[style="text-align: center;"] > a[target="_new"] > img
+purjehtija.fi##img[src="./tiedostot/johnnurminen.jpg"]
+purjehtija.fi##img[src="./tiedostot/Nautic.jpg"]
+purjehtija.fi##p[style="text-align: center;"] > a[target="_new"] > img
+purjelaiva.fi##DIV[align="center"] > STRONG > A > IMG
+puskaradio.net###banner
+puskaradio.net##.banner
+putkinotko.fi###kokoalaatikko
+putkiset.fi###jsn-puser9_inner
+puuhamaa.fi##.roundedcornr_box_501569
+puuhamaa.fi##P > A > IMG.alignright.size-full.wp-image-119
+puukulma.fi###alatunniste > A > IMG
+puumalanlohi.fi##img[src$="/kalevalaspirit.jpg"]
+puutarha.net##.isylapalkki
+puutarha.net##DIV[style="  cursor: pointer; cursor: hand; height:450px; margin-bottom:15px"] > A > IMG
+puutarha.net##DIV[style="  float:right; margin-right:25px; cursor: pointer; cursor: hand; height:230px; width:365px; margin-bottom:10px; margin-top:3px; margin-left:3px"] > A > IMG
+puutarha.net##DIV[style="position:absolute;top:0px"]
+puutarha.net##TABLE[width="188"]
+pyha-luostomatkailu.fi###footer-inner4
+pyha.fi##.alaosa
+pyha.fi###banners555
+pyhajokiseutu.fi##.adContainer
+pyhajokiseutu.fi##div[style*="width:956px; height:190px;"]
+pyynikinkesateatteri.com###SAContent3
+qruiser.com###ads
+qruiser.com###stripe
+raahe.fi##IMG[width="192"]
+raahenseutu.fi##.adContainer
+raahenseutu.fi##div[style*="width:956px; height:190px;"]
+raakaidea.fi##TD[align="default"] > P > A > IMG
+radicalpictures.fi##A.banner
+radicalpictures.fi##CENTER > TABLE
+radicalpictures.fi##IMG.banner
+radicaltv.fi##TR + TR > TD[align="center"]
+radio957.fi##TD + TD.topbar > A
+radiocity.fi##div[style$="height: 43px; background: url('/includes/topbar/bg.png') top repeat-x; z-index: 111;"]
+radiodei.fi###palsta3
+radiodei.fi###top
+radiofinlandia.net##.banneritem
+radiohau.com###banneri
+radiojkl.fi##TD + TD.topbar > A
+radiomega.fi##TD + TD.topbar > A
+radiopooki.fi###konsernipalkki
+radiopori.fi###eazy-corner
+radiorex.fi##.banneritem
+radiorex.fi##.news_ad
+radiorock.fi##.ad-content
+radiosata.fi##TD + TD.topbar > A
+radiosputnik.fi##TD > A:first-child > IMG
+radiosuomipop.fi##.ad
+radiosuomipop.fi###banner1
+radiosuomipop.fi###banner2
+raflaopas.com###linkit
+raflaopas.fi###linkit
+raisio.fi###right > form[action*="raisio-opas.com/haku/"]
+rajatsi.fi###footer
+rakas.net###block-block-1 DIV.content
+rakennuslehti.fi##.promoBasic + * + * + * + * + * + * + * DIV.inner
+rakennusmaailma.fi##.om-magazines
+rakennustieto.fi##TD[style="padding-bottom: 10px;"]
+rakennustieto.fi##TD[style="padding-left: 10px;"]
+rakentaja.fi##.ok
+rakentaja.fi##.rl
+rakentaja.fi###DOMWindow
+rakentaja.fi###DOMWindowOverlay
+rakentaja.fi###ulklink
+rakkaudeksi.fi##.content.rounded-bottom > P > A > IMG
+rakkaudeksi.fi###terve-fi-header
+rallisprintsm.fi###solu121
+rally.fi##.maincright > DIV[align="center"]
+ramasa.net##DIV[align="center"]
+ramsoo.fi##DIV[align="center"] > P + * + * + P
+randomi.fi##a[href^="http://clk.tradedoubler.com/click?"]
+randomi.fi##div[style="text-align: right; margin-bottom: -10px; margin-top: 10px;"]
+ranneliike.net##.box.px9
+ranneliike.net##DIV[align="right"]
+rannikkoseutu.fi##.adContainer
+rannikkoseutu.fi##.adContainerWithMeta
+rannikkoseutu.fi##div[style*="width:956px; height:190px;"]
+rantajatkat.fi###footer_mainokset
+rantajatkat.fi###mainoslinkit_oikea
+rantapallo.fi###car-suppliers
+rantapallo.fi###logot
+rantapallo.fi###navinmainos2
+rantapallo.fi###shopbop-core-widget
+rantapallo.fi###sidebanners
+rantapallo.fi###sivubannerit
+ranua.fi##IMG[width="200px"]
+ratsastus.fi##.banner-col
+ratsastus.fi##.partner-list
+raumablues.com##.LINKIT a[target="_blank"] > img
+raumablues.com##a[href*="/oiva.public.adclick.php?"]
+raumablues.com##td[width="170"]
+raumalainen.fi###footerBannerBox DIV.view-content
+raumanlukko.fi##.sb-sisalto-oikea a[target="_blank"] > img
+raumarock.fi##TD + TD[align="center"]
+ravintola.fi###side
+ravintolapiilopaikka.fi###sidebar1
+ravintolapiilopaikka.fi###sidebar2
+rax.fi###frontpage_theme
+refashion.fi###blogBanner > a[href*="utm_medium=Blogibanneri"]
+reginainen.fi##TD[align="center"]
+reilurekrytointi.fi###footer img
+rekrytointikoulutus.fi###mainfooter a.logolink
+relaa.com##.placeholder_180_150
+rengasservice.fi##TD + TD[align="center"]
+repu.fi##.content > P > A > IMG
+reseptitaivas.fi###footer img[src*="_logo"]
+reseptitaivas.fi##.panels-flexible-region-2-oikea_sivu-inside img
+reservilaisliitto.fi##.banners
+reservilaisliitto.fi##.content > H1 + * IMG
+ressunopkh.fi##.nucleusbutton
+restonomiylempiamk.fi##TD[style="text-align: center;"]
+retailhosting.fi##HR + P.center > IMG
+riemua.fi###oikeap
+riemurasia.net###MDkyMzE_1
+riemurasia.net###takeover
+riemurasia.net##.advertise_1
+riemurasia.net##.bannerTop
+riemurasia.net##.banners
+riihimaenpalloseura.fi###zone-left img[width="240"]
+riihimaenpalloseura.fi###zone-right img[width="240"]
+riihimakirock.fi##TD[align="center"][valign="middle"]
+riinu.fi##img[src$="/raylogo.gif"]
+riinu.fi##img[src$="/RMK_tunnus_web2.jpg"]
+riista.fi###bannerit
+riista.fi##TABLE[style="width: 438px; height: 81px;"]
+ringette.fi##P[style="text-align: left;"]
+ringette.fi##TD[style="text-align: center;"]
+ringsidegolf.fi##.logos
+ringsidegolf.fi##img[src$="/FINNAIR_Logo_Blue.PNG"]
+rintamamiestalo.fi##TD[align="left"] > A > IMG
+ripcurl.fi##P
+riverball.fi##P + * + P
+riverball.fi##TABLE#table3
+riversidetruck.fi##img[style="width:600px"]
+rkl.fi##IMG[width="180"]
+rmj.fi##TD[width="147"]
+roboshop.fi##TD[style="vertical-align: top; text-align: center;"]
+rockfutis.fi##.sidebar2
+rockkonttori.net##A.rss
+rockmodels.fi##BR + * + CENTER
+rockmodels.fi##TABLE.smalltext TD + TD
+roihu.fi##TD.captionModel0 > A > IMG
+rokkikauppa.com##TD#right_division
+rokkizine.fi##.palsta_last
+roosters.fi###linkcat-2
+rops.fi###sp-bottom-wrapper
+rops.fi##.sprocket-mosaic
+rosebud.fi##TD#vass3
+rovaniemi.fi##.logot
+rtv.fi##IMG.bonus
+ruisrock.fi##.bannerbox
+ruisrock.fi##.partners
+ruka.fi###eulogot
+rukaadventures.fi##img[src="/images/stories/ruka_kmo.gif"]
+rukaadventures.fi##img[src="/images/stories/st_lapland_logo.png"]
+rumba.fi##UL.pro15
+runolaulu.fi##.valikko_pohja + * + * > IMG
+runolaulu.fi##P.laaninhallitus
+runoviikko.fi##.sidebar-text + * + * + * + * + * + DIV.sidebar-text
+runoviikko.fi###footer
+runtoshop.fi###fpwidget
+runtoshop.fi##DIV[style="width: 238px; border: 1px solid rgb(150, 163, 193); text-align: center; padding: 5px;"]
+ruoka.fi##.om-magazines
+ruokala.net###hdr_container
+ruokalistat.net##.lv-border
+ruokalistat.net##.mustareuna tr:first-child > td:last-child
+ruokamenot.fi##.banneritem
+ruokaohje.fi##DIV[style="border: 3px solid rgb(255, 255, 255);"]
+ruotsinsuomalainen.com##P > A > IMG
+ruotsinsuomalainen.com##TD > A > IMG
+ruutu.fi###region-ad-top
+rytmi.com##UL.pro15
+rytmiraide.fi##TABLE[align="center"]
+s-matkat.fi###mata_cycle_contentscroller
+s-matkat.fi##TABLE + IMG
+s-matkat.fi##TD#setukortti > A > IMG
+s-pankki.fi##.timedSlot
+s-pankki.fi###frontBottom
+saabclub.fi##.footerlogot
+saariselka.com##.footer-banners .external-link
+saariselka.com###portal-column-two .external-link
+saariselka.fi###banner-wrapper
+saariselka.net##img[src="images/netplaza_inari.gif"]
+saaristo-open.fi###yhteistyo
+saaristo.org##td[style^="background: url(images/etufooter.jpg)"]
+saastopankki.fi##.PieniKampanja2
+saastopankki.fi###Mainostila
+saastopankki.fi##TD.Alas.BTDot
+saastopankki.fi##TD[style="width: 185px;"]
+sahkoala.fi##a[target="_blank"] > img[src^="/_shared/_files/"]
+sahkovertailu.fi###topSection
+saimaablues.fi###footer-widgets
+saimaanvesityo.fi##.leftCol a > img
+saimaaspirit.fi###palsta-right + DIV#bottomline
+saimaavolley.fi##.left_banner
+saimaavolley.fi##.sponsors
+saipa.fi###top-sponsors
+saipafanit.com###friends
+sak.fi##.etusivu_keskibanneri_border
+sakury.net###block-block-7
+sakuverkosto.net###footer
+sakyla.info##.tarjous1
+sakyla.info##.tarjous2
+sakyla.info##.tarjous3
+salmisali.fi##TD > A + BR + A > IMG
+sampotours.com##.top_right
+samsec.fi##TD[style="padding-top: 25px;"]
+sana.fi##.banner
+sanakirja.org###hs_logo
+sanakirja.org##.hs-links
+sanasto.fi##.banner
+sandelsrock.com##DIV[align="right"]
+sankarit.fi##BR + BR + A > IMG
+sanomamagazines.fi###flashCarousel
+sanssi.fi###footer TD > IMG
+sanssi.fi##P + TABLE TD > IMG
+santatelevision.com###bottom-banners
+sap-osaaja.fi###mainfooter a.logolink
+sapko.fi##.rightbanner
+sarkaa.fi###footer
+sarkaa.fi##P + * + P[style="text-align: center;"]
+sastamala.fi##.vasen_sisalto
+satahamesoi.fi##table.Bottom
+satakunnankansa.fi##.adContainer
+satakunnankansa.fi##div[style*="width:956px; height:190px;"]
+satakunnanviikko.fi##.adslist
+sateenkaariperheet.fi##table[width="980"] > tbody > tr:nth-of-type(6) h3[style="text-align: center;"]
+sateenkaariperheet.fi##table[width="980"] > tbody > tr:nth-of-type(6) p[style="text-align: center;"]
+sato.fi##.frontpageMedia
+saunalahti.fi###campaign_block
+saunalahti.fi##SPAN.naviadd > A > IMG
+saunarekka.fi###bottom-nav
+savonkinot.fi##DIV A > IMG
+savot.fi##.bannerAreaMain
+scclassic.com##DIV[style="position: absolute; font-size: 50px; z-index: 2; width: 468px; height: 60px; margin: 15px 0pt 0pt 170px;"]
+schonox.fi##.BAContentColumn
+schonox.fi###ctl00_PlaceHolderMain_rifImage03__ControlWrapper_CustomRichImageField EMBED
+sebateam.fi##IMG[width="209"][height="63"][border="0"]
+seikkisrock.net###logot
+seiska.fi##DIV[style="overflow: hidden; width: 100%; position: relative;"]
+seittiweb.org##img[src$="/ray_tukee.gif"]
+semifinal.fi##td[width="640"] a[target="_blank"] > img
+seniorinetti.fi###footer-left
+serena.fi##TABLE.corporatelogos
+sestatic.fi###ISBoksi
+sestatic.net##.banner
+seta.fi##img[src$="/RAY_Tukee_MV_CS2.gif"]
+seura.fi##.mainbox
+seura.fi##.om-magazines
+seura.fi##.topbox
+seura.fi##.widget_rss
+seurakuntalainen.fi##.banner
+seurakuntalainen.fi##.item + * + DIV.item
+seuratuki.fi##TD[align="center"] IMG
+seutulanautomaalaamo.fi##.etusivuBannerit
+seutunappi.fi##.footerLogos.noPrint
+seutuneloset.fi##BR + A > IMG
+sevilla.fi###col-right
+sexpert.fi##.bottom-oikea
+sey.fi##.logot
+sfnet.fi##tbody:last-child > tr.top:last-child
+sfnet.fi##td[class="otsikko2"]
+shl.fi###banner-top-slot
+shootout.fi##._menu + * + * + * DIV.module.png > DIV
+siba.fi##TABLE[width="285"]
+siipe.com##TABLE.defaultContentElem TD[align="center"]
+siipe.com##TD[valign="top"] TD[align="center"] > A > IMG
+sijoitus.org##TD[width="145"] > DIV[align="center"]
+simpsiohiihtokeskus.com###ctl00_LeftBanner2_Panel1
+sinebrychoffintaidemuseo.fi###bottomlogo
+sininauhaliitto.fi##.kuvadiv
+sinkkuna.fi##CENTER
+sinkkuna.fi##TD[width="500"]
+sinunsavo.fi###mainostajat
+sips.fi##.bannerlink
+sirkusfinlandia.fi###sponssi
+sirkusfinlandia.fi##img[width="305"]
+sitefactory.fi##DIV[style="margin: 15px; text-align: center;"]
+sivuviidakko.fi###footer TD[align="right"]
+sixdegrees.wm.fi##.sidecol IMG
+sixdegrees.wm.fi###sidecol-top + * + * + * + DIV.module
+sixdegrees.wm.fi###sidecol-top + * + * + DIV.module
+sjal.fi##IMG[src="/@Bin/126225/eerikkila.jpg"]
+sjk2007.fi###Yhteystyölogot
+sjk2007.fi##table[style="width: 650px; height: 733px;"] tr:last-of-type
+sjl.fi##TD[width="160"]
+skidiviihde.fi##.alapalkki
+skidiviihde.fi##TD.sisalto_oikea
+skp.fi##TD[colspan="14"]
+sksl.fi##p[align="center"] > a[target="_new"] > img
+sktl.fi###content-right .banner
+skv.fi##.banners2_skv
+skv.fi##object[id$="NordeaBanner"]
+skvl.net##.oikea img
+skvl.net##.vasen img
+sky-bar.fi##P > A > IMG
+slalom-seura.fi###oikeadiv > .box1:last-child
+sliippikuva.net##img[style*="width: 468px; height: 50px;"]
+sliippikuva.net##td[style*="width: 462px;"] > br:first-child + div[style*="text-align: center;"]
+sliippikuva.net##td[style*="width: 470px;"] > br:first-child + div[style*="text-align: center;"]
+sliippikuva.net##td[style="text-align: center; background-color: rgb(255, 255, 255); width: 155px; vertical-align: top;"]
+sm-liiga.fi##.bottom-banners
+sm-liiga.fi###liigaPorssi
+smartbuilder.fi##TD > IMG + IMG
+smartia.fi###logot
+smartia.fi##IMG[src="http://www.smartia.fi/smartbuilder.jpg"]
+smilehouse.com##.aukiolo + A > IMG
+smkj.fi###banners_oikea
+smt.fi##DIV[id="article_23702_512866_1.0"]
+smy.fi###forest
+snacky.fi###block-block-10 A > IMG
+snacky.fi###block-block-7 A > IMG
+snowclub.fi###link > h4 + h3 + p + p
+snowclub.fi###link > h4 + h3 + p > img
+soininpalloseura.net###footer > .tukijat
+sokoshotelkoli.fi##img[src$="/kolilogo.gif"]
+sokoshotelpresidentti.fi##IMG.banner
+sokoshotels.fi###banner1
+sokoshotels.fi###hotels_banner2_etusivu
+solariskylpylat.fi###banners
+solutions.fi##TD + TD > DIV
+sonkajarvi.fi###ContentVersionEditView1_interface_iw_column_inner_iw_column_3.iw_column_inner > DIV
+soppakauha.com##img[src^="/kuvat/c"]
+sosa.fi##.logot
+sosiaalisestirajoittuneet.fi##iframe[src*="amazon"]
+sotajumala.com##.banner
+sotavasara.net##DIV[style="position: absolute; top: 0px; right: 10px; width: 160px;"]
+sotavasara.net##div[style="text-align: center; padding: 20px 0;"]
+sotaveteraaniliitto.fi###footer p[style="float: right;"]
+sotiemmeveteraanit.fi###block-block-12 > DIV.content
+sotkamolehti.fi##.adContainer
+sotkamolehti.fi##.adContainerWithMeta
+sotkamolehti.fi##div[style*="width:956px; height:190px;"]
+sotkamonjymypesis.fi##.right-sidebar-wrapper a[target="_blank"] > img
+southwood.fi##P + HR + P > IMG
+southwood.fi##TD
+speedmotorcircus.fi###right > DIV.block.block-block > DIV.content
+spinfm.fi###sidebar
+sportsacademy.fi##.banner
+sportti.com###kontti
+sportti.com###panorama_container
+sportti.com##.grid_4 > div[style$=";margin-bottom:6px;"] > a
+sportti.com##.grid_12 > div[style$=";margin-bottom:6px;"] > a
+sportti.com##.grid_12 > div[style$=";margin-bottom:6px;"] > div[style^="float:left;"]
+sportti.com##.grid_12 > div[style$=";margin-top:6px;"]
+sportti.info###zone-right
+sporttisaitti.com##TD[width="160"]
+ssl.fi##TABLE.tableborder
+ssl.fi##TD[align="center"]
+sss.fi##.bannerDashedBottom
+stadissa.fi###flashContent
+stll.fi###zone-right .banner
+stockmann.fi###picture
+studio55.fi##.block.recommendations
+studio55.fi##.sidebar_block
+studio55.fi###tandem
+subway.fi###bannerbottom
+subway.fi###bannerright
+suisto.fi###ekapystybanneri
+suisto.fi##DIV > TABLE[border="0"]
+sukol.fi##.center_banners
+sukol.fi##.rightbanners
+sukol.fi##IMG[src="files/1384/204/Educa.jpg"]
+summerup.fi###oikea_sisalto_yhteistyokumppanit
+sunlahti.fi##td[height="150"][bgcolor="#FFFFFF"]
+sunlight.fi###linkit
+sunsali.net##TABLE + BR + DIV[align="center"]
+sunsetbeachparty.net###colophon
+suntuubi.com##DIV[onclick="location.href='http://sa.suntuubi.com/sa/w/d/ck.php?oaparams=2__bannerid=130__zoneid=3__cb=501731c24e__oadest=http%3A%2F%2Fwww.suntuubi.com%2F%3Fnewspage%3D173';"]
+suntuubi.com##DIV[style="border: 1px solid blue; background: rgb(255, 255, 255) url(http://sa.suntuubi.com/sa/www/images/suntuubilogo14.png) no-repeat scroll right bottom; overflow: hidden; width: 140px; text-align: left ! important; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; padding-bottom: 5px;"]
+sunvolley.fi##TABLE[style="height: 202px;"]
+suomalainenkylpyla.fi##.img_large_right
+suomela.fi##.ad
+suomengospel.org##P + DIV[align="center"]
+suomenhevonen.info##LI
+suomenkuvalehti.fi###topbanner
+suomenkuvalehti.fi##.om-magazines
+suomenkuvalehti.fi##.YK_feedbox
+suomenlatu.fi##.banner
+suomenlomapalvelu.fi##TD[width="151#"]
+suomenmaa.fi##.banner
+suomenmonikkoperheet.fi##img[src="pix/ray_tukee.gif"]
+suomenpolkupyoratukku.fi##.banners
+suomenpolkupyoratukku.fi###bannerbox2
+suomenpolkupyoratukku.fi###bannerboxall
+suomensanomat.fi###static-info
+suomentanssistudiot.fi##IMG.banner
+suomentivoli.fi##TD > P[style="text-align: center;"]
+suomentule.fi##img[src$="/RAY_Tukee.jpg"]
+suomenurheilugaala.fi###logot
+suomenviihderavintolat.fi###banner2
+suomenyritykset.fi###almalogo
+suomi-seura.fi##NOLAYER
+suomi24.fi##.block.S24_partner
+suomi24.fi###total.sanomat.block
+suomiareena.fi###banner2
+suomiareena.fi###banner5
+suomiareena.fi###jarjestajat
+suomiareena.fi###kumppanit
+suomiespanjaseura.fi###ilmo img
+suomimeloo.fi##a[target="_blank"] > img[width="115"]
+suomiopas.fi##.oikea a[target="_blank"] > img
+suomiruotsimaaottelu.fi###footer DIV.view-content
+suoraplus.fi##.frontBanner1
+superjymy.fi##.kumppanit
+supersaver.fi##.footerPane
+supersaver.fi##DIV[style="padding-top: 15px; padding-bottom: 20px;"]
+supersaver.fi##OBJECT#foto_banner
+surok.fi##P[align="center"]
+suunnistus.fi##TD[height="45"]
+suunnistusliitto.fi###oikeapalsta
+suunnistusliitto.fi##IMG.imgfoot
+suunnistusliitto.fi##TD[align="center"]
+suupohja.fi##TD[style="width: 303px;"]
+suupohjanseutuverkko.fi##TD[style="text-align: center;"]
+suurkeuruu.fi##.adContainer
+suurkeuruu.fi##.adContainerWithMeta
+suurkeuruu.fi##div[style*="width:956px; height:190px;"]
+suursoudut.fi###yhteistyo
+suursoudut.fi##a[target="_blank"] > img[width="150"][height="150"]
+svosk.fi###Oikea_palkki > p > a > img
+svosk.fi###Vasen_palkki > p > a > img
+svosk.fi##img[src="index.2.gif"]
+svu.fi##TD[width="160"]
+svyl.net###botright
+sydansatakunta.fi##.adContainer
+sydansatakunta.fi##.adContainerWithMeta
+sydansatakunta.fi##div[style*="width:956px; height:190px;"]
+synsam.fi##DIV[align="left"]
+sysmansuvisoitto.com###footer2
+tackla.fi##BR + BR + * > IMG
+tackla.fi##TD.left_marginaali + TD > A > IMG
+tahko.com##div[style$="border-color: #efefef; border-style: solid; border-width: 1px;"]
+taikahanke.fi##TR + * TABLE[border="0"]
+taimiry.fi##img[src$="/RAY_tukee.png"]
+taito.fi###colbottom
+taivashupellus.com###kumppanilogot
+taivassalo.fi##TD[style="padding-bottom: 20px;"]
+takaisintoimeen.fi##.aff
+takilta.fi##TD A > IMG
+takku.net##.block-box-left A > IMG
+tallukka.fi##UL.fpbanners IMG
+taloforum.fi##CENTER
+talotekniikka-lehti.fi##.index_mainosbanneri
+talotekniikka-lehti.fi##.nostowrapster
+talotekniikka-lehti.fi##H3.rsstitle
+talotekniikka-lehti.fi##LI
+talotekniikka-lehti.fi##NOLAYER
+talous.com##TD[valign="top"] IMG
+talous.net##P + P IMG
+talouselama.fi##.adDisclaimer
+talouselama.fi##.promoBox
+talouselama.fi##.samBanner
+talouselama.fi##.uratie_box
+taloussanomat.fi##.ad
+taloussanomat.fi##.generalPromo.sitePromo.isPromo
+taloussanomat.fi##.leikiMarkkinapaikat
+taloussanomat.fi##.newsFrontAd
+taloussanomat.fi###articleMiddleAd
+taloussanomat.fi###hsframeContainer
+taloussanomat.fi###iltasanomatPromo
+taloussanomat.fi###rakentajalehticontainer
+taloussanomat.fi##div[id*="oikotie"]
+taloussanomat.fi##iframe[src$="/radiohelsinki/app.php"]
+taloussanomat.fi##iframe#rak_otsikot
+taloustaito.fi##.control.image > DIV.content
+taloustaito.fi###ctl00_body_ctl00_banner_ctl01_sectionFlashContent
+taloyhtio.net##DIV[style="border-top: 1px solid rgb(255, 255, 255);"]
+tammerfest.fi##a[href*="/oiva.public.adclick.php?"]
+tammerfest.fi##footer
+tampere-talo.fi###memberof
+tampere-talo.fi###spons
+tampereairshow.fi###partners
+tamperefilmfestival.fi###footer
+tampereensosiaalifoorumi.fi##DIV[style="border-top: 1px solid rgb(102, 153, 51); position: relative; left: -437px; top: 90px; width: 894px; height: 80px; text-align: center;"]
+tampereensuomalainenklubi.fi##TABLE.kuvataulu
+tampereflamenco.com##TD.logot
+tampereunited.com##.cms_banner
+tampereunited.com##.front_column_right.float_right
+tampereunited.com##.partners
+tampereunited.com##A + A > IMG
+tampereunited.com##DIV[style="padding: 5px 0pt;"] IMG
+tangomarkkinat.fi##table[width="212"] a.linkki
+tangomarkkinat.fi##table[width="620"] td[bgcolor="#ffffff"]
+tankkaus.com##.bannerBorder
+tankkaus.com##TD.footer
+tanssi.fi###footer_layer
+tanssipelit.fi##.center
+tanssiurheilu.fi##.paasivu_banneri
+tapahtumainfo.fi###header > A
+tapahtumaopas.fi###hdr_container
+tapahtumaopas.fi##IMG[style="margin-left: -4px;"]
+tappara.fi##.etusivu_right
+tappara.fi##img[src$="/banner_mobiilisivu.jpg"]
+tapsantahdit.fi##IMG[width="740"][height="50"]
+tarhauskielto.fi##.column.A
+tarhauskielto.fi##.column.B
+tarhauskielto.fi##.column.C
+tarinanet.net##P + * + * + * + IMG
+tarjouskilpailu.fi###mo-o
+tarjoustalo.fi##CENTER
+tarvikkeet.fi##img[src$="/traktorimies.jpg"]
+tasa-arvoklinikka.fi##DIV[style="text-align: center;"]
+tasa-arvoklinikka.fi##P[align="center"]
+taskumuro.com###tmnostoboksi
+taskumuro.com###uranus-feed
+taskumuro.com##.om-magazines
+taskumuro.com##IMG[style="margin:0 auto;display:block"]
+teatterihelsinki.fi##DIV[align="center"] + * + * + * + * + * + P
+teatterisoittorasia.com###osa
+teatteritakomo.fi##TD[width="609"] > IMG
+tector.fi##.sectionSidebarRight
+teehyvatyo.fi###alamummo
+teeparannus.fi##TD.right > DIV.content
+teerenpeli.com##.pieni_banneri
+teijo.com##TD > A > IMG
+tekniikanmaailma.fi##.om-magazines
+tekniikanmaailma.fi##.YK_feedbox
+tekniikantyot.fi##TD + TD + TD[width="100%"]
+tekniikantyot.fi##TD[width="206"][align="center"]
+tekniikkaparkki.fi##CENTER
+tekniikkatalous.fi##.crossPromoWrapper
+tekniikkatalous.fi##.samBanner
+tekniikkatalous.fi##.samTop
+tekniikkatalous.fi##.uratie_box
+teknolelu.fi##.box > DIV.textwidget
+tekry.fi##P.txtbody TD > IMG
+telehaku.fi##TD.banneri_bannerit
+telehaku.fi##TD.valikko_bannerit_banneri
+telemark.fi##DIV[align="right"] IMG
+telkku.com,telkka.com,telkku.fi###klFrame
+telkku.com,telkka.com,telkku.fi###topBannerWrapper
+telkku.com,telkka.com,telkku.fi##.centerAreaAds
+telkku.com,telkka.com,telkku.fi##.il-movie-widget
+telsu.fi##a[href^="/clk?"]
+telvis.fi##.fullad-wide
+telvis.fi###adsjatti
+telvis.fi###adstaulu
+telvis.fi##div[class^="fullad"]
+tennis.fi##.banneripaikka_top
+tennis.fi##a[href*="?snb_adname="]
+tennis.fi##div[style="position:absolute;top:100px;right:-160px;z-index:50;"]
+tepsilaiset.net###footerRight
+tepsilaiset.net###linkit
+terassisaa.fi###newsbox
+terkkari.fi###footer-row3
+terkkari.fi##UL#footer-row2
+terrieri.net##TABLE#bannerbox-table
+tervarumpu.fi##.leftlogos
+terveinkansa.fi##.widget-coop.widget
+terveyshymy.fi###sidebar-banners
+terveyshymy.fi##.om-magazines
+terveyshymy.fi##.sidebar_mainos
+terveysinfo.fi##.bannerlink
+terveyskaupat.net##.NavigationText.NavBarElement4 > P
+terveyskaupat.net##P > A > IMG
+tesory.com###banners
+testpro.fi###mainfooter a.logolink
+tfp-markkinointi.fi##P[style="text-align: center;"]
+thaimaa.suomalaisille.com##img[width="580"]
+thairy.net##P[align="center"]
+thairy.net##P[align="left"]
+thairy.net##P[align="right"]
+thebabes.fi###linkit
+thebabes.fi##TD.oikeabannerit
+thecircus.fi###footer > A > IMG
+tiede.fi##div[style*="iltasanomat.fi/boksit/smf/"]
+tiede.fi##DIV[style="margin-top: 5px; margin-bottom: 15px;"] > DIV
+tiedonantaja.fi###banners
+tieku.fi##.pane-banner
+tietojohtajakilta.net###linkkiluettelo + DIV#linkkiluettelo
+tietokeskus.com##.mosaic
+tietokilta.fi##.boksiPieni + * > H2.boksin-otsikko + DIV.boksin-sisalto
+tietokonekauppa.fi##IMG.banner
+tietoteekkarikilta.fi###valikko div[style="text-align: center; border-top: 1px solid #ccc; border-bottom: 1px solid #ccc; font-size: 8pt;"]
+tietoturvaexpert.fi###mainfooter a.logolink
+tietoturvakoulu.fi##img[src="/images/5CK1AwSkL/EU.jpg"]
+tietoviikko.fi##.crossPromoWrapper
+tietoviikko.fi##.fp_promoPictureOnly
+tietoviikko.fi##.interstitial
+tietoviikko.fi##.samBanner
+tietoviikko.fi##.samTop
+tietoviikko.fi##.uratie_box
+tiilikatto.fi##HR + P[style="text-align: center;"]
+tikkuri.fi##.banner
+tikkurilanpalloseura.fi###zone-left .contentImageArea
+tikkurilanpalloseura.fi###zone-right .contentImageArea
+tilaajavastuu.fi##.contentbottom
+tilaajavastuu.fi##.innercontent2 > DIV > IMG
+tilaajavastuu.fi###innersection3
+tilannehuone.fi##.is-navi-container
+tilastopaja.fi##P[style="margin-top: 0pt; margin-bottom: 0pt;"]
+tilastopaja.fi##TD + * + * IMG
+tirva.fi##TD.mainostd
+tivolisariola.fi##TABLE + DIV[align="center"] > IMG
+tivolisariola.fi##TD > DIV.content_image
+tohtori.fi###footer-row3
+tohtori.fi##UL#footer-row2
+toimihenkilounioni.fi###bannerit
+toisenlainentukholma.fi##.leftcol IMG
+toisenlainentukholma.fi##.mbot
+toisenlainentukholma.fi###footer
+toisenlainentukholma.fi###silja-expand-wrapper
+toisenlainentukholma.fi###viking-expand-wrapper
+toivonpaiva.fi###top
+tokimoto.fi##TD.bottom
+tollerit.fi##a[href^="http://www.tollerit.fi/@Banner/Goto?num="]
+topgearsuomi.fi##a[href*="topgearsuomi.fi/simpleads/"]
+topkani.fi##.ad
+topkasinot.com##.adv_news
+topkasinot.com##.adv_news_title
+toppari.fi###left > .banners-bottom:last-child
+toppari.fi##.article_column > .article_separator + .contentpaneopen td[valign="top"][colspan="2"]
+tori.fi###banner_index_top
+tori.fi###banner_list_top
+tori.fi###banner_view_top
+tori.fi##.tori_banner_space
+torilehti.fi###jainoscont
+torilehti.fi##TD[style="padding-top: 7px; text-align: center;"]
+tornio.fi##.bannerbox
+totta.fi###banner-wrap
+tourdehelsinki.fi###sponsors
+tourdehelsinki.fi###sub_sponsors
+tpnaillounge.fi##P > IMG
+tps.fi###rightBanners
+tps.fi##.footerlogot
+tredea.fi###token-29235
+trety.org###rt-sidebar-a > .rt-block:last-child
+trivago.fi###skyscraper
+ts.fi###aamuset_feed_div
+ts.fi###precontent-ads
+ts.fi##.banner-box
+ts.fi##.footer-banner
+ttlry.fi###block-views-banners-block_1
+ttt-teatteri.fi##TH > A > IMG
+tuhatkunta.fi##CENTER > A > IMG
+tukiasema.net##tr:first-child a[href^="http://www."]
+tul.fi##P[align="center"]
+tul.fi##TD[align="center"][style="padding-bottom: 15px;"]
+tulevoittajaksi.com###annonser
+tulivuorirock.fi##TD#sponssi_td
+tune.fi##.bannerit
+tune.fi###ads
+tuningstudio.fi##.banners
+tuningstudio.fi###bannerHeader
+tunturihotelli.fi##.references
+tuomiokirkko.helsinginseurakunnat.fi##TD#tdZoneRight
+tuoreeksterveeks.fi###content-middle .contentImageArea
+tups.fi##.banner
+turku2011.fi###footer-sponsors
+turkumodern.com##.icons IMG
+turkumusicfestival.fi###divSliderMain
+turkusoundcheck.com###sponssit-row
+turmion-katilot.info##.release
+turunkokoomus.fi###footer_logos
+turuntaiteidenyo.fi###left_links
+tuska-festival.fi##.sponsors_bottom
+tuska-festival.fi###banner_wrapper
+tutohockey.fi##.rightbanner
+tuulantei.fi##TD > P + * > IMG
+tuuri.fi###logos
+tuurinkonehuutokauppa.com##img[src$="/hankinta vinkit 2.jpg"]
+twangfest.fi##A > IMG
+tykkimaki.fi##.web_oikea_palsta > div > .web_listaus_item:nth-last-of-type(-n+3)
+tyopaikat.oikotie.fi##.prefooter-last
+tyrvaansanomat.fi##.adContainer
+tyrvaansanomat.fi##.adContainerWithMeta
+tyrvaansanomat.fi##div[style*="width:956px; height:190px;"]
+udi.fi###footer
+uinti.com##.klikki
+uinti.com##img[src$="/Lahti%20aqua%20kopio.gif"]
+uinti.com##img[src$="/TYRLogo.gif"]
+uit.fi###footerRight
+uittoyhdistys.fi##TABLE[width="360"]
+ulvilanpesa-veikot.fi###yritystenlogoja2
+untorock.com###partners
+uranus.fi###sidebanners
+uratie.fi##TD[width="176"]
+urheiluakatemia.fi###footerbottom
+urheiluakatemia.fi##IMG[src$="/banneri-iso-valktausta.jpg"]
+urheiluakatemia.fi##img[src$="/pnk-logo_hyvinpieni.jpg"]
+urheiluakatemia.fi##IMG[src$="/tys_iso.jpg"]
+urheilukalastuslehti.fi##.art-sidebar2 a[target="_blank"]
+urheilulehti.fi##.content-bottom
+urheilusuomi.com##td[height="124"][valign="middle"]
+urheilutoimittajat.fi##TD > CENTER > A > IMG
+urheilutoimittajat.fi##TD[align="center"]
+urheiluveikkaus.com##.banneritem
+urheiluveikkaus.com###gkBottom1
+urheiluveikkaus.com##a[href^="/b/"][target="_blank"]
+urheiluveikkaus.com##a[href^="http://www.urheiluveikkaus.com/b/"][target="_blank"]
+urheiluviikko.net###rss-hilavitkutin
+urheiluviikko.net##div[style$="width:300px;height:250px;"]
+urps.fi###supplementary
+usasuomeksi.com###table2 img[width="210"]
+usasuomeksi.com###table2 img[width="468"]
+usasuomeksi.com###table2 img[width="757"]
+usasuomeksi.com##img[width="159"]
+usasuomeksi.com##img[width="234"]
+uskalla.fi##.tukijat
+usp.fi###banneri
+utbildning.se##.ContentColumnAds
+uusifuengirola.fi##.spacer
+uusikaupunki.fi###ukifi-yritys-logot
+uusikaupunki.fi##NOBR
+uusimusta.fi###yleheader
+uusirovaniemi.fi##.adContainer
+uusirovaniemi.fi##.adContainerWithMeta
+uusirovaniemi.fi##div[style*="width:956px; height:190px;"]
+uusisuomi.fi###block-quicktabs-kaupalliset-kumppanimme
+uusisuomi.fi##.us_ad_sidebar_top_section_raha
+uusisuomi.fi###block-us-site-yrityskanava
+uusisuomi.fi##.block-yhteiso_site
+uusisuomi.fi###palvelut-nosto-389
+uusisuomi.fi##.palvelut_artikkeli
+uutissiturust.fi###logobar
+uutisvirta.fi###bigbanner
+uutisvuoksi.fi##.tsFrameContainer
+vaakahuone.fi##DIV[style="padding-top: 20px;"]
+vaellusnet.com##img[src$="!cid_image001_gif@01CDE44F.gif"]
+vaellusnet.com##TABLE[width="623"]
+vaellusnet.com##td[align="left"] > p > a > img
+vaellusnet.com##td[align="left"] > table[width="75"]
+vaellusnet.com##td[width="22%"] > a > img
+vaellusnet.com##td[width="22%"] > strong:last-child
+vaikutus.fi##.mainos_etusivu
+valepa.fi##.add_scroll_box
+valkeakoskensanomat.fi##.adContainer
+valkeakoskensanomat.fi##.adContainerWithMeta
+valkeakoskensanomat.fi##div[style*="width:956px; height:190px;"]
+valmu.com##.headertopleft a[target="_blank"] > img
+valmu.com##td[style="padding-top:12px;"]
+valo-cd.fi###partners
+valoa-hanke.fi##TABLE[style="width: 265px; height: 67px;"]
+valoa-hanke.fi##TD#dnn_ctr1553_ContentPane
+valotukku.fi##TR + TR > TD > A > IMG
+vammaisurheilu.fi##td[style^="text-align:center;vertical-align:middle;width:632px"]
+vanajanlinna.fi##.banner
+vannecenter.net##TD + TD[align="center"]
+vantaalla.info##DIV[align="center"]
+vantaan-a-kilta.fi##BR + * + * + BR + IMG
+vantaannuoretasujat.net##img[src$="/vantaan-kaupunki.jpg"]
+vapaa-ajankalastaja.fi##TD + TD[valign="top"][rowspan="4"]
+vapaatohjelmat.fi##DIV[align="center"]
+varaosalinna.fi##TABLE + * + * TD + TD > IMG
+varaslahto.net##TD + TD[width="100%"]
+variantclub.fi##.mainosbanneri-linkki
+varmapoka.fi##TD > A > IMG
+varsinaissuomenkokoomus.fi##.banner
+vartti.fi##div[id^="oikotie"]
+vastuullinenyritys.fi##TD[align="right"] > A > IMG
+vau.fi###LastAdWrapper
+vau.fi###RightBanners
+vauhdinmaailma.fi###topbanner
+vauhtiajot.fi###fixu-banner
+vauhtiajot.fi###partners
+vauva.fi##.adspace_leftpalkki
+vauva.fi##.smf-footer-content
+vauva.fi###footerCovers
+vauva.fi###footerLinks
+vauva.fi###smf-sites
+vauvakino.fi##.box.banners
+vauvapiste.fi##.lispacer.vallinksboxbg
+vauvapiste.fi##P > BR + * + * + * + * IMG
+veekasi.net##TD[align="right"]
+veevee.info##IMG[style="border: medium none;"]
+veikkaus.org###rightcollumn
+veikkausliiga.com##.banner_bg
+veikkausliiga.com##.partnerbar > IMG
+veikkausliiga.com##.float-right-banner
+veikkausliiga.com##.rightsidecontainer
+veikkaussivut.com##.banner-click
+veikkaussivut.com##.offer
+venajaseura.com##.left_banners
+venenetti.fi##.ad
+venenetti.fi##.om-magazines
+venesatama.com##TD#sidebar
+vepsu.fi,vps-vaasa.fi###rt-bottom
+vepsu.fi,vps-vaasa.fi###rt-sidebar-b > .title6:nth-of-type(-n+3)
+verkatehdas.fi###footer
+verkkokirkko.fi##.bottom_center
+verkkomediamyynti.fi##DIV[style="margin-left: 20px;"]
+verkkouutiset.fi###right_banner:last-child
+verkkouutiset.fi##div[class*="nykypaiva"]
+veronmaksajat.fi##SPAN#ctl00_body_ctl00_extra1_ctl16_labelBody
+vertaisverkko.com###page TD[valign="top"][align="left"]
+vertaisverkko.com##TD[valign="middle"]
+vesanto.fi##IMG#Logo
+vesikatot.fi###ColumnBox + DIV#ColumnBox
+veteraanit.fi##DIV[style="text-align: center;"]
+victorek.fi##DIV[style="padding-top: 15px; padding-bottom: 10px;"]
+vierassatamat.fi###banners
+vierassatamat.fi###satama-banners
+vihreapolku.info##.mainbanner
+vihreat.fi##DIV > P A > IMG
+vihreateatteri.net##BR + A > IMG
+vihreatehdokkaat.fi###banneri
+vihreatnaiset.fi###banneri
+viihde.fi.msn.com##.parent.chrome25.single1.customcontainer.black DIV.mycontent
+viihde24.com##.banneri
+viihde24.com##a[rel="external"]
+viihteelle.com###sponsorad
+viikonloppu.com###content-right > h2:last-of-type
+viikonloppu.com###content-right > h2:last-of-type + a
+viikonloppu.com###content-right a[target="_blank"] > img
+viikonloppu.com###footer a[href="http://www.nebula.fi"]
+viikonloppu.com##a[href^="http://www.orkki.org/click_counter.php?"]
+viikonloppu.com##a[href^="http://www.viikonloppu.com/klikki.php?"]
+viinaavirosta.com##.widget-content:first-child IMG
+viini.haaga.fi###footer img
+viinimaa.fi##.col1-liftbox
+viipurinurheilijat.fi##.box.boxText.firstBox
+viisaankivi.fi##.banners_bannerItem
+viisukuppila.fi###text-6 DIV.art-Block-body
+villala.net##.right-column > .moduletable:last-child
+villala.net##.user1
+vimpelinveto.fi##.eventcalq + * + * + P
+vippivertailu.com##.rlinks
+virka.fi##TD#portal-column-two > DIV.visualPadding
+virtasenkauppa.fi##img[src$="/traktorimies.jpg"]
+virtuopo.net##P + * TABLE[width="100%"]
+virustorjunta.net##A > IMG[width="140"]
+visitestonia.com###sidebar > .frontbox:last-child
+visithelsinki.fi##.view-banners-display
+visitkarelia.fi###footer .clear, .logos
+visitkarelia.fi##a[href^="/fi?bannerredirect="]
+visitlakeland.fi##.footer_logot
+visitlappeenranta.fi##.logoheader a[href*="gosaimaa.com"]
+visitrauma.fi##DIV > TABLE.moduletable P > IMG
+viskari.net##.fixcenter + * + CENTER
+visulahdenjuhannus.fi###footerLogot
+visulahti.fi##.banners
+viu.fi##.centered
+viu.fi##.fadein
+vivabalansia.fi##TD[style="padding-left: 30px;"]
+vo2.fi##TABLE[style="padding-left: 0px; padding-top: 0px;"]
+voima.fi##IMG[width="120"][height="60"]
+voimapiiri.fi###footer_content_left
+voimistelu.fi##.banner
+voimistelu.fi##.frontRightSecond
+voimisteluseura.fi###zone-left table
+voitotkotiin.com##P[style="text-align: center;"]
+volvia.fi##TD[width="181"]
+vsv.fi##P[align="left"]
+vuodatus.net##DIV[style="text-align: center"] IMG
+vuokatti.fi##.mainospaikka_wide
+vuokatti.fi###column_right > .nosto_narrow:last-child
+vuokatticampus.fi##TR + * + * > TD[width="172"]
+vuokrakas.com##TD > DIV > A > IMG
+vuokraovi.com###banner
+vuokraovi.com###bottomDesktopBanner
+vuokraovi.com###content_right_outer
+vuokraovi.com###electricityCalculator
+vuokraovi.com###list_page_bottom_banner
+vuokraovi.com###topBarBanner
+vuokraovi.com##.advertising
+vuokraovi.com##.middlebannerrow
+vyy.fi###banner6
+wanajafestival.fi###footerLogot
+warkaudenlehti.fi##.sectionList_ss
+warrantti.org###Adds
+warrantti.org###rightcolumn DIV
+warrantti.org##IMG#Sefe
+wave-kielimatkat.com##TD[style="text-align: left;"]
+wdchelsinki2012.fi###layout-footer
+winpros.fi##a[href^="moduls/banner/redir.asp?"]
+winpros.fi##TD > P > A > IMG
+winpros.fi##TD[align="left"] > A > IMG
+winpros.fi##TD#tdZoneBottom
+wknd.fi###footer
+wowlehti.fi###sidebar IMG
+wsoy.fi###sites
+wsoypro.fi###footer_banner
+www.ampparit.com##ins
+www.mtv3.fi##SECTION[class="ad"]
+xhackerbox.com##.center_1 > .leftsidebox:last-of-type
+xz.fi###kilpailuLinkki
+ydinlehti.fi##.view-item.view-item-Mainokset > DIV.view-field.view-data-node-body
+yeti.fi##.oikea_laatikko
+yhteisokeskus.net##img[src$="/Pori_vari_netti.png"]
+yhteisokeskus.net##img[src$="/RAY_Tukee_CMYK_CS2.gif"]
+ykkosakseli.fi###c201
+ykkosbonus.com##DIV[align="center"] > A > IMG
+yla-savo.fi##a[href^="/modules/Banner/public/banner_redirect.aspx?id="]
+ylakainuu.fi##.adContainer
+ylakainuu.fi##.adContainerWithMeta
+ylakainuu.fi##div[style*="width:956px; height:190px;"]
+ylakaupunginyo.fi###sponsors
+yleisotyo.fi###footer
+yleisurheilu.fi##.item-list
+ylikerroin.com##DIV[style="padding-left: 10px;"]
+ylilauta.org###title + br + div > a
+ylilauta.org##.boardheader + hr + .center > :not(form)
+ylilauta.org##a[href*="affiliatelounge.com"]
+ylilauta.org##a[href*="guava-affiliate.com"]
+ylilauta.org##a[href*="kultaisetkysymykset.fi/tt/?tt="]
+ylilauta.org##a[href*="tilaus.aller.fi/tt/?tt="]
+ylilauta.org##a[href^="https://ylilauta.org/"] > img[alt=""]
+ylilauta.org##blockquote + hr + .center
+ylilauta.org##div[id^="thread_"] + * + .center
+ylilauta.org##div[id^="thread_"] + br + .center + .center
+ylilauta.org##div[id^="thread_"] + br:last-of-type + *
+ylilauta.org##div[style*="text-align"] > a
+yliopistovalmennus.fi##.mainoskikka
+ylioppilaslehti.fi##.oikeapalstakuva
+yllas-halli.fi##IMG#ctl00_sponssit
+ylojarvenilves.fi###zone-right
+ylojarvi.fi##.banner
+ymparistojakehitys.fi##B + P
+ymparistojakehitys.fi##P.PUFFIVASEN
+yourmove.fi##.footer
+yrittajanaiset.com###bannerit1p
+yrittajanaiset.fi###bannerit1p
+yrittajat.fi##.content table[width="100%"]:last-of-type td[width="33%"] a[target="_blank"]
+yrittajat.fi##.control.channelView + DIV.control.image
+yrittajat.fi##.control.channelView.grid1
+yrittajat.fi##.control.image + DIV.control.image > DIV.content > A > IMG
+yrittajat.fi##.control.image.borderBottom
+yrittajat.fi##.control.relatedContentList + DIV.control.image
+yrittajat.fi###bannerRight
+yrittajat24.fi###content_blue
+yritysmentorointi.fi###actionButtons + DIV
+yritysmentorointi.fi###partners
+yritysopas.com##.right
+yritysporssi.fi###leftcolumn
+yritysporssi.yrittajat.fi###leftcolumn
+yritystilaisuudet.fi###down-below
+ytk-yhdistys.fi##TD[width="180"]
+yyteribeachfutis.fi##.bottom-banner
+yyteribeachfutis.fi###banners
+yyteribeachfutis.fi###footer
+yyteribeachfutis.fi###top-logos-bg
+yyterijuhannus.fi###banners
+yyterintwist.fi###right
+yyterintwist.fi##TD + TD + TD > CENTER
