@@ -3,5 +3,6 @@
 ||ko.snstatic.fi^$subdocument,third-party
 ||oikotie.fi/ext/$third-party
 ||sanomamagazines.fi^*/promobox/$subdocument,third-party
+||tiede.fi^*/promobox/$subdocument,third-party
 ||tiede.fi/uutisboksi/$subdocument,third-party
 ||tyonantaja.oikotie.fi^$third-party

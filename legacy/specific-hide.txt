@@ -2412,11 +2412,6 @@ vau.fi###RightBanners
 vauhdinmaailma.fi###topbanner
 vauhtiajot.fi###fixu-banner
 vauhtiajot.fi###partners
-vauva.fi##.adspace_leftpalkki
-vauva.fi##.smf-footer-content
-vauva.fi###footerCovers
-vauva.fi###footerLinks
-vauva.fi###smf-sites
 vauvakino.fi##.box.banners
 vauvapiste.fi##.lispacer.vallinksboxbg
 vauvapiste.fi##P > BR + * + * + * + * IMG

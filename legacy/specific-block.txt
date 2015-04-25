@@ -1517,8 +1517,6 @@
 ||vastapaino.fi/vp/images/banners/
 ||vauhdinmaailma.fi/s/img/bannerit/
 ||vaunut.org/bannerit/
-||vauva.fi^*/promobox/
-||vauva.fi/files/images/cover/thumb/
 ||vauva.info/tarjous
 ||vauva.info/ts
 ||veekasi.net/*banner
