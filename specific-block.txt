@@ -1,4 +1,5 @@
 ! -------------------- specific-block.txt -------------------- !
+||autoluettelo.fi/aka/news/*banner
 ||palloliitto.fi^*/sponsor-main-logo/
 ||vuokralaiset.fi/bannerit2012/
 ||xracing.fi/tiedostot/

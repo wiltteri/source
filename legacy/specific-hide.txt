@@ -112,7 +112,6 @@ autolomat.fi###lipsum TD
 autolomat.fi##DIV > BR + A > IMG
 autolomat.fi##TD > P + P > A > IMG
 autolomat.fi##TD#colu3
-autoluettelo.fi###banner-shadow
 automaatioseura.com###yoo-scroller-1
 autot.oikotie.fi###commercial
 autot.oikotie.fi###commercial-2
