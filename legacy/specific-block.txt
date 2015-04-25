@@ -69,8 +69,6 @@
 ||artprint.fi/*banner
 ||arvontasivut.com/partner/
 ||asejaosa.fi/images/banners/
-||asiakaspalvelu.fi/images/banner
-||asiakaspalvelu.fi/images/body_bg
 ||aspro-ocio.es/EPORTAL_IMGS/GENERAL/ASPRO_AQUARIUM/IMG-$domain=tropiclandia.fi|wasalandia.fi
 ||asrestaurants.com/media/banners/bestofhelsinki
 ||asumisenabc.fi^*/vrkbanneri.swf
