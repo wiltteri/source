@@ -3,4 +3,3 @@ elisaviihde.fi#@#.outside_ad
 puhelinvertailu.com#@##ad-top-banner-placeholder
 valonpolku.com#@#a[href*="/adrotate/adrotate-out.php?"]
 ylilauta.org#@##ad_bottom
-ylilauta.org#@##hideads

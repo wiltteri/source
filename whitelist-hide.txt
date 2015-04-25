@@ -5,3 +5,4 @@ tilannehuone.fi#@#.mainos
 ! EasyList fixes
 download.fi#@##ad-top-banner-placeholder
 hervannansanomat.fi#@#.ads-left
+ylilauta.org#@##hideads
