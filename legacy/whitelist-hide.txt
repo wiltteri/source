@@ -1,5 +1,4 @@
 autot.oikotie.fi#@##ad-header
-download.fi#@##ad-top-banner-placeholder
 elisaviihde.fi#@#.outside_ad
 hervannansanomat.fi#@#.ads-left
 lamminveto.com#@#.sponsorit
