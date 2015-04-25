@@ -1582,9 +1582,6 @@
 ||ykliitto.fi/files/images/CGP_banner
 ||ykliitto.fi/files/images/globalis_logo
 ||ykliitto.fi/files/images/ihmisoikeuspeli
-||ylakainuu.fi^*/alma_init_cjs.js
-||ylakainuu.fi^*/meedio_yla_kainuu.js
-||ylakainuu.fi^*/mpbanner/
 ||ylakaupunginyo.fi/images/stories/mainostajat/
 ||ylikerroin.com/forum/ykadzz.php
 ||ylilauta.org/img/1.png

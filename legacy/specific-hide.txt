@@ -2523,9 +2523,6 @@ xz.fi###kilpailuLinkki
 ydinlehti.fi##.view-item.view-item-Mainokset > DIV.view-field.view-data-node-body
 ykkosakseli.fi###c201
 ykkosbonus.com##DIV[align="center"] > A > IMG
-ylakainuu.fi##.adContainer
-ylakainuu.fi##.adContainerWithMeta
-ylakainuu.fi##div[style*="width:956px; height:190px;"]
 ylakaupunginyo.fi###sponsors
 yleisotyo.fi###footer
 yleisurheilu.fi##.item-list
