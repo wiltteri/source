@@ -1,5 +1,6 @@
 ! -------------------- whitelist-hide.txt -------------------- !
 lamminveto.com#@#.sponsorit
+tilannehuone.fi#@#.mainos
 
 ! EasyList fixes
 download.fi#@##ad-top-banner-placeholder
