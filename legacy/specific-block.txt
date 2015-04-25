@@ -70,7 +70,6 @@
 ||arvontasivut.com/partner/
 ||asejaosa.fi/images/banners/
 ||aspro-ocio.es/EPORTAL_IMGS/GENERAL/ASPRO_AQUARIUM/IMG-$domain=tropiclandia.fi|wasalandia.fi
-||asrestaurants.com/media/banners/bestofhelsinki
 ||asumisenabc.fi^*/vrkbanneri.swf
 ||asuntohelppi.fi/bannerit/
 ||asuntoilmoitukset.com/*/images/banners/
