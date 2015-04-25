@@ -1,6 +1,5 @@
 autot.oikotie.fi#@##ad-header
 elisaviihde.fi#@#.outside_ad
-lamminveto.com#@#.sponsorit
 puhelinvertailu.com#@##ad-top-banner-placeholder
 tilannehuone.fi#@#.mainos
 valonpolku.com#@#a[href*="/adrotate/adrotate-out.php?"]

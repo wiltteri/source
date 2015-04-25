@@ -1,4 +1,6 @@
 ! -------------------- whitelist-hide.txt -------------------- !
+lamminveto.com#@#.sponsorit
+
 ! EasyList fixes
 download.fi#@##ad-top-banner-placeholder
 hervannansanomat.fi#@#.ads-left
