@@ -1,1 +1,2 @@
 ! -------------------- whitelist-block.txt -------------------- !
+@@||www.op.fi^*/mainokset/
