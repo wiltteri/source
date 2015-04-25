@@ -2562,8 +2562,6 @@ yrittajat24.fi###content_blue
 yritysmentorointi.fi###actionButtons + DIV
 yritysmentorointi.fi###partners
 yritysopas.com##.right
-yritysporssi.fi###leftcolumn
-yritysporssi.yrittajat.fi###leftcolumn
 yritystilaisuudet.fi###down-below
 ytk-yhdistys.fi##TD[width="180"]
 yyterintwist.fi###right

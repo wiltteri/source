@@ -2,3 +2,4 @@
 kaleva.fi##.grey-container
 mbnet.fi###topbanner
 mbnet.fi###tyopaikat-joblift--avainpaikat
+yritysporssi.fi##.footer_logos
