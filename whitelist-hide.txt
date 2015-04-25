@@ -1,3 +1,4 @@
 ! -------------------- whitelist-hide.txt -------------------- !
 ! EasyList fixes
 download.fi#@##ad-top-banner-placeholder
+hervannansanomat.fi#@#.ads-left
