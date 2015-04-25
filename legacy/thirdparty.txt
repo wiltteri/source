@@ -43,5 +43,4 @@
 ||meidanperhe.fi^*/promobox/$subdocument
 ||oikotie.fi/static/$subdocument,object
 ||omakaupunki.hs.fi^*/iframe/$subdocument
-||sanomamagazines.fi/promobox/$subdocument
 ||sestatic.net^*/banner-iltasanomat.html$subdocument

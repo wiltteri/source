@@ -1404,7 +1404,6 @@
 ||thaimaahan.fi/kuumatad.gif
 ||thaimaansuomalainen.com/archive/191/banner/
 ||tiaksaa.fi/images/banners/
-||tiede.fi/images/*banner
 ||tiedeuutiset.fi/sideimage.aspx?id=
 ||tieku.fi^*/emediate.js
 ||tienaus.com/img/*banner

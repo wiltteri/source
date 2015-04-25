@@ -2240,8 +2240,6 @@ thaimaa.suomalaisille.com##img[width="580"]
 thebabes.fi###linkit
 thebabes.fi##TD.oikeabannerit
 thecircus.fi###footer > A > IMG
-tiede.fi##div[style*="iltasanomat.fi/boksit/smf/"]
-tiede.fi##DIV[style="margin-top: 5px; margin-bottom: 15px;"] > DIV
 tiedonantaja.fi###banners
 tieku.fi##.pane-banner
 tietojohtajakilta.net###linkkiluettelo + DIV#linkkiluettelo
