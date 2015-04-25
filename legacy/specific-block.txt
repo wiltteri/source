@@ -77,7 +77,6 @@
 ||asuntomessut.fi/bannerihallinta/
 ||asuntotieto.com/Z-bannerit/
 ||ateneum.fi/content/s2/sponsors/
-||atkmaa.fi/logot/
 ||atvpalsta.com/bannerit/
 ||audiovideo.fi/mrhifi-banner/
 ||augustrock.fi/sites/default/files/*-logo.png
