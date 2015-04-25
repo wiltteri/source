@@ -36,15 +36,12 @@
 ||tracking*.euroads.fi^$third-party
 ||userneeds.dk^$third-party
 ! Sanoma
-||ko.snstatic.fi^
 ||snstatic.fi^*/ads/
 ||snstatic.fi^*/sanoma_bt.js
 ||iltasanomat.fi/promo/$subdocument
 ||iltasanomat.fi^*/uutisboksi/$subdocument
 ||meidanperhe.fi^*/promobox/$subdocument
-||oikotie.fi/ext/$subdocument
 ||oikotie.fi/static/$subdocument,object
 ||omakaupunki.hs.fi^*/iframe/$subdocument
 ||sanomamagazines.fi/promobox/$subdocument
 ||sestatic.net^*/banner-iltasanomat.html$subdocument
-||tiede.fi/uutisboksi/$subdocument

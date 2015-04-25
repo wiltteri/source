@@ -1269,8 +1269,6 @@ matkarasti.fi##TABLE#AutoNumber9 TR + * + * + * > TD
 matkareitti.fi##TD[align="center"]
 matkavaruste.fi##table[width="700"]
 mato78.com###rss-2
-mbnet.fi###otTp-container
-mbnet.fi###topbanner
 mediakasvatus.fi###banner_block
 mediathor.fi###ala
 mediuutiset.fi###topBanners

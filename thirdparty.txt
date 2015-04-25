@@ -1,1 +1,6 @@
 ! -------------------- thirdparty.txt -------------------- !
+! Sanoma
+||ko.snstatic.fi^$subdocument,third-party
+||oikotie.fi/ext/$third-party
+||tiede.fi/uutisboksi/$subdocument,third-party
+||tyonantaja.oikotie.fi^$third-party
