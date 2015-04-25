@@ -1,2 +1,3 @@
 ! -------------------- specific-block.txt -------------------- !
+||vuokralaiset.fi/bannerit2012/
 ||xracing.fi/tiedostot/

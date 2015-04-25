@@ -1563,7 +1563,6 @@
 ||vunet.org/images/anim/
 ||vuokatti.fi/binary/file/-/fid/1655
 ||vuokatticampus.fi/images/ban
-||vuokralaistenkeskusliitto.fi/bannerit/
 ||vuokraturva.fi/images/keskusliitto.png
 ||vuokraturva.fi/images/vuokranantajat.png
 ||vuosaari.fi/images/stories/Logot/
