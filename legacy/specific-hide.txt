@@ -2244,12 +2244,6 @@ tietokilta.fi##.boksiPieni + * > H2.boksin-otsikko + DIV.boksin-sisalto
 tietokonekauppa.fi##IMG.banner
 tietoteekkarikilta.fi###valikko div[style="text-align: center; border-top: 1px solid #ccc; border-bottom: 1px solid #ccc; font-size: 8pt;"]
 tietoturvaexpert.fi###mainfooter a.logolink
-tietoviikko.fi##.crossPromoWrapper
-tietoviikko.fi##.fp_promoPictureOnly
-tietoviikko.fi##.interstitial
-tietoviikko.fi##.samBanner
-tietoviikko.fi##.samTop
-tietoviikko.fi##.uratie_box
 tiilikatto.fi##HR + P[style="text-align: center;"]
 tikkuri.fi##.banner
 tikkurilanpalloseura.fi###zone-left .contentImageArea

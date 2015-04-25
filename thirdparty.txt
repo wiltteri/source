@@ -1,4 +1,6 @@
 ! -------------------- thirdparty.txt -------------------- !
+||uratie.fi^$third-party
+
 ! Sanoma
 ||ko.snstatic.fi^$subdocument,third-party
 ||oikotie.fi/ext/$third-party

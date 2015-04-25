@@ -2,4 +2,5 @@
 kaleva.fi##.grey-container
 mbnet.fi###topbanner
 mbnet.fi###tyopaikat-joblift--avainpaikat
+tivi.fi##.ad
 yritysporssi.fi##.footer_logos
