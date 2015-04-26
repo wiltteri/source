@@ -384,7 +384,6 @@ gameli.fi###footer
 game-pro.fi###mainfooter a.logolink
 gaming.fi##.mainos-text
 gardengym.fi###left BR + BR + A > IMG
-gaudeamus.fi##DIV > A > IMG
 gbgym.com##.textwidget
 gentleman.fi###banneri
 gentleman.fi###staatBanneri
