@@ -862,7 +862,6 @@ kivaatekemista.fi##.pystybannerit
 kivakoulu.fi###footer
 kivenlahtirock.com###block-views-Sponsorit-block_1
 kivenlahtirock.com###fws_536905a71426f
-klassinen.fi##DIV[style="clear: both; padding-top: 20px;"] + DIV[style="clear: both; padding-top: 20px;"]
 klustermus.fi###tukijat
 kmvlehti.fi##.adContainer
 kmvlehti.fi##.adContainerWithMeta

@@ -569,8 +569,6 @@
 ||kites.fi/images/stories/Digi_FIN
 ||kites.fi/images/stories/digibusinessfi
 ||kivijarvi.fi/images/vkivi.jpg
-||klassinen.fi/tiedostot/banneri/
-||klassinen.fi^*/img/rondolehti.jpg
 ||klikkaaja.net/promo/
 ||klikki.com^$third-party
 ||kmvlehti.fi^*/alma_init_cjs.js
