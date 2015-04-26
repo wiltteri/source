@@ -109,7 +109,6 @@
 ||bike.fi/img/banner//
 ||bikeplanet.fi/images/logosetti.gif
 ||bikeworld.fi/img/banners/
-||bjjliitto.fi^*/kv_banneri.swf
 ||blogit.fi/images/bonari.
 ||blogspot.com^*/sheinside.jpg$domain=kristakuparinen.blogspot.fi
 ||blues.fi^*/sponsorilogot/

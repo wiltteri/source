@@ -137,7 +137,6 @@ bilebandit.fi##TD.sisalto_oikea
 biocom.fi##TD[style="padding-top: 145px;"]
 biogrand.fi###banners
 biosculpture.fi##H1 + P + BR + P > A > IMG
-bjjliitto.fi##div[style="width:500px;float:left;font-size:12px;height:100px;border-right:1px solid #ddd;text-align:right;"]
 blogilista.fi##.is-navi-container
 blogit.fi##a[href^="http://tracking.euroads.fi"]
 blues-finland.com##TABLE[width="142"] TD > A > IMG
