@@ -709,7 +709,6 @@ kaksplus.fi##.om-magazines
 kalajoenjuhannus.com###logot
 kalakortti.com##img[src$="/VeneBat_eivuotta.jpg"]
 kalastajan.info##.sbicontent
-kalevalasyndicate.fi##DIV > IMG
 kalorilaskuri.fi##.mmargin
 kalottjazzblues.net##DIV[align="center"]
 kalpa-hockey.fi###banners
