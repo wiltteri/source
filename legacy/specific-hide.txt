@@ -392,7 +392,6 @@ glanspower.fi##TD > CENTER > BR + A > IMG
 glanspower.fi##TD > CENTER > BR + IMG
 glanspower.fi##TD.bottom
 gloria.fi###footerContent
-goldenring.fi##DIV[align="center"] + * > P
 golf.fi##.banner-content-area
 golf.fi##.footer-logos
 golf.fi##div[id*="banner"]
