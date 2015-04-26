@@ -1569,7 +1569,6 @@ plaza.fi##.google-ads-landscape
 pmmp.fi###album > *
 po1nt.fi##TD[width="114"][height="282"]
 pogostanhiihto.fi##LI > A > IMG
-pohjanmaankaupat.fi##CENTER
 pohjolansanomat.fi###secondaryCol div > a[target="_blank"] > center > img
 pohjolansanomat.fi###tertiaryCol div > a[target="_blank"] > center > img
 pohjolansanomat.fi##.adContainer
