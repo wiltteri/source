@@ -1657,9 +1657,6 @@ raahe.fi##IMG[width="192"]
 raahenseutu.fi##.adContainer
 raahenseutu.fi##div[style*="width:956px; height:190px;"]
 raakaidea.fi##TD[align="default"] > P > A > IMG
-radicalpictures.fi##A.banner
-radicalpictures.fi##CENTER > TABLE
-radicalpictures.fi##IMG.banner
 radiocity.fi##div[style$="height: 43px; background: url('/includes/topbar/bg.png') top repeat-x; z-index: 111;"]
 radiodei.fi###palsta3
 radiodei.fi###top
