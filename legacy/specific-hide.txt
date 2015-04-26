@@ -1144,7 +1144,6 @@ luotettavakauppa.fi##div[style="height:20px;"] + table[width="900"]
 luovatampere.fi##.contact > IMG
 luovatampere.fi##.tsi_bannerslot.tsi_bannerslot_2
 lupiini.com##CENTER
-luuri.com##TABLE + * + *
 luvy.fi##.right_logo
 lykky.fi###footer
 lyy.fi##.banners
