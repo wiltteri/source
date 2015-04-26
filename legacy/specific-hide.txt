@@ -813,8 +813,6 @@ kesatyopaikat.fi##TD > TABLE
 keskisuomi.fi##P + * + * + P
 keskisuomi.info##.bottomContainer.hideInPrint
 keskustanaiset.fi##.iw_modularea.iw_modularea_157
-keskustelu.jatkoaika.com###reklaamiur1
-keskustelu.jatkoaika.com##DIV[style="margin-left:auto; margin-right:auto; width:1024px; border: 1px #000000 solid; margin-bottom:5px;"]
 keskustelu.suomi24.fi###total.sanomat
 kesli.fi###zone-_main td > a[target="_blank"] > img
 kesli.fi###zone-left > .token:last-child
