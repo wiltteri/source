@@ -671,7 +671,6 @@ jukola.com##TD[width="25%"]
 jukupark.fi###panel
 juniorikalpa.fi###sponsors
 juoksija-lehti.fi##TD#dnn_ctr8664_ContentPane
-juoksufoorumi.fi##CENTER
 juontajat.fi##.alapalkki
 juontajat.fi##TD.sisalto_oikea
 jurassicrock.fi##img[usemap*="sponssit"]
