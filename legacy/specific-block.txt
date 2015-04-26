@@ -248,7 +248,6 @@
 ||fillaristit.fi/images/banners/
 ||fillaritori.com/kuvat/
 ||fin-tuning.net/bannerit/
-||fin5.fi/SSL/sslweb.nsf/images/fin5_mainospalkki_ala.gif/$FILE/fin5_mainospalkki_ala.gif
 ||finanssi.org/cms/images/logot/
 ||finanssi.org/kilta/grafiikka/*.gif
 ||finbelge.fi/kuvat/logo*.gif^

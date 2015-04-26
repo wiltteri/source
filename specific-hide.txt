@@ -2,6 +2,7 @@
 autolomat.fi###colu3
 devilskuopio.fi##table[height="5"]
 devilskuopio.fi##td[background$="oikearasteri.gif"]
+fin5.fi##.contentright_right
 kaleva.fi##.grey-container
 liike.fi###footer-right
 mbnet.fi###topbanner

@@ -1,6 +1,7 @@
 ! -------------------- specific-block.txt -------------------- !
 ||autolomat.fi^*/bannerit/
 ||autoluettelo.fi/aka/news/*banner
+||fin5.fi/wp-content/uploads/*palkki_
 ||palloliitto.fi^*/sponsor-main-logo/
 ||vuokralaiset.fi/bannerit2012/
 ||xracing.fi/tiedostot/

@@ -320,10 +320,6 @@ filmtown.fi##TD.mainbannertd
 filmtown.fi##TD.maincentertd2
 fin.afterdawn.com###ad-front-page-300x250-placeholder
 fin.afterdawn.com###midfeed-promo
-fin5.fi##.partners.clear
-fin5.fi##.supportbanner1
-fin5.fi##.supportbanner2
-fin5.fi##DIV[align="center"]
 finbelge.fi##img[src$="/toimtuk.jpg"]
 findance.com##a[href*="tradedoubler."]
 findance.com##div[id^="mediaad"]
