@@ -436,8 +436,6 @@ hdfin.com###cal_right_grey > .box_border > .box_simple_greybackgr:last-of-type
 hellapoliisi.fi##.w1 + h2.text-heading
 hellapoliisi.fi##.w1 + h2.text-heading + .box-section
 helsinginjuhlaviikot.fi###sponsors
-helsinginkisaveikot.fi##DIV[align="center"] + * IMG
-helsinginkisaveikot.fi##TD.RightPane DIV[align="center"]
 helsinginuutiset.fi###block-lehtiyhtyma_site-ads_emediate_boksi_1
 helsinginuutiset.fi###block-lehtiyhtyma_site-ads_emediate_boksi_2
 helsinginuutiset.fi###block-lehtiyhtyma_site-ads_emediate_boksi_3

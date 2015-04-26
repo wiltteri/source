@@ -1,5 +1,6 @@
 ! -------------------- thirdparty.txt -------------------- !
 ||dv.fi/content/images/stories/misc/$third-party
+||helskv.com^*/Logot/$third-party,domain=helsinginkisaveikot.fi
 ||uratie.fi^$third-party
 
 ! Sanoma
