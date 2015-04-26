@@ -1074,7 +1074,6 @@ liikkuvakoti.fi##.sidebar > .section > .block:last-child
 liikkuvatpalvelut.fi##H1 > A > IMG
 liiku.fi###content-sponsors
 liikuntakeskus.com##A[target="_blank"] > IMG
-liikuntakeskus.info##CENTER > A > IMG
 liikuntakeskussyke.fi###extras
 linnajazz.fi##P.jazzklubi
 linnajazz.fi##TD[valign="center"]

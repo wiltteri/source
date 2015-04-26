@@ -7,6 +7,7 @@ heinola.net###Banners
 jokipojat.com###right
 kaleva.fi##.grey-container
 liike.fi###footer-right
+liikuntakeskus.info##td[style="width:175px;"] a[target="_blank"]
 mbnet.fi###topbanner
 mbnet.fi###tyopaikat-joblift--avainpaikat
 tivi.fi##.ad
