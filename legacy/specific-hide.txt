@@ -732,7 +732,6 @@ kansanterveys.info##img[src$="/raytukee.png"]
 kansanuutiset.fi##.third_col
 kansanuutiset.fi###banners
 kaplaaki.fi##DIV[style="margin: 10px; position: relative; top: 10px; left: 600px; width: 120px; color: rgb(238, 238, 238); text-align: center;"]
-kapua.fi##DIV > A > IMG
 kapylacup.net##.module + DIV.module
 karaoke.fi##TD[width="60%"]
 karaoket.com##TD > A > IMG
