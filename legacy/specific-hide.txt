@@ -710,7 +710,6 @@ kalajoenjuhannus.com###logot
 kalakortti.com##img[src$="/VeneBat_eivuotta.jpg"]
 kalastajan.info##.sbicontent
 kalorilaskuri.fi##.mmargin
-kalottjazzblues.net##DIV[align="center"]
 kalpa-hockey.fi###banners
 kalpa-hockey.fi###sponsors
 kamera-lehti.fi###banners
