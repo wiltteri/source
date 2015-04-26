@@ -1,5 +1,5 @@
 ! -------------------- thirdparty.txt -------------------- !
-||dv.fi/content/images/stories/misc/$third-party
+||dv.fi/content/images/stories/misc/$third-party,domain=digivideo.fi
 ||helskv.com^*/Logot/$third-party,domain=helsinginkisaveikot.fi
 ||uratie.fi^$third-party
 
