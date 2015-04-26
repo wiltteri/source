@@ -649,7 +649,6 @@
 ||lastenparlamentti.fi/ads/
 ||lattia.net/banner/
 ||laukaanteatteri.info/uusi/images/ltback.gif
-||ldh.fi/images/lnk
 ||leatherheaven.com/editor_files/image/2012/*banner
 ||lehpa.com/images/Flash/
 ||lehtiluukku.fi/flash/*banner.swf

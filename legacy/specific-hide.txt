@@ -1042,7 +1042,6 @@ lautapeliseura.fi###footer
 lautapelit.fi##P[align="center"]
 lauttasaarenliikuntakeskus.fi##SPAN.extbanners.bottomright
 lauttasaari.fi##.moduletable_search + DIV.moduletable + DIV.moduletable
-ldh.fi##P + P[align="center"]
 leffatykki.com###ontv .details
 leffatykki.com##.ad
 leffatykki.com##.ads
