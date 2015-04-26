@@ -115,10 +115,6 @@ autotalli.com###rightBanner
 autotalli.com###rightContent > #frontPageArticles
 avainahjo.fi##TD.box
 avantimusic.fi###sponsor
-avoimet.com##.kapeat_kirjaimet.f10px.teksti_oikealle.oikea_marginaali
-avoimet.com##.kuvateksti
-avoimet.com##CENTER + * > IMG
-avoimet.com##TD > CENTER + IMG
 avoinoppikirja.fi##footer
 backyardrock.com###right
 barrikadi.fi###block-aggregator-feed-2

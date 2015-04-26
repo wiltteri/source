@@ -1,6 +1,7 @@
 ! -------------------- specific-block.txt -------------------- !
 ||autolomat.fi^*/bannerit/
 ||autoluettelo.fi/aka/news/*banner
+||avoimet.com/javascript/*_suomi.js
 ||fin5.fi/wp-content/uploads/*palkki_
 ||goldenring.fi^*/banners/
 ||heinola.net^*/banners/

@@ -2,6 +2,7 @@
 ||dv.fi/content/images/stories/misc/$third-party,domain=digivideo.fi
 ||helskv.com^*/Logot/$third-party,domain=helsinginkisaveikot.fi
 ||uratie.fi^$third-party
+||veikkaus.info/message.html$subdocument,third-party,domain=avoimet.com
 
 ! Sanoma
 ||ko.snstatic.fi^$subdocument,third-party
