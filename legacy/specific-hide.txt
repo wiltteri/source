@@ -1135,7 +1135,6 @@ liigaeura.fi##IMG[style="border-width: 0px; width: 415px; height: 330px;"]
 liigaporssi.fi##.is-bar
 liigaporssi.fi##.is-navi-container
 liigariento.org###sponsors
-liike.fi##DIV[style="text-align: center; padding-bottom: 10px; width: 605px; float: left; margin-left: 0pt; margin-right: 0pt; padding-top: 10px;"]
 liikkujanviikko.fi###left a[target="_blank"] > img
 liikkuvakoti.fi##.sidebar > .section > .block:last-child
 liikkuvatpalvelut.fi##H1 > A > IMG

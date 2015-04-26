@@ -1,5 +1,6 @@
 ! -------------------- specific-hide.txt -------------------- !
 kaleva.fi##.grey-container
+liike.fi###footer-right
 mbnet.fi###topbanner
 mbnet.fi###tyopaikat-joblift--avainpaikat
 tivi.fi##.ad
