@@ -316,9 +316,6 @@ ffp-motorsport.com###mainright
 fillarikalenteri.fi###footer
 fillarikalenteri.fi###right_banner
 fillarikalenteri.fi###top_banner_ad
-fillarikellari.fi###footer
-fillarikellari.fi###main_col1 > A > IMG
-fillarikellari.fi##DIV > P + A > IMG
 filmtown.fi##TD.mainbannertd
 filmtown.fi##TD.maincentertd2
 fin.afterdawn.com###ad-front-page-300x250-placeholder
