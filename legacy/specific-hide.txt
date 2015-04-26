@@ -743,7 +743,6 @@ karjalainen.fi##.adv_banner_bg.clearfix
 karjalainen.fi##.rokit_list
 karkiagri.fi##.logoscrollbg
 karkkainen.com##TD#Catalog_Attachment_TableCell_1
-karkkainen.fi##DIV[style="padding-left: 15px;"]
 karppakannattajat.com##div[width="325"]
 karppaus.info##TABLE.mainio
 karstula.fi##TD[valign="middle"]
