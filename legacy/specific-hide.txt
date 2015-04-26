@@ -694,9 +694,6 @@ k-citymarket.fi###footerLogos
 k-systems.fi###banners
 k-trainee.fi###footer
 kaannos.com##a[href*="suomikauppa.fi"]
-kaarle.com##.innerdiv.extraPadding > P > IMG
-kaarle.com##.primulaCardHolder
-kaarle.com##DIV > BR + A > IMG
 kaaviblues.com##P[align="center"]
 kaffecentralen.com###facebook
 kaha.fi##.PartnerLogo
