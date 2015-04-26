@@ -458,7 +458,6 @@ helvetin16.com###bannerboxall
 helvetin16.com###bannerSix
 hengenveto.fi##.hv_banner_image
 hengenveto.fi##.hv_footer
-herbbasics.fi##DIV > P > A > IMG
 herrankukkaro.fi##DIV[style="padding-top: 20px;"]
 hervannansanomat.fi##.topAd
 hetkyajassa.fi##.column > .logos-list
