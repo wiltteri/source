@@ -66,8 +66,6 @@ anna.fi###ruokafiad2
 anna.fi##.banner-box > div[style^="width: 290px; height: 250px;"]
 anna.fi##.banner-box > div[style^="width: 300px; height: 250px;"]
 anna.fi##.om-magazines
-anns-bakery.com##center > table > tbody > tr:last-child
-anns-bakery.com##img[src$="/anns-bakery-150x100.jpg"]
 anttila.fi##.sidebar.rightbar > DIV.banner
 anttolansanomat.fi##SPAN > A > IMG[style="border: 0px solid; width: 270px; height: 527px;"]
 anttolansanomat.fi##SPAN > IMG[style="border: 0px solid; width: 270px; height: 400px;"]
