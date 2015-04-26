@@ -4,6 +4,7 @@ devilskuopio.fi##table[height="5"]
 devilskuopio.fi##td[background$="oikearasteri.gif"]
 fin5.fi##.contentright_right
 heinola.net###Banners
+jokipojat.com###right
 kaleva.fi##.grey-container
 liike.fi###footer-right
 mbnet.fi###topbanner

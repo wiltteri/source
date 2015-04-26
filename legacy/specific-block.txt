@@ -463,7 +463,6 @@
 ||joensuunpalloseura.fi/images/neton.jpg
 ||jokerit.*/banner/
 ||jokikonecup.fi/jokikone/images/banners/
-||jokipojat.com/mestis/www/veikkaus/*banner
 ||josba.fi/images/*.swf
 ||josba.fi/images/banner
 ||josba.fi/swf/

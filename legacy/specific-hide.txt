@@ -645,9 +645,6 @@ jklkarting.fi##.sponsor
 jly.fi##BR + TABLE + TABLE
 joensuunkataja.fi##TR + TR + TR > TD
 johnnykniga.fi##.sidebar-add
-jokipojat.com##.rightbanner
-jokipojat.com##DIV[style="margin-top: 3px;"] IMG
-jokipojat.com##DIV[style="text-align: center;"] IMG
 joleikon.fi###contentFooter > IMG
 joli.fi##.moduletable2
 joli.fi##.moduletable3
