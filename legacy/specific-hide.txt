@@ -496,7 +496,6 @@ hok-elanto.fi###top_content_s
 hokutoryu.com##TD + TD[align="center"]
 hommaforum.org###Mod28
 hope.fi###block-block-9
-hopeinenomena.net##DIV > A > IMG#fimuglogo
 hostelacademica.fi##DIV[style="position: absolute; bottom: 100px; left: -3px;"] IMG
 hostellit.fi###lower_right P
 hotelarthur.fi###online_reservation_footer

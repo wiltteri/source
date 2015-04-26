@@ -374,7 +374,6 @@
 ||hollola.fi/uusikunta_banneri.jpg
 ||hollolanurheilijat.com/@Bin/*/Nordea.jpeg
 ||hommaforum.org/kuvia/bannerit/
-||hopeinenomena.net/*banners/
 ||hoplop.fi/tiedostot/seikkailussamukana.jpg^
 ||hopottajat.fi/bannerit/
 ||hostinger.fi/banners/
