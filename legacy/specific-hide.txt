@@ -29,7 +29,6 @@ aijaa.com###ad1
 airporttaxi.fi###finavia
 aivovammaliitto.fi##img[src$="ray.jpg"]
 ajantappo.fi###banner
-akkukauppa.com##TD[style="vertical-align: top; text-align: center;"]
 alfmix.fi##.campaign
 alibi.fi##.hymy-nosto
 alibi.fi##.om-magazines

@@ -1,4 +1,5 @@
 ! -------------------- specific-hide.txt -------------------- !
+akkukauppa.com##.ribbon + table
 autolomat.fi###colu3
 devilskuopio.fi##table[height="5"]
 devilskuopio.fi##td[background$="oikearasteri.gif"]
