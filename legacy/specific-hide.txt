@@ -1883,8 +1883,6 @@ sijoitus.org##TD[width="145"] > DIV[align="center"]
 simpsiohiihtokeskus.com###ctl00_LeftBanner2_Panel1
 sinebrychoffintaidemuseo.fi###bottomlogo
 sininauhaliitto.fi##.kuvadiv
-sinkkuna.fi##CENTER
-sinkkuna.fi##TD[width="500"]
 sinunsavo.fi###mainostajat
 sips.fi##.bannerlink
 sirkusfinlandia.fi###sponssi
