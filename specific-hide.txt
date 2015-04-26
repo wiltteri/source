@@ -1,4 +1,5 @@
 ! -------------------- specific-hide.txt -------------------- !
+autolomat.fi###colu3
 kaleva.fi##.grey-container
 liike.fi###footer-right
 mbnet.fi###topbanner

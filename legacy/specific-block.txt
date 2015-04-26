@@ -86,7 +86,6 @@
 ||autokaupat.net^*/*_banner.
 ||autokouluun.fi/pics/SV2009_Laihian_Autokoulu_Oy_FI_10085.png
 ||autollanepaliin.fi/wp-content/uploads/*banner
-||autolomat.fi/sites/autolomat/files/bannerit/
 ||automaatioseura.com/images/banners/
 ||automaatiotekniikankilta.fi/gfx/wartsila.gif
 ||autot.oikotie.fi/commercial/iframe?

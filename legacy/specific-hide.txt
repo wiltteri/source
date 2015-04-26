@@ -107,10 +107,6 @@ aurinkogolf.fi###block-block-3
 aurinkomatkat.fi##P#extlinks > A#finnair
 autismiliitto.fi##img[src="/ray.gif"]
 autoliitto.fi##.banner
-autolomat.fi###lipsum TD
-autolomat.fi##DIV > BR + A > IMG
-autolomat.fi##TD > P + P > A > IMG
-autolomat.fi##TD#colu3
 automaatioseura.com###yoo-scroller-1
 autot.oikotie.fi###commercial
 autot.oikotie.fi###commercial-2
