@@ -2114,7 +2114,6 @@ tekniikanmaailma.fi##.om-magazines
 tekniikanmaailma.fi##.YK_feedbox
 tekniikantyot.fi##TD + TD + TD[width="100%"]
 tekniikantyot.fi##TD[width="206"][align="center"]
-tekniikkaparkki.fi##CENTER
 tekniikkatalous.fi##.crossPromoWrapper
 tekniikkatalous.fi##.samBanner
 tekniikkatalous.fi##.samTop
