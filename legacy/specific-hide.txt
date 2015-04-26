@@ -927,8 +927,6 @@ kotipalvelu1.fi###really
 kotipuutarhuri.com###banner_carousel
 kotipuutarhuri.com###flash_banner
 kotipuutarhuri.com###partners
-kotirinki.fi##A + BR + P + DIV
-kotirinki.fi##DIV > BR + A > IMG
 kotitapaturma.fi##BR + A > IMG
 koululainen.fi###bannersright
 koululainen.fi##.om-magazines
