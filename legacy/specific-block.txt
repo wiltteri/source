@@ -744,7 +744,6 @@
 ||media.hongkong.fi/container.swf?
 ||mediaviikko.fi/media/bannerit/
 ||megachat.fi/*banner
-||meidancostablanca.com/images2/lehtiluukku.jpg
 ||melba-group.fi^$third-party
 ||menaiset.fi/files/images/cover/thumb/
 ||mennaannaimisiin.fi/images/*banner

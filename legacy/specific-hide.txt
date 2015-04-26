@@ -1203,9 +1203,6 @@ mediuutiset.fi##.samBanner
 mediuutiset.fi##.uratie_box
 megachat.fi##FONT > A > IMG
 megachat.fi##IMG[width="150"]
-meidancostablanca.com##CENTER > A > IMG
-meidancostablanca.com##IMG[height="150"]
-meidancostablanca.com##TD > A > IMG
 meidankotilkv.fi##TD > CENTER > A > IMG
 meidanperhe.fi##.is-navi-container
 meidanperhe.fi##.smf-footer-content
