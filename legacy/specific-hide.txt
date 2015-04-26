@@ -111,7 +111,6 @@ autotalli.com###boxAdvertisement
 autotalli.com###partnerAdvertisementsWrapper
 autotalli.com###rightBanner
 autotalli.com###rightContent > #frontPageArticles
-avainahjo.fi##TD.box
 avantimusic.fi###sponsor
 avoinoppikirja.fi##footer
 backyardrock.com###right
