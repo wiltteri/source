@@ -2126,7 +2126,6 @@ taskumuro.com###tmnostoboksi
 taskumuro.com###uranus-feed
 taskumuro.com##.om-magazines
 taskumuro.com##IMG[style="margin:0 auto;display:block"]
-teatterihelsinki.fi##DIV[align="center"] + * + * + * + * + * + P
 teatterisoittorasia.com###osa
 teatteritakomo.fi##TD[width="609"] > IMG
 tector.fi##.sectionSidebarRight
