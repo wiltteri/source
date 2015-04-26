@@ -1578,7 +1578,6 @@ poimuri.xetnet.com###banners_left
 poimuri.xetnet.com###banners_right
 pokeri.info##P[align="center"]
 pokerisivut.com###top_banner
-pokeri24.fi##CENTER IMG
 polarpharma.fi##.right
 poliisi-biitsi.com##DIV[style="position: absolute; top: 15px; left: 788px; color: white;"]
 poljin.fi##.visualPadding
