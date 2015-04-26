@@ -1,5 +1,7 @@
 ! -------------------- specific-hide.txt -------------------- !
 autolomat.fi###colu3
+devilskuopio.fi##table[height="5"]
+devilskuopio.fi##td[background$="oikearasteri.gif"]
 kaleva.fi##.grey-container
 liike.fi###footer-right
 mbnet.fi###topbanner

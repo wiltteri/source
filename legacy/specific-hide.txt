@@ -185,7 +185,6 @@ decens.fi##.footer_banners
 deifestival.fi##td[background*="taustakuvat/yhteistyomoduuli"]
 deittisirkus.com###carousel0
 designforum.fi###leftcol IMG
-devilskuopio.fi##DIV[align="center"]
 dexviihde.fi##.footer
 digishop.fi##TABLE[cellspacing="5"]
 digitoday.fi##.newsFrontAd
