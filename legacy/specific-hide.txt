@@ -206,12 +206,6 @@ dvdplaza.fi###ad_global_below_navbar
 dvdplaza.fi##.ss_rightcolumn_index
 dvdplaza.fi##td[width="100%"] > table[width="100%"][cellpadding="10"][align="center"] a > img
 e-mielenterveys.fi##img[src^="RAY_Tukee.gif"]
-eastway.fi##A + A > IMG
-eastway.fi##BR + IMG + BR + A > IMG
-eastway.fi##DIV[style="float: right; padding-right: 10px; padding-top: 8px;"]
-eastway.fi##IMG + P[style="text-align: center;"]
-eastway.fi##IMG[style="border: medium none;"]
-eastway.fi##TD[style="padding-right: 20px;"]
 easyholiday.fi##TD[valign="top"][align="center"]
 easylaina.fi##DIV[style="text-align: center;"]
 easyshopping.fi###banner_side
