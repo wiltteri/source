@@ -725,7 +725,6 @@ kankaanpaanseutu.fi##.adContainerWithMeta
 kankaanpaanseutu.fi##div[style*="width:956px; height:190px;"]
 kannus.fi##TABLE[style="width: 291px; height: 72px;"]
 kanoottiliitto.fi###zone-left
-kanresta.fi##DIV > A > IMG
 kansalaisverkko.fi##TABLE[cellspacing="8"][cellpadding="0"]
 kansanmusiikki.fi###frontnote
 kansantahto.fi##.valikko2 > P
