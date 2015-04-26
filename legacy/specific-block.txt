@@ -390,7 +390,6 @@
 ||hyvasanomapalvelut.fi/filebank/*netmission
 ||hyvinkaantahko.fi/*banner
 ||hyvinkaasali.fi/Tiedostot/*/*logo.jpg
-||hyvinvoinnin.fi/public_files/Image/Ladyvita.gif
 ||hyy.helsinki.fi/templates/hyy_*/banneri-
 ||ibbf.fi/images/*banner
 ||iesaf.fi/sauna/images/banners/

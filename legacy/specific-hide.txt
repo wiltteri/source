@@ -533,7 +533,6 @@ hymy.fi##.om-magazines
 hypo.fi###content + DIV
 hyps.fi##.banner
 hyvaterveys.fi###smf_footer
-hyvinvoinnin.fi##DIV > CENTER > IMG
 iab.fi##.right
 ibbf.fi##.cell3 > a[target="_blank"]
 icepark.fi##.banner-140-350
