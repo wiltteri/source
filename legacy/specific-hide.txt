@@ -433,7 +433,6 @@ hartwallarena.fi###collaboration-logos
 hbf.fi###sisaltoVasen1 + #sisaltoVasen1
 hdfin.com###bannertop_new
 hdfin.com###cal_right_grey > .box_border > .box_simple_greybackgr:last-of-type
-heinola.net##DIV > A > IMG
 hellapoliisi.fi##.w1 + h2.text-heading
 hellapoliisi.fi##.w1 + h2.text-heading + .box-section
 helsinginjuhlaviikot.fi###sponsors

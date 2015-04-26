@@ -320,10 +320,6 @@
 ||hartwall-areena.com/*/banner/
 ||hartwallarena.fi^*/collaboration-logos.
 ||haven.fi/images/banners/
-||heinola.net/data/jyraa/logot2.jpg
-||heinola.net/gfx/banner/
-||heinola.net/gfx/random/
-||heinola.net/gfx/virtavie.jpg
 ||hellapoliisi.fi^*/yhteistyo-logot/
 ||helmetti.fi/images/banners/
 ||helppoliikkua.fi/wp-content/themes/helppoliikkua/gfx/*logo
