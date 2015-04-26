@@ -246,8 +246,6 @@ esaimaa.fi##.banner_right
 esaimaa.fi##.banner_top
 esaimaa.fi##.fader-classifieds
 esaimaa.fi##.tsFrameContainer
-esavo.fi##.qp
-esavo.fi##DIV[style="text-align: center;"] > A > IMG
 esp.fi###right-column-wrapper
 espanja.org###sidebar-left a[rel="nofollow"] > img
 espanjanlomat.fi##DIV[style="float: right; margin: 20px;"] IMG
