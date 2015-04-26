@@ -2101,7 +2101,6 @@ tammerfest.fi##footer
 tampere-talo.fi###memberof
 tampere-talo.fi###spons
 tamperefilmfestival.fi###footer
-tampereensosiaalifoorumi.fi##DIV[style="border-top: 1px solid rgb(102, 153, 51); position: relative; left: -437px; top: 90px; width: 894px; height: 80px; text-align: center;"]
 tampereensuomalainenklubi.fi##TABLE.kuvataulu
 tampereflamenco.com##TD.logot
 tangomarkkinat.fi##table[width="212"] a.linkki
