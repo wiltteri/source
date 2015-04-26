@@ -2201,7 +2201,6 @@ ts.fi###precontent-ads
 ts.fi##.banner-box
 ts.fi##.footer-banner
 ttt-teatteri.fi##TH > A > IMG
-tuhatkunta.fi##CENTER > A > IMG
 tukiasema.net##tr:first-child a[href^="http://www."]
 tul.fi##P[align="center"]
 tul.fi##TD[align="center"][style="padding-bottom: 15px;"]
