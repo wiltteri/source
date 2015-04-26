@@ -858,7 +858,6 @@ kirjurin.fi##TD[align="middle"]
 kirkkonummi.fi##IMG[style="display: block;"]
 kissaliitto.fi###left a[target="blank"] > img[style*="padding-bottom:"]
 kitarasankari.fi###header-wrap
-kiteentarvemetalli.fi##DIV[style="float: right; margin-top: 5px; margin-right: -10px;"]
 kites.fi##IMG[width="200"]
 kivaatekemista.fi##.neliobannerit
 kivaatekemista.fi##.pystybannerit
