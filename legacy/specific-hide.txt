@@ -464,7 +464,6 @@ hetkyajassa.fi##.column > .title:last-of-type
 hetkyajassa.fi###main > .image-list > li> a > img
 hetkyajassa.fi###main > .img-box > a > img
 hetkyajassa.fi###main > .title
-hiekkadyyni.fi##DIV[style="width: 100%; height: 150px; padding-top: 25px;"] > CENTER
 hifimaailma.fi##.banner1
 hifimaailma.fi##.banner2
 hifimaailma.fi###sidebarBanners
