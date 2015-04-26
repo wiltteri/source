@@ -948,7 +948,6 @@ kuluttajaliitto.fi##IMG[src="files/1482/textsize/Zaldo_148x50_vaaka.jpg"]
 kuluttajaliitto.fi##IMG[src="files/1664/166/banner2.jpg"]
 kunniakierros.fi##.item-list > UL
 kuntalehti.fi###main_right_banners
-kuntamarkkinat.fi##DIV > P > IMG
 kunto.fi##.banner
 kunto.fi##.content-container A > IMG
 kuntokuu.fi##.row2 > .cell3
