@@ -248,7 +248,6 @@ esaimaa.fi##.fader-classifieds
 esaimaa.fi##.tsFrameContainer
 esp.fi###right-column-wrapper
 espanja.org###sidebar-left a[rel="nofollow"] > img
-espanjanlomat.fi##DIV[style="float: right; margin: 20px;"] IMG
 espanjanvesikoirat.fi###banner1
 espoocine.fi##IMG[style="width: 853px; height: 123px;"]
 espoonnuorisoasunnot.fi##img[src$="/nallogonormikoko.jpg"]
