@@ -310,7 +310,6 @@ fera.fi##TD[align="center"] > A > IMG
 festarit.fi###fp-downloads-box
 festarit.fi###page-banners-between
 festarit.fi###page-banners-footer
-festarit.org##DIV[style="text-align: center;"]
 festivals.fi##.wrapper.foot
 feto.fi##TD + TD[valign="top"][align="left"]
 ffp-motorsport.com###mainright
