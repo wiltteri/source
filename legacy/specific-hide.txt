@@ -281,7 +281,6 @@ event-travel.fi###official_partners
 event-travel.fi###partners
 everlast.fi##P > A > IMG
 everlast.fi##TD > TABLE + * TD[style="text-align: center;"] > A > IMG
-eviju.fi##DIV[style="margin: 10px 0pt 0pt;"] IMG
 evl.fi##.banneri
 f1-forum.fi##iframe[src^="http://ajantappo.fi/"]
 f-cup.fi###text-3
