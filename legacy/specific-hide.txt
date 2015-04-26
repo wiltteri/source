@@ -18,7 +18,6 @@ aarremaanalla.com###top_banner
 aawg.fi###mainfooter a.logolink
 abc.fi##TD.banneri_bannerit
 acdcrocksfinland.com###indexfooter
-acehanke.fi##TD + TD > IMG
 acoulu.fi###footer
 adoptioperheet.fi##p[align="center"] > a > img
 adressit.com##div[class="adTop"]
