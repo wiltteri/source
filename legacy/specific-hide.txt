@@ -184,7 +184,6 @@ dbtl.fi###rbeat-logo
 decens.fi##.footer_banners
 deifestival.fi##td[background*="taustakuvat/yhteistyomoduuli"]
 deittisirkus.com###carousel0
-demotus.com##DIV[style="padding-left: 10px; padding-top: 50px;"]
 designforum.fi###leftcol IMG
 devilskuopio.fi##DIV[align="center"]
 dexviihde.fi##.footer
