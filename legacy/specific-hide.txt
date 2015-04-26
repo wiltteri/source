@@ -375,7 +375,6 @@ fuengirola.fi,uusifuengirola.fi###block-aggregator-feed-2
 fuengirola.fi,uusifuengirola.fi###block-block-7 > .content
 fuengirola.fi,uusifuengirola.fi###header #block-block-1
 funforest.fi##TD[style="width: 208px;"]
-futisforum2.org##DIV[style="float: right;"]
 futismaailma.com##A > IMG[style="width: 120px; height: 50px; border: 0px none;"]
 futuuriry.net##TABLE#table493
 fysioline.fi##.right > p > a > img
