@@ -15,5 +15,8 @@ liike.fi###footer-right
 liikuntakeskus.info##td[style="width:175px;"] a[target="_blank"]
 mbnet.fi###topbanner
 mbnet.fi###tyopaikat-joblift--avainpaikat
+nesteoilrallyfinland.fi###bannerRoulette
+nesteoilrallyfinland.fi###CONT_IntroContent
+nesteoilrallyfinland.fi##.banners
 tivi.fi##.ad
 yritysporssi.fi##.footer_logos

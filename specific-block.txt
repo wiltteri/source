@@ -5,6 +5,7 @@
 ||fin5.fi/wp-content/uploads/*palkki_
 ||goldenring.fi^*/banners/
 ||heinola.net^*/banners/
+||nesteoilrallyfinland.fi/images/thumbs/
 ||palloliitto.fi^*/sponsor-main-logo/
 ||tekniikkaparkki.fi/wp-content/uploads/*_banneri_
 ||vuokralaiset.fi/bannerit2012/

@@ -831,7 +831,6 @@
 ||nestehaijaa.fi/media/kuvat/*banner
 ||nestehaijaa.fi/media/kuvat/*logo
 ||nestemertala.fi/banner_rotator*.swf
-||nesteoilrallyfinland.fi/images/sponsors/
 ||nettiasunto.com^*/banner/
 ||nettiasunto.com/vifBoxBanner.html
 ||nettiauto.com^*/banner/

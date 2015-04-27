@@ -1318,10 +1318,6 @@ nelonen.fi###zone-content-2 #block-views-promotions-block
 nelonen.fi##.field-name-field-promotion-main-image
 nelonenpro.fi##.unit-mu_html
 nestemertala.fi##IMG.logot
-nesteoilrallyfinland.fi##TD.bottom
-nesteoilrallyfinland.fi##TD[style="width: 16%; border: medium none;"]
-nesteoilrallyfinland.fi##TD[style="width: 20%; border: medium none;"]
-nesteoilrallyfinland.fi##TD[style="width: 24%; border: medium none;"]
 netmission.fi##.bannerContainer
 netmission.fi##.flashBanner
 netmission.fi##TABLE.coWorkers TD IMG
