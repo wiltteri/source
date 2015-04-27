@@ -291,7 +291,6 @@ fclahti.fi##.veikkausbox
 fcreipas.fi##.banneriboxi_980
 feissarimokat.com###adzone1-top
 feissarimokat.com###fixedtower
-fennia.fi##TD[align="center"]
 fera.fi##TD[align="center"] > A > IMG
 festarit.fi###fp-downloads-box
 festarit.fi###page-banners-between
