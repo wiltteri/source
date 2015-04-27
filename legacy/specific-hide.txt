@@ -263,8 +263,6 @@ etuovi.com###ads_col_right
 etuovi.com###ads_col_right_ip
 etuovi.com###etusivu_kl_nostopala
 etuovi.com###panorama_top
-etusivu.net###canadansanomat
-etusivu.net##TD[valign="middle"]
 euroclub.fi##.box + DIV.box
 event-travel.fi###official_partners
 event-travel.fi###partners
