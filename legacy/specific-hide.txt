@@ -1730,7 +1730,6 @@ ringette.fi##TD[style="text-align: center;"]
 ringsidegolf.fi##.logos
 ringsidegolf.fi##img[src$="/FINNAIR_Logo_Blue.PNG"]
 rintamamiestalo.fi##TD[align="left"] > A > IMG
-ripcurl.fi##P
 riverball.fi##P + * + P
 riverball.fi##TABLE#table3
 riversidetruck.fi##img[style="width:600px"]
