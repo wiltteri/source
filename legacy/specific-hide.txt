@@ -227,7 +227,6 @@ ellit.fi##.ad
 ellit.fi##.om-magazines
 elojazz.com###showbiz_kumppanit2014_1
 ellos.fi###spotBottom
-episodi.fi##UL.pro15
 epressi.com##.references
 epshockey.com###zone-left
 erakala.fi##img[src$="/logo_Suomen_MKP.jpg"]
