@@ -7,6 +7,7 @@ episodi.fi##.post-content > div[style*="color:#9e9e9e;font-size:12px;"]
 episodi.fi##.post-content > div[style*="text-align:center;background:#f9f9f9;"]
 episodi.fi##.sidebar_content_part_container > div[style*="background:#f9f9f9;text-align:center;"]
 fin5.fi##.contentright_right
+finlandiamarathon.fi###partners
 heinola.net###Banners
 jokipojat.com###right
 kaleva.fi##.grey-container

@@ -314,10 +314,6 @@ finhockey.fi###yhteistyo
 finhockey.fi###zone-_main .banner
 finhockey.fi##img[src$="/051077.jpeg"]
 finhockey.fi##img[src$="/491087-470541.jpg"]
-finlandiamarathon.fi##.content-container > H4
-finlandiamarathon.fi##.content-container TD > A > IMG
-finlandiamarathon.fi##.token.token-Content + DIV DIV[style="width: 100%; text-align: center; margin: auto ! important;"]
-finlandiamarathon.fi##TD.captionModel1 > IMG
 finlandiaseura.com##table[width="181"]
 finlandiaseura.com##table[width="252"]
 finlandiaseura.com##table[width="265"]
