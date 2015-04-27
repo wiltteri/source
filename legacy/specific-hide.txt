@@ -1738,7 +1738,6 @@ rockkonttori.net##A.rss
 rockmodels.fi##BR + * + CENTER
 rockmodels.fi##TABLE.smalltext TD + TD
 roihu.fi##TD.captionModel0 > A > IMG
-rokkikauppa.com##TD#right_division
 roosters.fi###linkcat-2
 rops.fi###sp-bottom-wrapper
 rops.fi##.sprocket-mosaic
