@@ -1753,8 +1753,6 @@ rukaadventures.fi##img[src="/images/stories/st_lapland_logo.png"]
 rumba.fi##UL.pro15
 runolaulu.fi##.valikko_pohja + * + * > IMG
 runolaulu.fi##P.laaninhallitus
-runoviikko.fi##.sidebar-text + * + * + * + * + * + DIV.sidebar-text
-runoviikko.fi###footer
 ruoka.fi##.om-magazines
 ruokala.net###hdr_container
 ruokalistat.net##.lv-border

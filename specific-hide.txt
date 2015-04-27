@@ -18,5 +18,6 @@ mbnet.fi###tyopaikat-joblift--avainpaikat
 nesteoilrallyfinland.fi###bannerRoulette
 nesteoilrallyfinland.fi###CONT_IntroContent
 nesteoilrallyfinland.fi##.banners
+runoviikko.fi###right .sidebar-text:last-of-type
 tivi.fi##.ad
 yritysporssi.fi##.footer_logos
