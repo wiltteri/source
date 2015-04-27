@@ -1125,7 +1125,6 @@
 ||s-pankki.fi/henkiloasiakkaat/*/*/_files/*/default/*.swf
 ||saariselka.fi/rtg*.swf
 ||saaristo-open.fi/wp-content/themes/saaristoopen/images/yhteistyo/
-||saastopankki.fi/VerkkopalvelutWeb/ip/sisalto.do?
 ||sahkoala.fi/bannerit/
 ||saiko.fi/images/banners/
 ||saimaablues.fi/wp-content/uploads/*logo

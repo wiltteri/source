@@ -1775,10 +1775,6 @@ saariselka.fi###banner-wrapper
 saariselka.net##img[src="images/netplaza_inari.gif"]
 saaristo-open.fi###yhteistyo
 saaristo.org##td[style^="background: url(images/etufooter.jpg)"]
-saastopankki.fi##.PieniKampanja2
-saastopankki.fi###Mainostila
-saastopankki.fi##TD.Alas.BTDot
-saastopankki.fi##TD[style="width: 185px;"]
 sahkoala.fi##a[target="_blank"] > img[src^="/_shared/_files/"]
 sahkovertailu.fi###topSection
 saimaablues.fi###footer-widgets
