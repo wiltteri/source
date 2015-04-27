@@ -1816,7 +1816,6 @@ sato.fi##.frontpageMedia
 saunalahti.fi###campaign_block
 saunalahti.fi##SPAN.naviadd > A > IMG
 saunarekka.fi###bottom-nav
-savonkinot.fi##DIV A > IMG
 savot.fi##.bannerAreaMain
 scclassic.com##DIV[style="position: absolute; font-size: 50px; z-index: 2; width: 468px; height: 60px; margin: 15px 0pt 0pt 170px;"]
 schonox.fi##.BAContentColumn
