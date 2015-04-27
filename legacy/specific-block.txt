@@ -974,7 +974,6 @@
 ||piksu.com/finance/piksu_uutisikkunat/
 ||pintakeskus-ketonen.fi/kuvat/*banner
 ||pirkanmaa.fi/files/images/logot/
-||pislaploki.com/kumppanit.jpg
 ||pistepirkko.fi/wp-content/uploads/*_affiliate.
 ||pixoff.net/images/banners/
 ||pk-35vantaa.fi/flash/
