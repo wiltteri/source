@@ -1857,9 +1857,6 @@ sirkusfinlandia.fi###sponssi
 sirkusfinlandia.fi##img[width="305"]
 sitefactory.fi##DIV[style="margin: 15px; text-align: center;"]
 sivuviidakko.fi###footer TD[align="right"]
-sixdegrees.wm.fi##.sidecol IMG
-sixdegrees.wm.fi###sidecol-top + * + * + * + DIV.module
-sixdegrees.wm.fi###sidecol-top + * + * + DIV.module
 sjal.fi##IMG[src="/@Bin/126225/eerikkila.jpg"]
 sjk2007.fi###Yhteystyölogot
 sjk2007.fi##table[style="width: 650px; height: 733px;"] tr:last-of-type

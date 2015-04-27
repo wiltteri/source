@@ -1194,7 +1194,6 @@
 ||sirkusfinlandia.fi/wp/img/sponssi/
 ||sisustakotia.fi/uploads/images/banner
 ||sivistys.net/bannerit/
-||sixdegrees.wm.fi/6d/images/banners/
 ||sjk2007.fi/images/org/yhteistyo_
 ||ski.fi/files/skifi/*bannerit/
 ||skootterini.com/images/banners/
