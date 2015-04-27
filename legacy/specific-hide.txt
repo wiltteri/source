@@ -272,7 +272,6 @@ evl.fi##.banneri
 f1-forum.fi##iframe[src^="http://ajantappo.fi/"]
 f-cup.fi###text-3
 faces.fi###secondary
-fatalii.net##HR + A > IMG
 fbtpori.fi##BR + CENTER
 fc.tps.fi###nostokuvat_rivi2
 fchaka.fi##.moduletable_left_banners
