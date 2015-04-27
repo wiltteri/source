@@ -1106,8 +1106,6 @@
 ||riku.fi/binary/file/-/fid/1344/
 ||riku.fi/binary/file/-/fid/345/
 ||ringsidegolf.fi/gfx/logos/
-||riverball.fi/images/iss_logo.gif
-||riverball.fi/images/Puma.gif
 ||roi-press.mainostaja.com./images/ccdate-140x300.gif
 ||rops.fi^*/bannerit/
 ||rops.fi^*/kumppanit/
