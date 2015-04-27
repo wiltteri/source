@@ -231,7 +231,6 @@ epressi.com##.references
 epshockey.com###zone-left
 erakala.fi##img[src$="/logo_Suomen_MKP.jpg"]
 eralehti.fi##.om-magazines
-eroticashop.net##TD > P > A > IMG
 esaimaa.fi##.banner_right
 esaimaa.fi##.banner_top
 esaimaa.fi##.fader-classifieds
