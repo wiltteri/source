@@ -6,6 +6,8 @@
 ||goldenring.fi^*/banners/
 ||heinola.net^*/banners/
 ||nesteoilrallyfinland.fi/images/thumbs/
+||oldstory.fi/wp-content/uploads/*logot_alarimpsu_
+||oldstory.fi/wp-content/uploads/*ylabanneri_
 ||palloliitto.fi^*/sponsor-main-logo/
 ||riverball.fi^*/banners/
 ||tekniikkaparkki.fi/wp-content/uploads/*_banneri_

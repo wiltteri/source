@@ -1844,7 +1844,6 @@ sey.fi##.logot
 sfnet.fi##tbody:last-child > tr.top:last-child
 sfnet.fi##td[class="otsikko2"]
 shl.fi###banner-top-slot
-shootout.fi##._menu + * + * + * DIV.module.png > DIV
 siba.fi##TABLE[width="285"]
 siipe.com##TABLE.defaultContentElem TD[align="center"]
 siipe.com##TD[valign="top"] TD[align="center"] > A > IMG
