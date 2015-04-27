@@ -1535,7 +1535,6 @@ piksu.net##DIV > P > A > IMG
 piksu.net##DIV[style="position: absolute; top: -125px; left: 850px;"]
 pipefest.net##.footer-icons
 pips.fi###sidebar a > img
-pirkankylat.fi##TABLE[style="border-collapse: collapse;"] TR > TD > P[style="margin-top: 0pt; margin-bottom: 0pt;"]
 pirkanmaa.fi###sidebar-first #block-block-15
 pirkanmaanviestinvaihto.fi##TABLE[align="left"]
 pirkka.fi###footer-top
