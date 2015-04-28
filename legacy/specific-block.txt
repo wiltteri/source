@@ -1221,7 +1221,6 @@
 ||sportti.com/kuvat/
 ||sporttimedia.fi/kuvat/*banner
 ||sro.fi/images/banners/
-||ssl.fi/SSL/sslweb.nsf/*/$FILE/*banner
 ||sss.fi/karuselli/
 ||sssoy.fi/uploads/1/image/EtusivunBannerit/
 ||st1.mun.playray.net/swf/pad/2.01/

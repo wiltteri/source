@@ -1888,8 +1888,6 @@ sportti.com##.grid_12 > div[style$=";margin-bottom:6px;"] > div[style^="float:le
 sportti.com##.grid_12 > div[style$=";margin-top:6px;"]
 sportti.info###zone-right
 sporttisaitti.com##TD[width="160"]
-ssl.fi##TABLE.tableborder
-ssl.fi##TD[align="center"]
 sss.fi##.bannerDashedBottom
 stadissa.fi###flashContent
 stll.fi###zone-right .banner
