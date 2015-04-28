@@ -1548,7 +1548,6 @@ polttoaine.net##UL > LI:last-child > IMG
 pomoselka.fi##.custom_logot
 popcircus.fi###banners
 popfestivaali.fi##TABLE#sponsor_table
-popmedia.fi##UL.pro15
 popmuusikot.fi##SPAN#spanfooter
 poptravel.fi##.main_ad_1
 porinshotokan.com##TD.captionModel0
