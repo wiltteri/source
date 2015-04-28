@@ -1356,7 +1356,6 @@ nettivaraosa.com##.inh_banner
 nettivaraosa.com##.left_part_bg
 nettivaraosa.com##div[style="border-bottom:1px solid #D4D4D4;border-top:1px solid #D4D4D4;margin:14px 0;padding:10px 0 15px 0px;min-height:80px;"]
 nettivaraosa.com##div[style="margin:10px 10px 0 15px;border-top:1px solid #d4d4d4;border-bottom:1px solid #d4d4d4;padding:15px 0"]
-nhbfinland.fi##TD[align="center"]
 nidan.fi##A > DIV[style="text-align: center"]
 nika.fi###leftlogos
 nika.fi###luotettava_kumppani
