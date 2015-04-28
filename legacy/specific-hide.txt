@@ -2299,7 +2299,6 @@ victorek.fi##DIV[style="padding-top: 15px; padding-bottom: 10px;"]
 vierassatamat.fi###banners
 vierassatamat.fi###satama-banners
 vihreat.fi##DIV > P A > IMG
-vihreateatteri.net##BR + A > IMG
 vihreatehdokkaat.fi###banneri
 vihreatnaiset.fi###banneri
 viihde24.com##.banneri
