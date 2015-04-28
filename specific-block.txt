@@ -9,6 +9,7 @@
 ||oldstory.fi/wp-content/uploads/*logot_alarimpsu_
 ||oldstory.fi/wp-content/uploads/*ylabanneri_
 ||palloliitto.fi^*/sponsor-main-logo/
+||pesaysit.fi/imgthumb.php?taulu=linkit
 ||riverball.fi^*/banners/
 ||tekniikkaparkki.fi/wp-content/uploads/*_banneri_
 ||vuokralaiset.fi/bannerit2012/

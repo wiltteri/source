@@ -1509,8 +1509,6 @@ pesakarhut.fi##DIV[align="center"] > A > IMG
 pesakarhut.fi##P > IFRAME
 pesakarhut.fi##P[align="center"] > A > IMG
 pesakarhut.fi##STRONG > A > IMG
-pesaysit.fi###lbox + DIV#lbox
-pesaysit.fi###sbox + DIV#sbox + DIV#sbox + DIV#sbox
 pesis.fi##.banner
 pesis.fi###content-banners
 pesis.fi###extrabanners
