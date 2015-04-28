@@ -399,7 +399,6 @@ haminatattoo.fi###Mod38
 hamko.fi##IMG[style="border: 0px none ; float: left;"]
 hangup.fi###mainos_block
 hangup.fi###mainospaikat_top
-hansaprint.fi###footerlinks + *
 happee.fi##.moduletable_linkit
 happee.fi##.video
 hardware.fi##.advertisement
