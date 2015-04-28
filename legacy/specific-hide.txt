@@ -1467,7 +1467,6 @@ paasykoekirjat.fi##DIV[style="text-align: center;"] > A > IMG
 paijannepurjehdus.fi###dnn_RightPane > .Container:first-of-type
 paikallisosuuspankit.fi###Mainostila
 paikkaauringossa.fi###showbanner
-paini.fi###right > H2 + P
 painiliitto.net##.bannergroup
 pakilankukkatalo.fi##.sidebox + * + DIV.sidebox
 pakkalanpalloseura.fi##.region-sidebar-second img

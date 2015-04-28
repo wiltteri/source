@@ -5,6 +5,7 @@
 ||fin5.fi/wp-content/uploads/*palkki_
 ||goldenring.fi^*/banners/
 ||heinola.net^*/banners/
+||javo.fi^*/banners/
 ||nesteoilrallyfinland.fi/images/thumbs/
 ||oldstory.fi/wp-content/uploads/*logot_alarimpsu_
 ||oldstory.fi/wp-content/uploads/*ylabanneri_
