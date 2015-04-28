@@ -13,6 +13,7 @@
 ||pattijoenurheilijat.fi^*/Bannerit/
 ||pesaysit.fi/imgthumb.php?taulu=linkit
 ||riverball.fi^*/banners/
+||takilta.fi^*/banners/
 ||tekniikkaparkki.fi/wp-content/uploads/*_banneri_
 ||vuokralaiset.fi/bannerit2012/
 ||xracing.fi/tiedostot/

@@ -1974,7 +1974,6 @@ taito.fi###colbottom
 taivashupellus.com###kumppanilogot
 taivassalo.fi##TD[style="padding-bottom: 20px;"]
 takaisintoimeen.fi##.aff
-takilta.fi##TD A > IMG
 takku.net##.block-box-left A > IMG
 tallukka.fi##UL.fpbanners IMG
 taloforum.fi##CENTER
