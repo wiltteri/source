@@ -782,7 +782,6 @@ kerubi.fi###spanfooter
 kerubi.fi##img[src="images/liityjaseneksi.png"]
 kesaduunari.fi###token-111961 IMG[style="margin-right: 0pt;"]
 kesateatteri.com##TD > TABLE TD[align="center"] + TD[align="center"]
-kesatyopaikat.fi##TD > TABLE
 keskisuomi.fi##P + * + * + P
 keskisuomi.info##.bottomContainer.hideInPrint
 keskustanaiset.fi##.iw_modularea.iw_modularea_157
