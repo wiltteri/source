@@ -36,5 +36,9 @@ rumba.fi##.jattiboksi-container
 rumba.fi##.sisalto-ilmoitus-mainos
 rumba.fi##.sisalto-ilmoitus-otsikko
 runoviikko.fi###right .sidebar-text:last-of-type
+rytmi.com###secondary a[target="_blank"]
+rytmi.com##.jattiboksi-container
+rytmi.com##.sisalto-ilmoitus-mainos
+rytmi.com##.sisalto-ilmoitus-otsikko
 tivi.fi##.ad
 yritysporssi.fi##.footer_logos

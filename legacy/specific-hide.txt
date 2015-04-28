@@ -1739,7 +1739,6 @@ ruokaohje.fi##DIV[style="border: 3px solid rgb(255, 255, 255);"]
 ruotsinsuomalainen.com##P > A > IMG
 ruotsinsuomalainen.com##TD > A > IMG
 ruutu.fi###region-ad-top
-rytmi.com##UL.pro15
 rytmiraide.fi##TABLE[align="center"]
 s-matkat.fi###mata_cycle_contentscroller
 s-matkat.fi##TABLE + IMG

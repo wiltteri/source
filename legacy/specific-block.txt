@@ -1107,7 +1107,6 @@
 ||rukaslalom.fi/images/stories/rukapyhalogo_rgb.png
 ||runnersmagazine.fi/images/banners/
 ||ruokaohje.fi/ban*/
-||rytmi.com/kuvat/tausta
 ||s-kanava.*/getbinary?siteId=1&src=/kuvat/kuvapankki/bannerit/
 ||s-matkat.fi/mata/images/logos/
 ||saariselka.fi/rtg*.swf
