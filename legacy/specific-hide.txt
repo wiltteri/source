@@ -362,7 +362,6 @@ galleryibis.com##IMG[style="position: absolute; z-index: 10; right: 0px; top: 80
 gameli.fi###footer
 game-pro.fi###mainfooter a.logolink
 gaming.fi##.mainos-text
-gardengym.fi###left BR + BR + A > IMG
 gbgym.com##.textwidget
 gentleman.fi###banneri
 gentleman.fi###staatBanneri
