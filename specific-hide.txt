@@ -48,5 +48,9 @@ soundi.fi###secondary a[target="_blank"]
 soundi.fi##.jattiboksi-container
 soundi.fi##.sisalto-ilmoitus-mainos
 soundi.fi##.sisalto-ilmoitus-otsikko
+tilt.fi###secondary a[target="_blank"]
+tilt.fi##.jattiboksi-container
+tilt.fi##.sisalto-ilmoitus-mainos
+tilt.fi##.sisalto-ilmoitus-otsikko
 tivi.fi##.ad
 yritysporssi.fi##.footer_logos
