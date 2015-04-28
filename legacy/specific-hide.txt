@@ -981,7 +981,6 @@ laine.net##.oikea_laatikko
 laitetekniikka.com##HR + * + CENTER
 lamposaato.fi##TD > A > IMG
 langatontampere.fi###footer
-lannenomavoima.fi##DIV > A + A + A + A > IMG
 lansi-savo.fi###block-block-2[style="height: 775px;"]
 lansi-savo.fi###block-block-sections-ad-block-4
 lansi-savo.fi###block-esv-uranus-esv-uranus
