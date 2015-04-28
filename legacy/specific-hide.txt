@@ -2179,8 +2179,6 @@ urheiluakatemia.fi##IMG[src$="/tys_iso.jpg"]
 urheilukalastuslehti.fi##.art-sidebar2 a[target="_blank"]
 urheilulehti.fi##.content-bottom
 urheilusuomi.com##td[height="124"][valign="middle"]
-urheilutoimittajat.fi##TD > CENTER > A > IMG
-urheilutoimittajat.fi##TD[align="center"]
 urheiluveikkaus.com##.banneritem
 urheiluveikkaus.com###gkBottom1
 urheiluveikkaus.com##a[href^="/b/"][target="_blank"]

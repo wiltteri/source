@@ -53,4 +53,5 @@ tilt.fi##.jattiboksi-container
 tilt.fi##.sisalto-ilmoitus-mainos
 tilt.fi##.sisalto-ilmoitus-otsikko
 tivi.fi##.ad
+urheilutoimittajat.fi##.banneriboxi_980
 yritysporssi.fi##.footer_logos
