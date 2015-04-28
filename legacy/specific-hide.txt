@@ -202,8 +202,6 @@ easylaina.fi##DIV[style="text-align: center;"]
 easyshopping.fi###banner_side
 eat.fi###makuja-head-link
 eazybreak.com##.logoSpace:last-child img
-eckeroline.fi###ctl00_cphRightBar_rightBar TD[align="center"]
-eckeroline.fi###ctl00_cphRightBar_UcWeather1_pnlFinnish + * TD
 edupoli.fi###content2 > DIV:first-child
 edupoli.fi###sidebar2 A > IMG
 egmontshop.fi##.NavigationText.NavBarElement2
