@@ -2425,8 +2425,6 @@ yrittajat.fi##.control.image.borderBottom
 yrittajat.fi##.control.relatedContentList + DIV.control.image
 yrittajat.fi###bannerRight
 yrittajat24.fi###content_blue
-yritysmentorointi.fi###actionButtons + DIV
-yritysmentorointi.fi###partners
 yritysopas.com##.right
 yritystilaisuudet.fi###down-below
 ytk-yhdistys.fi##TD[width="180"]
