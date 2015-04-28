@@ -1132,8 +1132,6 @@ maaporssi.fi###alapalkki
 maaporssi.fi###cooperation
 maaseutu.fi##.logos
 macpiste.fi##TD[style="vertical-align: top; text-align: center;"]
-mahl.fi###laatikko + * IMG
-mahl.fi##H2 + * + P
 mainoskeskus.com##TD.napit
 mainoskeskus.com##TR > TD[align="right"]
 makenautokoulu.fi##TD[align="center"]
