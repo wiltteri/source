@@ -1728,7 +1728,6 @@ ruisrock.fi##.partners
 ruka.fi###eulogot
 rukaadventures.fi##img[src="/images/stories/ruka_kmo.gif"]
 rukaadventures.fi##img[src="/images/stories/st_lapland_logo.png"]
-rumba.fi##UL.pro15
 runolaulu.fi##.valikko_pohja + * + * > IMG
 runolaulu.fi##P.laaninhallitus
 ruoka.fi##.om-magazines

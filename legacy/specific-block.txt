@@ -1105,7 +1105,6 @@
 ||ruka.fi/site_images/*banner
 ||rukaslalom.fi/images/stories/osuuskauppa.jpg
 ||rukaslalom.fi/images/stories/rukapyhalogo_rgb.png
-||rumba.fi/kuvat/tausta
 ||runnersmagazine.fi/images/banners/
 ||ruokaohje.fi/ban*/
 ||rytmi.com/kuvat/tausta

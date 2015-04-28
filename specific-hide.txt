@@ -31,6 +31,10 @@ nesteoilrallyfinland.fi###bannerRoulette
 nesteoilrallyfinland.fi###CONT_IntroContent
 nesteoilrallyfinland.fi##.banners
 pesaysit.fi###top
+rumba.fi###secondary a[target="_blank"]
+rumba.fi##.jattiboksi-container
+rumba.fi##.sisalto-ilmoitus-mainos
+rumba.fi##.sisalto-ilmoitus-otsikko
 runoviikko.fi###right .sidebar-text:last-of-type
 tivi.fi##.ad
 yritysporssi.fi##.footer_logos
