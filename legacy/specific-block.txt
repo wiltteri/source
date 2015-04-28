@@ -414,7 +414,6 @@
 ||incat.fi/Portals/*/Kuvat/*banner*/
 ||indecs.info/joomla*/images/stories/
 ||indecs.info/joomla*/images/yritykset/
-||inferno.fi/kuvat/tausta
 ||ircpics.com/images/new468x60.jpg
 ||ircquotes.fi/easypokerdeals_banner_black.png
 ||iro.fi^$third-party

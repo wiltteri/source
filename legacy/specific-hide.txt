@@ -554,7 +554,6 @@ imatranurheilijat.fi###ja-col2
 imperiumi.net###laby_logo
 imps.fi##.banneritem
 inarilainen.fi###extra
-inferno.fi##UL.pro15
 infrapro.fi###mainfooter a.logolink
 infrontsports.fi##.teaser_item DIV.item_wrap
 infrontsports.fi###linktoenglish + DIV > DIV.item_wrap

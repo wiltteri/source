@@ -16,6 +16,10 @@ foreca.fi###box-banner
 foreca.fi###side-banners
 foreca.fi##.top-banners
 heinola.net###Banners
+inferno.fi###secondary a[target="_blank"]
+inferno.fi##.jattiboksi-container
+inferno.fi##.sisalto-ilmoitus-mainos
+inferno.fi##.sisalto-ilmoitus-otsikko
 jokipojat.com###right
 kaleva.fi##.grey-container
 liike.fi###footer-right
