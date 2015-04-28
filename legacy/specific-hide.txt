@@ -1515,7 +1515,6 @@ pirkanmaa.fi###sidebar-first #block-block-15
 pirkanmaanviestinvaihto.fi##TABLE[align="left"]
 pirkka.fi###footer-top
 pistepirkko.fi###text-35
-pitajalainen.fi##TD[align="center"]
 pk-35.fi###parallax_pagelast
 pk-35vantaa.fi###leftcolumn DIV[style="text-align: center;"]
 plastiroll.fi###banner_container
