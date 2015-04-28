@@ -10,6 +10,7 @@
 ||oldstory.fi/wp-content/uploads/*logot_alarimpsu_
 ||oldstory.fi/wp-content/uploads/*ylabanneri_
 ||palloliitto.fi^*/sponsor-main-logo/
+||pattijoenurheilijat.fi^*/Bannerit/
 ||pesaysit.fi/imgthumb.php?taulu=linkit
 ||riverball.fi^*/banners/
 ||tekniikkaparkki.fi/wp-content/uploads/*_banneri_

@@ -1480,7 +1480,6 @@ paralympia.fi##img[src$="/ba60c4c839.jpg"]
 paratiisi.fi##.banner
 paratiisi.fi##IMG[width="150"]
 parhaatkaupat.fi##.topBanner
-pattijoenurheilijat.fi##.contentHeader + * + * + * > A > IMG
 peimari.net##P + * TR > TD > P > IMG
 pelaa.org##DIV[align="center"]
 pelaajalehti.com###konsolifin
