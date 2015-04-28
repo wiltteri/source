@@ -511,7 +511,6 @@ hvs-tennis.fi##.partners
 hymy.fi###alibi-feedbox
 hymy.fi###inhouse-banners
 hymy.fi##.om-magazines
-hypo.fi###content + DIV
 hyps.fi##.banner
 hyvaterveys.fi###smf_footer
 iab.fi##.right
