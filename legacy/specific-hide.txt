@@ -335,10 +335,6 @@ flowfestival.com##.footer-partners
 flug.fi###flug-tukijat
 flyingpelicans.net###index-gallup > P IMG
 fonecta.fi##.banner-container
-foreca.fi##.top-banners
-foreca.fi##div[style="width: 1450px; height: 400px;"]
-foreca.fi##div[style*="float: left; width: 175px;"]
-foreca.fi##div[style*="width: 100%; height: 400px;"]
 foregolf.fi##.useful_banner_manager_banners_rotation
 foreverclub.fi##A[target="new"] > IMG.imgcommon.img225x125
 foreverclub.fi##TD IMG.imgcommon.img957

@@ -273,14 +273,6 @@
 ||foorumi.info/images/bonari.
 ||foorumi.org/images/bonari.
 ||foorumit.fi/images/bonari.
-||foreca.fi/img/*mixed
-||foreca.fi/img/*takeover
-||foreca.fi/img/*rainy
-||foreca.fi/img/*sunny
-||foreca.fi/img/ForecaLeft_
-||foreca.fi/img/ForecaRight_
-||foreca.fi/img/wallpaper/
-||foreca.fi^*/foreca_haltuunotto_kehys.
 ||formamessut.fi/*banner
 ||fortone.fi/*bann
 ||forum24.fi/admin/db/bannerit/
