@@ -1209,7 +1209,6 @@
 ||sotkamolehti.fi^*/meedio_sotkamo_lehti.js
 ||sotkamolehti.fi^*/mpbanner/
 ||sottiisi.net/www/images/stories/kansanmusiikki.jpg
-||soundi.fi/sites/soundi.fi/themes/soundi/ads/
 ||spauk.fi/spauk-assa.jpg
 ||spauk.fi/spauk-elcar.jpg
 ||spauk.fi/spauk-peugeot.jpg

@@ -40,5 +40,9 @@ rytmi.com###secondary a[target="_blank"]
 rytmi.com##.jattiboksi-container
 rytmi.com##.sisalto-ilmoitus-mainos
 rytmi.com##.sisalto-ilmoitus-otsikko
+soundi.fi###secondary a[target="_blank"]
+soundi.fi##.jattiboksi-container
+soundi.fi##.sisalto-ilmoitus-mainos
+soundi.fi##.sisalto-ilmoitus-otsikko
 tivi.fi##.ad
 yritysporssi.fi##.footer_logos
