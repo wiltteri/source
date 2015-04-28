@@ -513,8 +513,6 @@
 ||karppaus.info/images/*.swf
 ||karsamaenkesa.fi/sivut/images/banners/
 ||karstula.fi/banner
-||karstulanseutu.fi/logo_valkophja*.jpg
-||karstulanseutu.fi/Y4_logo.jpg
 ||kase.fi/bannerit/
 ||katinkullanosakasklubi.fi/kuvat/osakas.jpg
 ||kauban.kotimaanetti.fi$third-party

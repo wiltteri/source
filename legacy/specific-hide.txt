@@ -710,7 +710,6 @@ karkiagri.fi##.logoscrollbg
 karppakannattajat.com##div[width="325"]
 karppaus.info##TABLE.mainio
 karstula.fi##TD[valign="middle"]
-karstulanseutu.fi##TD[align="center"]
 kassastaliittoon.fi###footer
 katsastushinnat.fi###cboxOverlay
 katsastushinnat.fi###colorbox
