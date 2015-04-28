@@ -1336,7 +1336,6 @@ nettikaravaani.com##.inh_banner
 nettikaravaani.com##.left_part_bg
 nettikaravaani.com##div[style="border-bottom:1px solid #D4D4D4;border-top:1px solid #D4D4D4;margin:14px 0;padding:10px 0 15px 0px;min-height:80px;"]
 nettikaravaani.com##div[style="margin:10px 10px 0 15px;border-top:1px solid #d4d4d4;border-bottom:1px solid #d4d4d4;padding:15px 0"]
-nettikirjakauppa.com##IMG + BR + P
 nettikone.com###bottom_list_adsense
 nettikone.com###ge_money
 nettikone.com###huge_banner

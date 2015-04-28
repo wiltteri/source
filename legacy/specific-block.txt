@@ -843,7 +843,6 @@
 ||nettikaravaani.com/leftBanner.php
 ||nettikaravaani.com/topBanner.php
 ||nettikaravaani.com/vifBoxBanner.html
-||nettikirjakauppa.com/flash/
 ||nettikone.com^*/banner/
 ||nettikone.com/leftBanner.php
 ||nettikone.com/topBanner.php
