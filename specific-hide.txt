@@ -16,6 +16,10 @@ foreca.fi###box-banner
 foreca.fi###side-banners
 foreca.fi##.top-banners
 heinola.net###Banners
+hifimaailma.fi###secondary a[target="_blank"]
+hifimaailma.fi##.jattiboksi-container
+hifimaailma.fi##.sisalto-ilmoitus-mainos
+hifimaailma.fi##.sisalto-ilmoitus-otsikko
 inferno.fi###secondary a[target="_blank"]
 inferno.fi##.jattiboksi-container
 inferno.fi##.sisalto-ilmoitus-mainos

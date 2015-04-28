@@ -435,9 +435,6 @@ hetkyajassa.fi##.column > .title:last-of-type
 hetkyajassa.fi###main > .image-list > li> a > img
 hetkyajassa.fi###main > .img-box > a > img
 hetkyajassa.fi###main > .title
-hifimaailma.fi##.banner1
-hifimaailma.fi##.banner2
-hifimaailma.fi###sidebarBanners
 hifitalo.fi##TD.sisalto > H1[align="right"]
 hifksoccer.fi###banneripalsta
 high.fi###googlejs
