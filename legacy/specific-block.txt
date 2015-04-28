@@ -1122,7 +1122,6 @@
 ||rytmi.com/kuvat/tausta
 ||s-kanava.*/getbinary?siteId=1&src=/kuvat/kuvapankki/bannerit/
 ||s-matkat.fi/mata/images/logos/
-||s-pankki.fi/henkiloasiakkaat/*/*/_files/*/default/*.swf
 ||saariselka.fi/rtg*.swf
 ||saaristo-open.fi/wp-content/themes/saaristoopen/images/yhteistyo/
 ||sahkoala.fi/bannerit/

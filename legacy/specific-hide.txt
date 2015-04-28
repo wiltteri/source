@@ -1753,8 +1753,6 @@ rytmiraide.fi##TABLE[align="center"]
 s-matkat.fi###mata_cycle_contentscroller
 s-matkat.fi##TABLE + IMG
 s-matkat.fi##TD#setukortti > A > IMG
-s-pankki.fi##.timedSlot
-s-pankki.fi###frontBottom
 saabclub.fi##.footerlogot
 saariselka.com##.footer-banners .external-link
 saariselka.com###portal-column-two .external-link
