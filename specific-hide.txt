@@ -1,6 +1,10 @@
 ! -------------------- specific-hide.txt -------------------- !
 akkukauppa.com##.ribbon + table
 autolomat.fi###colu3
+como.fi###secondary a[target="_blank"]
+como.fi##.jattiboksi-container
+como.fi##.sisalto-ilmoitus-mainos
+como.fi##.sisalto-ilmoitus-otsikko
 devilskuopio.fi##table[height="5"]
 devilskuopio.fi##td[background$="oikearasteri.gif"]
 episodi.fi##.post-content > div[style*="color:#9e9e9e;font-size:12px;"]

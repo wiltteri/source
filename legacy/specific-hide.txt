@@ -159,7 +159,6 @@ cityvarasto.fi##.content > p.rteright img.thinglinkFiltered
 classicrocksuomi.com###bannerouter
 cmsclub.fi###sidelist_banners_bottomcenter
 collieyhdistys.fi##img[src="RC.jpg"]
-como.fi##UL.pro15
 corgiseura.net##img[src$="Royal_Canin_front.jpg"]
 cosme.fi##IMG[height="66"]
 cosme.fi##IMG[width="72"][height="33"]

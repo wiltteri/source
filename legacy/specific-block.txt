@@ -148,7 +148,6 @@
 ||cmsclub.fi^*/logot/
 ||co2-raportti.fi/banners/
 ||combat.fi/images/*banner
-||como.fi/kuvat/tausta
 ||contentum.fi^$third-party
 ||coss.fi/images/sponsorlogos.jpg^
 ||creativeleadership.fi/img/*banner
