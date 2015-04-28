@@ -1870,7 +1870,6 @@ skv.fi##.banners2_skv
 skv.fi##object[id$="NordeaBanner"]
 skvl.net##.oikea img
 skvl.net##.vasen img
-sky-bar.fi##P > A > IMG
 slalom-seura.fi###oikeadiv > .box1:last-child
 sliippikuva.net##img[style*="width: 468px; height: 50px;"]
 sliippikuva.net##td[style*="width: 462px;"] > br:first-child + div[style*="text-align: center;"]
