@@ -1827,7 +1827,6 @@ seurakuntalainen.fi##.item + * + DIV.item
 seuratuki.fi##TD[align="center"] IMG
 seutulanautomaalaamo.fi##.etusivuBannerit
 seutunappi.fi##.footerLogos.noPrint
-seutuneloset.fi##BR + A > IMG
 sexpert.fi##.bottom-oikea
 sey.fi##.logot
 sfnet.fi##tbody:last-child > tr.top:last-child

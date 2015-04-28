@@ -1177,7 +1177,6 @@
 ||semio.fi/img/header/*banneri.jpg
 ||services.corame.fi/tervemedia/partner-feed/$third-party
 ||sestatic.net^*/banner.
-||seutuneloset.fi/images/CCDeitti-silma-200x200.jpg
 ||seven-1.com/matkalehti/
 ||sey.fi/files/*banner
 ||sfnet.fi/banners/
