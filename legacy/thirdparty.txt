@@ -2,17 +2,9 @@
 ||afterdawn.com/edukas_nosto_$subdocument,third-party
 ||aller.fi/banner/$third-party
 ||almamedia.fi/mp/$subdocument
-||autotalli.com/externalquicksearch?$subdocument
-||autotalli.com^*/htmlbanners/$subdocument
-||autotalli.com^*/html_multibanner/$third-party
 ||bmm.fi^$third-party
 ||diilit.com/vkl_video.html$subdocument,third-party
-||eas.almamedia.fi^
 ||etuovi.com/etuovi/flash/*_300x355.swf
-||etuovi.com^*/htmlbanners/$subdocument
-||iltalehti.fi/nostot/$subdocument
-||iltalehti.fi/uutisboksi/$subdocument
-||jdn.monster.com/render/$subdocument,third-party
 ||kauppalehti.fi/asc/$subdocument
 ||kauppalehti.fi^*/nosto/index.jsp$subdocument
 ||kauppalehti.fi^*/nostolaatikko.jsp$subdocument

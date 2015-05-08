@@ -15,5 +15,6 @@
 ||riverball.fi^*/banners/
 ||takilta.fi^*/banners/
 ||tekniikkaparkki.fi/wp-content/uploads/*_banneri_
+||telkku.com^*/images/nostot/
 ||vuokralaiset.fi/bannerit2012/
 ||xracing.fi/tiedostot/

@@ -2050,10 +2050,6 @@ teknolelu.fi##.box > DIV.textwidget
 telehaku.fi##TD.banneri_bannerit
 telehaku.fi##TD.valikko_bannerit_banneri
 telemark.fi##DIV[align="right"] IMG
-telkku.com,telkka.com,telkku.fi###klFrame
-telkku.com,telkka.com,telkku.fi###topBannerWrapper
-telkku.com,telkka.com,telkku.fi##.centerAreaAds
-telkku.com,telkka.com,telkku.fi##.il-movie-widget
 telsu.fi##a[href^="/clk?"]
 telvis.fi##.fullad-wide
 telvis.fi###adsjatti

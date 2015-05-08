@@ -19,7 +19,6 @@
 ||acoulu.faarao.org/files/images/bannerit/
 ||acoulu.fi/files/images/bannerit/
 ||adcampaigns.sharewood.org^
-||adhost.telkku.com^
 ||adoptioperheet.fi/banner
 ||afrikka.net/gfx/*banner
 ||afterdawn.fi/partner/
@@ -91,7 +90,6 @@
 ||autot.oikotie.fi/commercial/iframe?
 ||autot.oikotie.fi/nosto/$domain=hs.fi
 ||autotalli.com/autotalli_upotus/
-||autotalli.com/bannerdata/
 ||auto1.fi/ad/
 ||avain.net/banner
 ||baarihaku.fi^*/banner
@@ -1341,7 +1339,6 @@
 ||teatterikesa.fi^*/footerRoller.js
 ||teivonravit.fi/banner/
 ||tekniikanmaailma.fi^*/bannerit/
-||telkku.com^*/images/nostot/
 ||tennis.fi^*/img/sitebanner/
 ||tenojoki.fi/tenopaasivut/images/logot/
 ||terassilehti.fi/images/stories/*banner*/

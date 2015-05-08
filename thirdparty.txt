@@ -4,6 +4,13 @@
 ||uratie.fi^$third-party
 ||veikkaus.info/message.html$subdocument,third-party,domain=avoimet.com
 
+! Alma Media
+||autotalli.com^$subdocument,third-party
+||eas.almamedia.fi^$script,third-party
+||etuovi.com^$subdocument,third-party
+||iltalehti.fi^$subdocument,third-party
+||jdn.monster.com^$script,third-party
+
 ! Sanoma
 ||ko.snstatic.fi^$subdocument,third-party
 ||oikotie.fi/ext/$third-party
