@@ -8,5 +8,5 @@
 @@||imasdk.googleapis.com/js/core/bridge3.$subdocument,third-party,domain=foxplay.fi
 
 ! Ruutu.fi
-@@||adtech.de/?adrawdata/$object-subrequest,third-party,domain=groovefm.fi|hs.fi|iltasanomat.fi|istv.fi|jimtv.fi|livtv.fi|loop.fi|metrohelsinki.fi|nelonen.fi|radioaalto.fi|radiorock.fi|radiosuomipop.fi|ruutu.fi
-@@||nelonenmedia.fi^*/logo/$object-subrequest,third-party,domain=groovefm.fi|hs.fi|iltasanomat.fi|istv.fi|jimtv.fi|livtv.fi|loop.fi|metrohelsinki.fi|nelonen.fi|radioaalto.fi|radiorock.fi|radiosuomipop.fi|ruutu.fi
+@@||adtech.de/?adrawdata/$object-subrequest,third-party,domain=groovefm.fi|hs.fi|iltasanomat.fi|istv.fi|jimtv.fi|livtv.fi|loop.fi|metrohelsinki.fi|nelonen.fi|radioaalto.fi|radiorock.fi|radiosuomipop.fi|ruutu.fi|sykesport.fi
+@@||nelonenmedia.fi^*/logo/$object-subrequest,third-party,domain=groovefm.fi|hs.fi|iltasanomat.fi|istv.fi|jimtv.fi|livtv.fi|loop.fi|metrohelsinki.fi|nelonen.fi|radioaalto.fi|radiorock.fi|radiosuomipop.fi|ruutu.fi|sykesport.fi
